@@ -1,0 +1,1971 @@
+# D | Part 2 – Digestive System
+
+## A. Multiple Choice
+@ Choose the single best answer unless the question says "Select ALL".
+
+? [1] A surgeon cuts into the small intestine from the outside. In what order are these met? 1-epithelium, 2-submucosa, 3-serosa, 4-muscularis externa, 5-lamina propria, 6-muscularis mucosae
+- 3, 4, 5, 6, 2, 1
+- 1, 5, 6, 2, 4, 3
+- 3, 4, 2, 6, 5, 1
+- 5, 1, 2, 6, 4, 3
+= c
+
+? [1] The mucosa of the GI tract is made of:
+- epithelium, lamina propria and muscularis mucosae
+- submucosa and serosa
+- circular and longitudinal muscle
+- mesothelium and areolar tissue
+= a
+
+? [1] The layer with the most MALT (lymphoid nodules) is the:
+- mucosa (lamina propria)
+- submucosa
+- muscularis externa
+- serosa
+= a
+
+? [1] Which layer contains large blood and lymphatic vessels, elastic fibers and glands, and lets the stomach regain its shape?
+- mucosa
+- submucosa
+- muscularis externa
+- serosa
+= b
+
+? [1] Instead of a serosa, most of the esophagus has a(n):
+- mesentery
+- adventitia
+- lamina propria
+- omentum
+= b — the short abdominal segment below the diaphragm has a serosa.
+
+? [1] The submucosal (Meissner's) plexus mainly controls:
+- peristalsis
+- secretion and local blood flow
+- swallowing
+- defecation
+= b
+
+? [1] The myenteric (Auerbach's) plexus lies:
+- in the mucosa
+- in the submucosa
+- between the circular and longitudinal muscle layers
+- in the serosa
+= c — it mainly controls GI motility (peristalsis).
+
+? [1] The stomach has an extra muscle layer not found elsewhere in the tract. It is the:
+- circular
+- longitudinal
+- oblique (innermost)
+- striated
+= c
+
+? [1] The muscle layer that forms sphincters such as the pyloric sphincter is the:
+- inner circular layer
+- outer longitudinal layer
+- oblique layer
+- muscularis mucosae
+= a
+
+? [1] The muscularis mucosae is made of:
+- skeletal muscle
+- smooth muscle
+- cardiac muscle
+- elastic cartilage
+= b
+
+? [2] Select ALL places where skeletal (striated) muscle is found in the digestive tract: a) mouth/tongue  b) pharynx and upper esophagus  c) stomach  d) gallbladder  e) external anal sphincter
+= a, b, e
+
+? [1] The epithelium lining the mouth, esophagus and anus is:
+- simple columnar
+- stratified squamous
+- pseudostratified columnar
+- simple cuboidal
+= b
+
+? [1] The stomach, small and large intestines are lined with:
+- stratified squamous epithelium
+- simple columnar epithelium
+- transitional epithelium
+- simple squamous epithelium
+= b
+
+? [1] Which is the first step of digestion?
+- mastication
+- ingestion
+- absorption
+- propulsion
+= b — mastication (chewing) is the first mechanical digestion.
+
+? [1] The first macromolecule chemically digested after ingestion is:
+- protein
+- carbohydrate
+- lipid
+- nucleic acid
+= b — salivary amylase starts starch digestion in the mouth.
+
+? [1] The churning of the stomach is an example of:
+- chemical digestion
+- absorption
+- mechanical digestion
+- secretion
+= c
+
+? [1] Salivary amylase breaks starch into:
+- glucose and fructose
+- dextrins and maltose
+- lactose and sucrose
+- galactose and glucose
+= b
+
+? [1] The largest salivary gland, located near the masseter muscle, is the:
+- parotid
+- submandibular
+- sublingual
+- lingual
+= a — mumps causes it to swell.
+
+? [1] The gland whose duct opens at a papilla beside the lingual frenulum is the:
+- parotid
+- submandibular
+- sublingual
+- palatine
+= b
+
+? [1] Which salivary gland produces almost purely serous (watery, enzyme-rich) saliva?
+- parotid
+- submandibular
+- sublingual
+- all equally
+= a
+
+? [1] Saliva is:
+- hypertonic to plasma
+- isotonic
+- hypotonic to plasma
+- pure water
+= c — duct cells reabsorb Na+ and Cl− and secrete K+ and HCO3−.
+
+? [1] At a higher saliva flow rate, the Na+ concentration of saliva:
+- falls
+- rises
+- stays the same
+- becomes zero
+= b — duct cells have less time to reabsorb Na+.
+
+? [1] Increased secretion by all salivary glands results from:
+- sympathetic stimulation
+- parasympathetic stimulation
+- secretin
+- gastrin
+= b
+
+? [1] Which is NOT normally in saliva?
+- lysozyme
+- lingual lipase
+- IgA
+- pepsin
+= d
+
+? [1] Chloride ions in saliva activate:
+- pepsin
+- salivary amylase
+- lipase
+- trypsin
+= b
+
+? [1] Taste buds are NOT found on which papillae?
+- filiform
+- fungiform
+- circumvallate
+- foliate
+= a — filiform papillae are the most numerous and provide friction.
+
+? [1] An adult has 32 teeth: ___ incisors, ___ canines, ___ premolars and ___ molars.
+- 8, 4, 8, 12
+- 4, 4, 8, 16
+- 8, 8, 8, 8
+- 8, 4, 12, 8
+= a
+
+? [1] Teeth that grind and crush food are:
+- incisors
+- canines
+- premolars and molars
+- deciduous teeth only
+= c
+
+? [1] The hardest substance in the body is:
+- dentin
+- enamel
+- cementum
+- bone
+= b
+
+? [1] A tooth receives its blood vessels and nerves through the:
+- apical foramen
+- crown
+- enamel
+- gingiva
+= a
+
+? [1] The tissue that anchors the tooth to the periodontal ligament is:
+- enamel
+- dentin
+- cementum
+- pulp
+= c — the tooth-socket joint is a gomphosis.
+
+? [1] The uvula and soft palate:
+- close off the nasopharynx during swallowing
+- cover the glottis
+- secrete saliva
+- house the palatine tonsils
+= a
+
+? [1] The structure that folds over the glottis during swallowing is the:
+- uvula
+- epiglottis
+- soft palate
+- tongue
+= b
+
+? [1] The voluntary (oral) phase of swallowing is controlled by the tongue; the involuntary phases are coordinated by the:
+- cerebellum
+- medulla oblongata and pons
+- hypothalamus
+- spinal cord
+= b
+
+? [1] Damage to cranial nerve IX (glossopharyngeal) would most likely cause:
+- difficulty smiling
+- difficulty swallowing
+- difficulty moving the eyes
+- loss of hearing
+= b
+
+? [1] The esophagus does NOT pass through the:
+- thorax
+- mediastinum
+- pancreas
+- diaphragm
+= c
+
+? [1] The opening in the diaphragm for the esophagus is the:
+- caval opening
+- aortic hiatus
+- esophageal hiatus
+- pyloric canal
+= c
+
+? [1] The lower esophageal (cardiac) sphincter:
+- prevents stomach acid from refluxing into the esophagus
+- controls emptying into the duodenum
+- is made of skeletal muscle
+- is found in the pharynx
+= a
+
+? [1] Food that is swallowed is called a bolus; once mixed with gastric juice in the stomach it is called:
+- chyle
+- chyme
+- feces
+- lymph
+= b
+
+? [1] HCl and intrinsic factor are secreted by:
+- chief cells
+- parietal (oxyntic) cells
+- G cells
+- mucous neck cells
+= b
+
+? [1] The intracellular canaliculi of parietal cells:
+- store pepsinogen
+- greatly increase the surface area for secreting HCl
+- absorb vitamin B12
+- produce gastrin
+= b
+
+? [1] Pepsinogen is converted to pepsin by:
+- bile
+- HCl (and pepsin itself)
+- trypsin
+- secretin
+= b
+
+? [2] Select ALL enzymes secreted by gastric chief cells: a) pepsinogen  b) carbonic anhydrase  c) gastric lipase  d) rennin (in infants)  e) chymotrypsinogen
+= a, c, d
+
+? [1] Gastrin is secreted by:
+- parietal cells
+- G cells in the pyloric antrum
+- chief cells
+- the pancreas
+= b
+
+? [1] Histamine in the stomach is released by:
+- mast cells only
+- enterochromaffin-like (ECL) cells
+- chief cells
+- D cells
+= b — it stimulates parietal cells (blocked by H2 blockers such as famotidine).
+
+? [1] Somatostatin in the GI tract is secreted by:
+- D (delta) cells
+- G cells
+- S cells
+- I cells
+= a
+
+? [2] Select ALL that stimulate gastric acid secretion: a) acetylcholine  b) histamine  c) gastrin  d) secretin  e) somatostatin
+= a, b, c
+
+? [1] Which is NOT a function of gastric acid?
+- kills ingested microbes
+- converts ferric iron (Fe3+) to absorbable ferrous iron (Fe2+)
+- activates pepsinogen
+- activates trypsinogen
+= d — enteropeptidase in the duodenum activates trypsinogen.
+
+? [1] The regions of the stomach from top to bottom are:
+- cardia, fundus, body, pylorus
+- fundus, cardia, pylorus, body
+- pylorus, body, fundus, cardia
+- body, cardia, fundus, pylorus
+= a — the fundus is the dome above the cardiac opening.
+
+? [1] Gastric rugae are most visible when the stomach is:
+- full
+- empty
+- inflamed
+- contracting
+= b — they flatten as the stomach fills.
+
+? [1] The fat apron that hangs from the greater curvature of the stomach (where a "beer belly" collects) is the:
+- lesser omentum
+- greater omentum
+- mesocolon
+- falciform ligament
+= b
+
+? [1] The lesser omentum connects the lesser curvature of the stomach to the:
+- spleen
+- transverse colon
+- liver
+- diaphragm
+= c
+
+? [1] The mesentery proper suspends the:
+- jejunum and ileum
+- duodenum
+- stomach
+- esophagus
+= a
+
+? [1] Organs that lie behind the parietal peritoneum are called:
+- intraperitoneal
+- retroperitoneal
+- mesenteric
+- visceral
+= b
+
+? [2] Select ALL retroperitoneal digestive organs: a) most of the duodenum  b) pancreas (except the tail)  c) ascending colon  d) stomach  e) jejunum
+= a, b, c — also the descending colon and rectum.
+
+? [1] The peritoneal cavity, like the pleural and pericardial cavities, is:
+- filled with air
+- a potential space containing serous fluid
+- the same as the abdominopelvic cavity
+- lined by mucosa
+= b
+
+? [1] The falciform ligament:
+- attaches the liver to the anterior abdominal wall and diaphragm and divides its right and left lobes
+- attaches the stomach to the spleen
+- holds the colon
+- attaches the gallbladder to the duodenum
+= a
+
+? [1] The landmark dividing the upper from the lower GI tract is the:
+- pyloric sphincter
+- ampulla of Vater
+- suspensory ligament of the duodenum (ligament of Treitz)
+- ileocecal valve
+= c
+
+? [1] Which order of passage is correct?
+- jejunum, cecum, transverse colon, sigmoid colon, rectum
+- ileum, duodenum, cecum, ascending colon, rectum
+- duodenum, ileum, ascending colon, cecum, sigmoid colon
+- cecum, duodenum, ileum, descending colon
+= a
+
+? [1] The part of the small intestine that empties into the cecum is the:
+- duodenum
+- jejunum
+- ileum
+- appendix
+= c
+
+? [1] The longest part of the small intestine is the:
+- duodenum
+- jejunum
+- ileum
+= c — about 3.6 m; the jejunum is about 2.5 m; the duodenum about 25 cm.
+
+? [1] Plicae circulares are:
+- deep, permanent circular folds of the mucosa and submucosa in the small intestine
+- folds of the stomach
+- pouches of the colon
+- microscopic projections of cell membranes
+= a — they slow chyme and increase surface area.
+
+? [1] Lacteals are:
+- lymphatic capillaries in the villi that absorb chylomicrons
+- blood capillaries
+- ducts of the pancreas
+- glands of the colon
+= a
+
+? [1] Brunner's glands are found in the:
+- stomach
+- duodenal submucosa
+- ileum
+- colon
+= b — they secrete alkaline mucus.
+
+? [1] Peyer's patches are largest and most numerous in the:
+- duodenum
+- jejunum
+- ileum
+- stomach
+= c
+
+? [1] Paneth cells, found at the base of intestinal crypts, secrete:
+- mucus
+- lysozyme and defensins
+- secretin
+- bicarbonate
+= b
+
+? [1] Which feature is NOT used to tell the duodenum, jejunum and ileum apart?
+- presence of Brunner's glands
+- presence of Peyer's patches
+- prominence of plicae circulares
+- presence of goblet cells
+= d — all three have goblet cells.
+
+? [1] Vitamin B12 is absorbed mainly in the:
+- stomach
+- duodenum
+- jejunum
+- terminal ileum
+= d
+
+? [1] Removing the distal ileum most impairs absorption of:
+- peptides
+- sugars
+- iron
+- bile salts (and vitamin B12)
+= d
+
+? [1] Iron and calcium are absorbed mainly in the:
+- stomach
+- duodenum
+- ileum
+- colon
+= b
+
+? [1] Which substance is NOT absorbed by the stomach?
+- water
+- alcohol
+- aspirin
+- most amino acids
+= d
+
+? [1] Most water is absorbed in the:
+- stomach
+- small intestine
+- large intestine
+- esophagus
+= b — the colon absorbs most of what remains.
+
+? [1] Which is NOT a feature of the colon?
+- absorbs water and electrolytes
+- haustra
+- plicae circulares and villi
+- bacteria that make vitamin K
+= c
+
+? [1] The three longitudinal muscle bands of the colon are the:
+- haustra
+- teniae coli
+- epiploic appendages
+- rugae
+= b
+
+? [1] The first part of the large intestine is the:
+- ascending colon
+- cecum
+- sigmoid colon
+- rectum
+= b
+
+? [1] Bacterial fermentation of undigested fiber takes place in the:
+- stomach
+- small intestine
+- large intestine
+- gallbladder
+= c — gut bacteria also make vitamin K and some B vitamins.
+
+? [1] The appendix is:
+- smooth muscle with lymphoid tissue, attached to the cecum
+- skeletal muscle attached to the ileum
+- a gland of the stomach
+- part of the pancreas
+= a
+
+? [1] The internal anal sphincter is ___ muscle; the external anal sphincter is ___ muscle.
+- skeletal; smooth
+- smooth; skeletal
+- smooth; smooth
+- skeletal; skeletal
+= b
+
+? [1] Which is NOT a function of the liver?
+- makes clotting factors and albumin
+- stores glycogen
+- detoxifies blood
+- stores bile
+= d — the gallbladder stores bile.
+
+? [1] Which is NOT part of the portal triad?
+- branch of the hepatic artery
+- branch of the hepatic portal vein
+- bile duct
+- central vein
+= d
+
+? [1] Nutrient-rich blood from the intestines reaches the liver through the:
+- hepatic artery
+- hepatic portal vein
+- hepatic vein
+- inferior vena cava
+= b
+
+? [1] Kupffer cells in liver sinusoids are:
+- macrophages
+- bile-producing cells
+- fat-storing cells
+- stem cells
+= a
+
+? [1] Which liver cells are most responsible for scarring in cirrhosis?
+- hepatocytes
+- Kupffer cells
+- stellate (Ito) cells
+- cholangiocytes
+= c
+
+? [1] The basic structural unit of the liver is the:
+- acinus
+- lobule (hexagonal, with a central vein)
+- nephron
+- alveolus
+= b
+
+? [1] Bile is produced by the ______ and stored by the ______.
+- gallbladder; liver
+- liver; gallbladder
+- pancreas; gallbladder
+- liver; pancreas
+= b
+
+? [1] Bile digests fat:
+- chemically, with bile enzymes
+- mechanically, by emulsifying fat into small droplets
+- by absorbing it directly
+- it does not affect fat
+= b — bile contains no digestive enzymes.
+
+? [1] Bile is released from the gallbladder mainly in response to:
+- gastrin
+- secretin
+- cholecystokinin (CCK)
+- ghrelin
+= c
+
+? [1] The cystic duct and common hepatic duct join to form the:
+- common bile duct
+- main pancreatic duct
+- ampulla of Vater
+- hepatic portal vein
+= a
+
+? [1] The common bile duct and main pancreatic duct (duct of Wirsung) join at the ______, controlled by the sphincter of ______.
+- pylorus; Oddi
+- hepatopancreatic ampulla (of Vater); Oddi
+- cardia; Treitz
+- ileocecal valve; Boyden
+= b
+
+? [1] Obstruction of the hepatopancreatic sphincter reduces the availability of:
+- bile and HCl
+- HCl and intestinal juice
+- pancreatic juice and intestinal juice
+- pancreatic juice and bile
+= d
+
+? [1] Digestive enzymes are made by which pancreatic cells?
+- islet beta cells
+- acinar cells
+- duct cells
+- delta cells
+= b — duct cells secrete bicarbonate.
+
+? [1] About what percentage of the pancreas is exocrine tissue?
+- 1%
+- 50%
+- 75%
+- 99%
+= d
+
+? [1] Which pancreatic islet cell is correctly matched?
+- alpha – insulin
+- beta – somatostatin
+- delta – glucagon
+- F (PP) cells – pancreatic polypeptide
+= d
+
+? [1] After several hours without food, which hormone returns blood glucose to its set point?
+- insulin
+- glucagon
+- secretin
+- gastrin
+= b
+
+? [1] Pancreatic enzymes are secreted as inactive zymogens to:
+- save energy
+- prevent the pancreas from digesting itself
+- help absorption
+- avoid bile
+= b
+
+? [1] Trypsinogen is activated in the duodenum by:
+- HCl
+- enteropeptidase (enterokinase) on the brush border
+- bile
+- pepsin
+= b — trypsin then activates the other pancreatic zymogens.
+
+? [1] Steatorrhea (oily, floating stools) in a patient with chronic alcoholic pancreatitis is caused mainly by too little:
+- chymotrypsin
+- enteropeptidase
+- amylase
+- pancreatic lipase
+= d
+
+? [1] Which sugar is INCORRECTLY matched with its building blocks?
+- sucrose: glucose + fructose
+- lactose: galactose + fructose
+- maltose: glucose + glucose
+= b — lactose is glucose + galactose.
+
+? [1] Pancreatic amylase digests most carbohydrates EXCEPT:
+- starch
+- glycogen
+- cellulose
+- dextrins
+= c
+
+? [1] Lactase is located:
+- in saliva
+- in the stomach lining
+- on the brush border of small intestine villi
+- in pancreatic juice
+= c
+
+? [1] Glucose and galactose are absorbed across the apical membrane by:
+- GLUT5 facilitated diffusion
+- SGLT1 sodium cotransport (secondary active transport)
+- simple diffusion
+- pinocytosis
+= b — fructose uses GLUT5; all three leave the cell through GLUT2.
+
+? [1] Short-chain fatty acids are absorbed directly into blood capillaries, but long-chain fatty acids are:
+- absorbed into lacteals as chylomicrons
+- not absorbed
+- absorbed in the stomach
+- carried by bile to the colon
+= a
+
+? [1] The products of protein digestion enter the bloodstream mainly through cells lining the:
+- stomach
+- small intestine
+- large intestine
+- bile duct
+= b
+
+? [1] Which enzyme is active in an acidic environment?
+- salivary amylase
+- pepsin
+- trypsin
+- pancreatic lipase
+= b — pepsin works best near pH 2; this means amylase and pepsin cannot work in the same test tube.
+
+? [1] The pH of stomach contents is about ___ and the pH in the small intestine is about ___.
+- 2; 7–8
+- 7; 2
+- 5; 5
+- 9; 3
+= a
+
+? [1] The hormone that triggers bicarbonate-rich pancreatic juice when acidic chyme enters the duodenum is:
+- gastrin
+- secretin
+- CCK
+- ghrelin
+= b — secretion rises when duodenal pH drops below about 4.5.
+
+? [1] CCK is produced by I cells in the:
+- stomach
+- duodenum and jejunum (proximal small intestine)
+- pancreas
+- colon
+= b
+
+? [1] Which hormone mainly drives hunger?
+- ghrelin
+- leptin
+- gastrin
+- secretin
+= a — it is made by the stomach and acts on the hypothalamus.
+
+? [1] Leptin, which signals fullness, is released by:
+- the stomach
+- adipose tissue
+- the pancreas
+- the liver
+= b
+
+? [1 | TB] Stomach "growling" between meals (the migrating motor complex) is mostly driven by:
+- ghrelin
+- leptin
+- motilin
+- CCK
+= c
+
+? [1] GIP (glucose-dependent insulinotropic peptide) mainly:
+- stimulates insulin release after a meal
+- stimulates acid secretion
+- causes hunger
+- contracts the gallbladder
+= a
+
+? [1] Peristalsis is:
+- back-and-forth mixing by nonadjacent rings of muscle
+- waves of contraction and relaxation that push contents forward
+- voluntary movement
+- only found in the colon
+= b
+
+? [1] Segmentation mainly:
+- mixes chyme with digestive juices
+- moves chyme quickly to the colon
+- occurs only in the esophagus
+- empties the gallbladder
+= a
+
+? [1] The basic electrical rhythm (slow waves) of the stomach is about:
+- 3 per minute
+- 12 per minute
+- 30 per minute
+- 60 per minute
+= a — about 12/min in the duodenum and 8–9/min in the ileum.
+
+? [1] The parasympathetic nervous system influences digestion by:
+- relaxing smooth muscle
+- stimulating peristalsis and secretion
+- constricting sphincters
+- stopping saliva
+= b — mainly through the vagus nerve.
+
+? [1] The nerve that links the sight, smell and thought of food to gastric secretion (cephalic phase) is the:
+- vagus nerve
+- trigeminal nerve
+- phrenic nerve
+- olfactory nerve
+= a
+
+? [1] The gastrocolic reflex:
+- increases colon motility after a meal enters the stomach
+- slows the stomach when the duodenum is full
+- closes the epiglottis
+- causes vomiting
+= a
+
+? [1] The enterogastric reflex:
+- speeds gastric emptying
+- slows gastric emptying when the duodenum is stretched or acidic
+- triggers saliva
+- triggers defecation
+= b
+
+? [1] Someone eats buttered toast, cream and eggs. Which will happen?
+- gastric motility and HCl fall when the fatty chyme reaches the duodenum
+- gastric secretion increases while the person is still chewing
+- bile emulsifies the fat in the duodenum
+- all of the above
+= d
+
+? [1] Pyloric stenosis in an infant who vomits after every feeding most likely causes:
+- metabolic acidosis
+- metabolic alkalosis
+- ketosis
+- jaundice
+= b — loss of stomach acid.
+
+? [1] Bloating and diarrhea after milk is most likely what type of diarrhea?
+- secretory
+- osmotic
+- exudative (inflammatory)
+- motility
+= b
+
+? [1] Cholera toxin causes which type of diarrhea?
+- osmotic
+- secretory
+- exudative
+- fatty
+= b
+
+? [1] Which over-the-counter drug is NOT used for diarrhea?
+- bismuth subsalicylate (Pepto-Bismol)
+- loperamide (Imodium)
+- kaolin-pectin
+- albuterol
+= d
+
+? [1] The bacterium that causes most peptic ulcers is:
+- E. coli
+- Helicobacter pylori
+- Salmonella
+- Clostridioides difficile
+= b
+
+? [1] Which is NOT a major cause of duodenal ulcers?
+- H. pylori
+- NSAIDs
+- gastrin-secreting tumor (Zollinger-Ellison)
+- caffeine
+= d
+
+? [1] GERD is caused by a weak:
+- pyloric sphincter
+- lower esophageal sphincter
+- ileocecal valve
+- upper esophageal sphincter
+= b
+
+? [1] In Barrett's esophagus, long-term reflux changes the esophageal lining from:
+- stratified squamous to simple columnar
+- simple columnar to stratified squamous
+- simple squamous to cuboidal
+- pseudostratified to simple squamous
+= a — it raises the risk of esophageal adenocarcinoma.
+
+? [1] Nissen fundoplication, wrapping the fundus around the lower esophagus, treats:
+- appendicitis
+- GERD (and hiatal hernia)
+- celiac disease
+- cirrhosis
+= b
+
+? [1] A hiatal hernia is:
+- part of the stomach pushing up through the diaphragm
+- a bulge in the groin
+- an outpouching of the colon
+- a torn esophagus
+= a
+
+? [1] Celiac disease is an immune reaction to:
+- gluten
+- lactose
+- nuts
+- shellfish
+= a — it flattens the villi of the small intestine.
+
+? [1] The itchy, blistering skin rash linked to celiac disease is:
+- psoriasis
+- dermatitis herpetiformis
+- eczema
+- hives
+= b
+
+? [1] Crohn's disease differs from ulcerative colitis because Crohn's:
+- affects only the colon and rectum
+- can affect any part of the tract from mouth to anus, in patches, through the full wall thickness
+- never causes diarrhea
+- is caused by bacteria
+= b — ulcerative colitis is continuous, starts at the rectum and involves only the mucosa.
+
+? [1] A pANCA-positive, ASCA-negative blood test with chronic bloody diarrhea suggests:
+- Crohn's disease
+- ulcerative colitis
+- celiac disease
+- appendicitis
+= b
+
+? [1] Pain that starts around the navel and moves to the right lower quadrant with nausea suggests:
+- kidney stone
+- appendicitis
+- hepatitis
+- gallstones
+= b — the point of maximal tenderness is McBurney's point.
+
+? [1] Pressing on the left lower quadrant causes pain in the right lower quadrant. This is:
+- Murphy's sign
+- Rovsing's sign
+- Courvoisier's sign
+- obturator sign
+= b
+
+? [1] The most common cause of appendicitis in children is:
+- fecalith
+- lymphoid tissue hyperplasia
+- tumor
+- diverticula
+= b — in adults, a fecalith is more common.
+
+? [1] Diverticulitis is:
+- inflamed, infected pouches in the colon wall
+- inflamed appendix
+- a stomach ulcer
+- inflamed gallbladder
+= a — low-fiber diets and constipation raise the risk.
+
+? [1] Which hepatitis virus spreads by the fecal-oral route through contaminated food and shellfish?
+- A
+- B
+- C
+- D
+= a — it usually resolves completely; it never becomes chronic.
+
+? [1] Which hepatitis virus is a leading cause of cirrhosis and liver transplants in the US?
+- A
+- B
+- C
+- E
+= c
+
+? [1] Hepatitis D can only infect people who also have hepatitis:
+- A
+- B
+- C
+- E
+= b
+
+? [1] Cirrhosis is:
+- a reversible fatty liver
+- replacement of liver tissue by scar tissue and regenerative nodules
+- an infection of the gallbladder
+- a type of hepatitis virus
+= b
+
+? [2] Select ALL that commonly cause liver cirrhosis: a) chronic heavy alcohol use  b) hepatitis B or C  c) fatty liver disease  d) hepatitis A  e) aflatoxin exposure alone
+= a, b, c
+
+? [1] Jaundice is caused by a build-up of:
+- biliverdin in the skin
+- bilirubin
+- bile salts
+- urobilin
+= b
+
+? [1] Bilirubin is made from the breakdown of:
+- bile salts
+- heme from old red blood cells
+- albumin
+- cholesterol
+= b
+
+? [1] The liver conjugates bilirubin to glucuronic acid to make it:
+- more water-soluble so it can be excreted in bile
+- less soluble
+- an enzyme
+- a hormone
+= a
+
+? [1] Feces are brown mainly because of:
+- bilirubin
+- stercobilin
+- urobilin
+- iron
+= b
+
+? [1] The two main types of gallstones are:
+- cholesterol and pigment stones
+- calcium oxalate and uric acid
+- struvite and cystine
+- protein and fat
+= a
+
+? [1] Pressing under the right ribs while the patient breathes in causes sudden pain and a stop in inhalation. This is:
+- Rovsing's sign
+- Murphy's sign (gallbladder inflammation)
+- McBurney's point
+- Courvoisier's sign
+= b
+
+? [1] Deep epigastric pain radiating to the back, eased by leaning forward, with greasy stools and weight loss, suggests:
+- pancreatic disease (pancreatitis or cancer)
+- appendicitis
+- GERD
+- gastritis
+= a
+
+? [1] Painless jaundice with a palpable, non-tender gallbladder (Courvoisier's sign) suggests a tumor in the:
+- tail of the pancreas
+- head of the pancreas
+- appendix
+- stomach
+= b
+
+? [1] Weight loss, fatigue and blood in the stool in a 60-year-old most strongly suggest:
+- esophageal cancer
+- colon cancer
+- hepatitis A
+- lactose intolerance
+= b — screen with colonoscopy; colorectal cancers grow from adenomatous polyps.
+
+? [1] A colon tumor that circles the bowel can look like an "apple core" on barium x-ray. Colorectal cancer usually starts as a(n):
+- adenomatous polyp
+- ulcer
+- diverticulum
+- lymph node
+= a — the APC gene is often mutated first.
+
+? [1] Which is NOT a risk factor for GI cancer?
+- smoking and alcohol
+- GERD (esophageal adenocarcinoma)
+- obesity
+- regular exercise
+= d
+
+? [1] Obesity is most strongly linked to which GI cancer?
+- colorectal cancer
+- anal cancer
+- small bowel cancer
+- tongue cancer
+= a — it also raises the risk of esophageal, liver and pancreatic cancers.
+
+? [1] A Klatskin tumor (cholangiocarcinoma) occurs in the:
+- bile ducts
+- pancreatic duct
+- stomach
+- colon
+= a
+
+? [1] Xerostomia is:
+- excess saliva
+- extreme dryness of the mouth
+- difficulty swallowing
+- bad breath
+= b
+
+? [1] Difficulty swallowing is called:
+- dyspepsia
+- dysphagia
+- dysphasia
+- dyspnea
+= b
+
+? [1] Scurvy is caused by a deficiency of:
+- vitamin A
+- vitamin C
+- vitamin D
+- vitamin K
+= b
+
+? [1] The fat-soluble vitamins are:
+- B and C
+- A, D, E and K
+- B12 and folate
+- C and K only
+= b
+
+? [1] A defect that prevents enterocytes from releasing chylomicrons would cause all EXCEPT:
+- poor absorption of fat
+- diarrhea and abdominal swelling
+- vitamin E deficiency
+- vitamin B deficiency
+= d — B vitamins are water-soluble.
+
+? [1] The midgut is supplied by the:
+- celiac trunk
+- superior mesenteric artery
+- inferior mesenteric artery
+- renal artery
+= b — foregut = celiac trunk; hindgut = inferior mesenteric artery.
+
+? [1] The foregut, midgut and hindgut are defined by their:
+- digestive function
+- embryonic origin and arterial blood supply
+- epithelium
+- nerve supply only
+= b
+
+? [1] The distal esophagus and upper stomach are supplied by the:
+- left gastric artery
+- right gastric artery
+- splenic artery
+- superior mesenteric artery
+= a
+
+? [1 | TB] Which part of the colon is most vulnerable to ischemia because it lies at the border of two arterial territories?
+- cecum
+- hepatic flexure
+- splenic flexure
+- sigmoid colon
+= c
+
+? [1] Which organ lies under the diaphragm in the left upper quadrant?
+- appendix
+- gallbladder
+- spleen
+- duodenum
+= c
+
+? [1] In the abdominal quadrants, the appendix is in the ___, the liver mostly in the ___ and the stomach mostly in the ___.
+- RLQ; RUQ; LUQ
+- LLQ; LUQ; RUQ
+- RUQ; RLQ; LLQ
+- LUQ; RUQ; RLQ
+= a
+
+
+? [1] The six essential activities of the digestive system, in order, are:
+- ingestion, propulsion, mechanical digestion, chemical digestion, absorption, defecation
+- absorption, ingestion, defecation, propulsion, digestion, secretion
+- chemical digestion, ingestion, absorption, propulsion, defecation, mechanical digestion
+- ingestion, absorption, chemical digestion, propulsion, mechanical digestion, defecation
+= a
+
+? [1] Which organ is an accessory organ of digestion rather than part of the alimentary canal?
+- stomach
+- pancreas
+- jejunum
+- esophagus
+= b — accessory organs: teeth, tongue, salivary glands, liver, gallbladder, pancreas.
+
+? [1] Which is an example of mechanical digestion?
+- pepsin cleaving peptide bonds
+- bile emulsifying fat
+- lactase splitting lactose
+- amylase breaking starch
+= b — chewing, churning and segmentation are also mechanical.
+
+? [1] Chemical digestion always involves:
+- hydrolysis of bonds by enzymes
+- tearing food into smaller pieces
+- emulsification
+- absorption
+= a
+
+? [1] Which pair shows mechanical then chemical digestion in the mouth?
+- chewing; salivary amylase
+- swallowing; pepsin
+- lingual lipase; chewing
+- peristalsis; bile
+= a
+
+? [1] The esophagus is lined by ___, the stomach by ___, and the small and large intestines by ___.
+- simple columnar; stratified squamous; simple squamous
+- nonkeratinized stratified squamous; simple columnar (mucus-secreting surface cells); simple columnar
+- simple squamous; simple cuboidal; transitional
+- pseudostratified; stratified squamous; simple columnar
+= b
+
+? [1] Which feature is found in the large intestine but NOT the small intestine?
+- villi
+- many goblet cells and straight crypts with no villi
+- Brunner's glands
+- plicae circulares
+= b
+
+? [1] Which lining feature is found only in the stomach?
+- villi
+- gastric pits leading to gastric glands
+- haustra
+- Peyer's patches
+= b
+
+? [1] Which lining best resists abrasion?
+- esophagus
+- stomach
+- jejunum
+- colon
+= a — stratified squamous epithelium.
+
+? [1] Trypsin, chymotrypsin and carboxypeptidase are:
+- carbohydrases from the salivary glands
+- proteases from the pancreas
+- lipases from the liver
+- nucleases from the stomach
+= b
+
+? [1] Pepsin breaks proteins into:
+- amino acids only
+- smaller polypeptides
+- fatty acids
+- glucose
+= b — brush-border peptidases finish digestion to amino acids, dipeptides and tripeptides.
+
+? [1] Amino acids are absorbed into intestinal cells mainly by:
+- simple diffusion
+- sodium-dependent cotransport (secondary active transport)
+- chylomicrons
+- pinocytosis only
+= b — they enter blood capillaries and travel to the liver.
+
+? [1] Colipase is needed because it:
+- anchors pancreatic lipase to fat droplets coated in bile salts
+- digests starch
+- activates pepsin
+- breaks down bile
+= a
+
+? [1] Inside intestinal cells, absorbed fatty acids and monoglycerides are:
+- reassembled into triglycerides and packed into chylomicrons
+- turned into glucose
+- secreted back into the lumen
+- stored permanently
+= a
+
+? [1] During intense exercise, blood flow to the digestive tract:
+- rises sharply
+- falls, as sympathetic activity redirects blood to muscles
+- stays the same
+- stops completely
+= b — it can fall by up to 80%.
+
+? [1] Vigorous exercise soon after a large meal can cause cramps and nausea because:
+- digestion speeds up too much
+- sympathetic activity slows digestion and reduces gut blood flow
+- bile production stops
+- the stomach makes more acid
+= b
+
+? [1] Regular moderate exercise generally:
+- slows colon transit and causes constipation
+- speeds colon transit and lowers the risk of constipation and colon cancer
+- causes ulcers
+- prevents absorption
+= b
+
+? [1] Long-distance runners sometimes get "runner's diarrhea" because of:
+- reduced gut blood flow (ischemia), jostling and hormone changes
+- too much bile
+- lactose
+- viral infection
+= a
+
+? [1] Obesity raises the risk of GERD mainly because:
+- abdominal fat raises pressure on the stomach and weakens the lower esophageal sphincter
+- obese people make less acid
+- the esophagus shortens
+- saliva increases
+= a
+
+? [1] The most common liver disease linked to obesity is:
+- hepatitis A
+- nonalcoholic fatty liver disease (MASLD)
+- primary biliary cholangitis
+- Wilson disease
+= b — it can progress to inflammation (steatohepatitis), cirrhosis and liver cancer.
+
+? [1] Bariatric (weight-loss) surgery such as gastric bypass works partly by:
+- increasing stomach size
+- reducing stomach size and bypassing part of the small intestine
+- removing the liver
+- blocking bile
+= b — patients need vitamin and mineral supplements afterward, such as B12, iron and calcium.
+
+? [1] At the cellular level, a peptic ulcer forms when:
+- the mucus and bicarbonate barrier fails and acid and pepsin digest the epithelium
+- goblet cells multiply
+- villi grow too long
+- parietal cells die
+= a
+
+? [1] H. pylori survives the stomach's acid by:
+- producing urease, which makes ammonia to neutralize acid around it
+- hiding in red blood cells
+- forming spores
+- living only in the esophagus
+= a — the urea breath test detects it.
+
+? [1] Proton pump inhibitors (such as omeprazole) treat ulcers by:
+- blocking the H+/K+ ATPase in parietal cells
+- killing H. pylori directly
+- coating the ulcer
+- blocking gastrin release
+= a — H. pylori is treated with antibiotics plus a PPI.
+
+? [1] NSAIDs such as aspirin and ibuprofen cause ulcers mainly by:
+- blocking prostaglandins that protect the stomach lining
+- increasing H. pylori
+- increasing mucus
+- lowering acid
+= a
+
+? [1] Duodenal ulcer pain often improves with eating, while gastric ulcer pain often:
+- worsens with eating
+- disappears at night
+- never occurs
+- improves with fasting only
+= a
+
+? [1] A serious complication of a peptic ulcer that causes sudden severe pain and a rigid abdomen is:
+- perforation
+- heartburn
+- hiccups
+- lactose intolerance
+= a — bleeding (black, tarry stools) is another complication.
+
+? [1] Most colorectal cancers are:
+- adenocarcinomas
+- squamous cell carcinomas
+- lymphomas
+- sarcomas
+= a
+
+? [1] At the cellular level, cancer begins when:
+- mutations in genes controlling cell division allow cells to divide uncontrollably
+- cells stop dividing
+- bacteria enter cells
+- villi flatten
+= a
+
+? [1] Esophageal squamous cell carcinoma is linked mainly to:
+- smoking and heavy alcohol use
+- GERD and obesity
+- H. pylori
+- hepatitis B
+= a — esophageal adenocarcinoma is linked to GERD, Barrett's and obesity.
+
+? [1] Chronic H. pylori infection raises the risk of:
+- stomach cancer and gastric MALT lymphoma
+- colon cancer
+- esophageal squamous cell carcinoma
+- appendicitis
+= a
+
+? [1] The main risk factors for liver cancer (hepatocellular carcinoma) are:
+- hepatitis B or C, cirrhosis and aflatoxin
+- lactose intolerance
+- appendicitis
+- ulcers
+= a
+
+? [1] Recommended colon cancer screening for average-risk adults starts at age:
+- 21
+- 45
+- 65
+- 80
+= b
+
+? [1] Exudative (inflammatory) diarrhea is caused by:
+- damage to the intestinal lining that leaks blood, mucus and pus
+- unabsorbed sugars
+- cholera toxin
+- fast motility only
+= a — examples: ulcerative colitis, Shigella.
+
+? [1] At the cellular level, cholera toxin causes diarrhea by:
+- locking cAMP on, so CFTR channels pump out Cl− and water follows
+- destroying villi
+- blocking lactase
+- speeding peristalsis only
+= a
+
+? [1] The most dangerous effect of severe diarrhea in a young child is:
+- dehydration and electrolyte loss
+- weight gain
+- constipation
+- fever only
+= a — oral rehydration solution has saved millions of lives.
+
+? [1] Rotavirus is a common cause of:
+- severe diarrhea in infants and young children
+- hepatitis
+- ulcers
+- appendicitis
+= a — a vaccine is available.
+
+? [1] The most common type of lactose intolerance worldwide is:
+- congenital lactase deficiency
+- primary lactase non-persistence (lactase falls after childhood)
+- secondary lactose intolerance after gut injury
+- milk allergy
+= b
+
+? [1] A hydrogen breath test is used to diagnose lactose intolerance because:
+- colon bacteria ferment undigested lactose and release hydrogen gas that is exhaled
+- lactase makes hydrogen
+- the liver makes hydrogen
+- lactose contains hydrogen gas
+= a
+
+? [1] Lactose intolerance can be managed by:
+- avoiding or limiting lactose, using lactose-free milk and lactase enzyme pills
+- antibiotics
+- surgery
+- vaccines
+= a
+
+? [1] Which hepatitis viruses are spread mainly through blood and body fluids?
+- A and E
+- B, C and D
+- A only
+- E only
+= b
+
+? [1] Hepatitis B can be passed from mother to baby at birth. This is prevented by:
+- giving the newborn hepatitis B vaccine and immune globulin
+- cesarean delivery only
+- antibiotics
+- avoiding breastfeeding
+= a
+
+? [1] Elevated blood levels of the liver enzymes ALT and AST indicate:
+- damage to hepatocytes
+- gallbladder storage
+- pancreatic disease
+- normal digestion
+= a
+
+? [1] Acute hepatitis C is often silent, but about how many infected people develop chronic infection?
+- 1%
+- 10%
+- 50–80%
+- 100%
+= c — direct-acting antiviral drugs now cure most cases.
+
+? [1] At the organ level, appendicitis usually begins when:
+- the appendix lumen is blocked, causing swelling, bacterial overgrowth and reduced blood flow
+- the appendix makes too much acid
+- the appendix grows a tumor
+- the appendix fills with bile
+= a
+
+? [1] On blood tests, appendicitis typically shows:
+- high white blood cell count (neutrophils)
+- low white blood cell count
+- high bilirubin
+- low hemoglobin
+= a — CT or ultrasound confirms the diagnosis.
+
+## B. True or False
+@ Write True or False.
+
+? [1] Almost all nutrients are absorbed in the small intestine.
+= True
+
+? [1] The gallbladder produces bile.
+= False — the liver produces it; the gallbladder stores and concentrates it.
+
+? [1] Bile is a digestive enzyme.
+= False — it emulsifies fat but contains no enzymes.
+
+? [1] Chief cells secrete gastrin.
+= False — G cells secrete gastrin; chief cells secrete pepsinogen.
+
+? [1] The large intestine is longer than the small intestine.
+= False — the small intestine is about 5 times longer.
+
+? [1] Starch digestion starts in the mouth.
+= True
+
+? [1] Iron is absorbed mainly in the duodenum.
+= True
+
+? [1] The hepatitis that can be prevented by vaccination is hepatitis C.
+= False — vaccines exist for hepatitis A and B, not C.
+
+? [1] Cystic fibrosis is an autosomal recessive disease that also affects digestion.
+= True
+
+? [1] The lower two-thirds of the esophagus is mainly skeletal muscle.
+= False — the upper third is skeletal, the middle mixed and the lower third smooth.
+
+? [1] Vitamin K is produced by bacteria in the large intestine.
+= True
+
+? [1] The large intestine absorbs only water and no electrolytes.
+= False — it absorbs Na+, Cl− and other electrolytes too.
+
+? [1] The pharynx has only a digestive function.
+= False — it carries air as well.
+
+? [1] The liver is an accessory organ of digestion.
+= True
+
+? [1] Saliva is about 99% water.
+= True
+
+? [1] Secretin is released by S cells when duodenal pH rises.
+= False — it is released when duodenal pH falls (acidic chyme).
+
+? [1] Chylomicrons are too large to enter blood capillaries, so they enter lacteals.
+= True
+
+? [1] Filiform papillae are the most numerous papillae and contain the most taste buds.
+= False — filiform papillae have no taste buds.
+
+? [1] Vitamin B12 is absorbed mainly in the jejunum.
+= False — in the terminal ileum.
+
+? [1] Chymotrypsinogen is the inactive form of a protein-digesting enzyme.
+= True
+
+? [1] Products of nucleic acid digestion are absorbed only by passive diffusion.
+= False — bases and sugars are taken up by active (carrier-mediated) transport.
+
+? [1] The lamina propria is part of the submucosa.
+= False — it is part of the mucosa.
+
+? [1] Segmentation does not help move food through the GI tract.
+= False — it mostly mixes chyme, but also moves it slowly forward.
+
+? [1] Rugae become most visible when the stomach is full.
+= False
+
+? [1] Parietal cells secrete HCl and intrinsic factor.
+= True
+
+? [1] Adults normally have 18 teeth in the mandible and 18 in the maxilla.
+= False — 16 in each (32 total).
+
+? [1] Saliva contains IgA antibodies.
+= True
+
+? [1] The parotid glands produce the most saliva when stimulated.
+= True — at rest the submandibular glands produce the most.
+
+
+
+? [1] Bile salts carry out chemical digestion of fats.
+= False — emulsification is mechanical; lipase does the chemical digestion.
+
+? [1] Segmentation and churning are forms of mechanical digestion.
+= True
+
+? [1] The large intestine has villi like the small intestine.
+= False
+
+? [1] Carbohydrate digestion is completed by brush-border enzymes in the small intestine.
+= True
+
+? [1] Regular exercise lowers the risk of colon cancer.
+= True
+
+? [1] Obesity increases the risk of gallstones.
+= True
+
+? [1] Most peptic ulcers are caused by stress and spicy food.
+= False — most are caused by H. pylori or NSAIDs.
+
+? [1] Lactose intolerance is an immune reaction to milk protein.
+= False — it is a lack of lactase; an immune reaction to milk protein is a milk allergy.
+
+? [1] Hepatitis A causes chronic liver infection in most people.
+= False — it does not become chronic.
+
+? [1] Diarrhea can lead to metabolic acidosis.
+= True — through loss of bicarbonate.
+
+? [1] A ruptured appendix can cause peritonitis.
+= True
+
+## C. Fill in the Blank
+
+? [3] Name the three pairs of salivary glands.
+= parotid, submandibular, sublingual
+
+? [4] Name the four types of teeth.
+= incisors, canines (cuspids), premolars (bicuspids), molars
+
+? [2] Name the four regions of the stomach. What are its internal folds called?
+= cardia, fundus, body, pylorus (antrum and canal); rugae
+
+? [3] Name the three parts of the small intestine in order.
+= duodenum, jejunum, ileum
+
+? [3] Name three structures that increase the absorptive surface area of the small intestine.
+= plicae circulares, villi, microvilli (brush border)
+
+? [3] The three longitudinal muscle bands of the colon are ______; the pouches they form are ______; the ______ valve keeps colon contents from flowing back into the ileum.
+= teniae coli; haustra; ileocecal
+
+? [2] Where are Brunner's glands, and what do they secrete?
+= submucosa of the duodenum; alkaline (bicarbonate-rich) mucus that neutralizes acidic chyme
+
+? [3] Trace blood from the liver sinusoids to the right atrium (three vessels).
+= central vein → hepatic veins → inferior vena cava
+
+? [1] The falciform ligament carries the ______ ______, a remnant of the fetal umbilical vein.
+= round ligament (ligamentum teres)
+
+? [4] Name the four layers of the GI tract wall from inside to outside.
+= mucosa, submucosa, muscularis externa, serosa (adventitia in the esophagus)
+
+? [3] Name three types of fibers found in the lamina propria.
+= collagen, reticular, elastic
+
+? [2] Name the two crypt-base cells of the small intestine.
+= stem cells and Paneth cells
+
+? [4] The four major cell types of the intestinal mucosa are ______ cells (absorb nutrients), ______ cells (mucus), ______ cells (antibacterial secretions) and ______ cells (hormones).
+= absorptive (enterocytes); goblet; Paneth (granular); enteroendocrine
+
+? [1] The microvilli of enterocytes are coated with a carbohydrate-rich layer called the ______.
+= glycocalyx
+
+? [2] Gentle peristaltic movements called ______ ______ mix food with gastric juice to make chyme.
+= mixing waves
+
+? [2] Food is pushed through the ______ sphincter into the ______ in small squirts; this is gastric emptying.
+= pyloric; duodenum
+
+? [1] The only enzyme that digests protein in the stomach is ______.
+= pepsin
+
+? [1] The inactive form of an enzyme is called a ______ or proenzyme.
+= zymogen
+
+? [3] In lactose intolerance, the enzyme ______ is lacking, so lactose is not broken into ______ and ______.
+= lactase; glucose; galactose
+
+? [2] Intrinsic factor is secreted by ______ cells and is needed to absorb vitamin ______.
+= parietal; B12
+
+? [2] Gastrin stimulates ______ cells to secrete ______.
+= parietal; HCl (and chief cells to secrete pepsinogen)
+
+? [2] ______ stimulates the pancreas to release bicarbonate juice; ______ stimulates the gallbladder to contract.
+= secretin; CCK (cholecystokinin)
+
+? [2] Bile salts emulsify fat so the enzyme ______ can digest it into ______ and monoglycerides.
+= lipase; fatty acids
+
+? [1] Bile salts form tiny clusters called ______ that carry fatty acids to the brush border.
+= micelles
+
+? [2] The liver receives blood from two sources: the ______ (oxygen-rich) and the ______ (nutrient-rich).
+= hepatic artery; hepatic portal vein
+
+? [1] The ______ is the opening from the stomach into the duodenum.
+= pyloric sphincter (pylorus)
+
+? [1] The point where the duodenum meets the jejunum is held by the ligament of ______.
+= Treitz
+
+? [1] Gut-associated lymphoid tissue in the ileum forms ______ ______.
+= Peyer's patches
+
+? [2] Name two hormones, other than secretin and CCK, made in the small intestine.
+= any two: GIP, motilin, somatostatin, VIP, GLP-1, peptide YY
+
+? [1] The hormone that tells the hypothalamus that the body has enough fat stores is ______.
+= leptin
+
+? [1] One gram of fat yields about ______ kcal; carbohydrate and protein yield about ______ kcal/g.
+= 9; 4
+
+
+? [6] List the six digestive processes in order.
+= ingestion, propulsion (swallowing and peristalsis), mechanical digestion, chemical digestion, absorption, defecation
+
+? [4] Name four accessory organs of digestion.
+= any four: teeth, tongue, salivary glands, liver, gallbladder, pancreas
+
+? [3] Pancreatic proteases are activated in a cascade: ______ on the brush border converts trypsinogen to ______, which then activates ______ and procarboxypeptidase.
+= enteropeptidase (enterokinase); trypsin; chymotrypsinogen
+
+? [2] In fat digestion, ______ salts break large fat globules into small droplets (mechanical) and ______ hydrolyzes triglycerides (chemical).
+= bile; pancreatic lipase
+
+? [2] The test that detects H. pylori by having the patient swallow labeled urea is the ______ ______ test.
+= urea breath
+
+? [2] The two main drug classes that cut stomach acid are ______ inhibitors and H2-receptor ______.
+= proton pump; blockers (antagonists)
+
+## D. Matching
+
+? [6] Match each cell to its main secretion.
+| Cell | Secretion |
+| 1. Chief cell | a. Histamine |
+| 2. G cell | b. Lysozyme and defensins |
+| 3. D (delta) cell | c. Pepsinogen and gastric lipase |
+| 4. ECL cell | d. Secretin, CCK, GIP |
+| 5. Paneth cell | e. Gastrin |
+| 6. Enteroendocrine cell (small intestine) | f. Somatostatin |
+= 1-c, 2-e, 3-f, 4-a, 5-b, 6-d
+
+? [6] Match each hormone to its main action.
+| Hormone | Action |
+| 1. Gastrin | a. Bicarbonate-rich pancreatic juice |
+| 2. Secretin | b. Gallbladder contraction and pancreatic enzymes; slows gastric emptying |
+| 3. CCK | c. Signals fullness from fat tissue |
+| 4. GIP | d. Gastric acid secretion and motility |
+| 5. Ghrelin | e. Insulin release after a meal |
+| 6. Leptin | f. Hunger |
+= 1-d, 2-a, 3-b, 4-e, 5-f, 6-c
+
+? [6] Match the hormone or chemical to its action.
+| Substance | Action |
+| 1. Histamine | a. Activates parietal cells (via H2 receptors) |
+| 2. Motilin | b. Triggers the migrating motor complex |
+| 3. Somatostatin | c. Inhibits gastric secretion and motility |
+| 4. Vasoactive intestinal peptide (VIP) | d. Stimulates buffer secretion and dilates intestinal capillaries |
+| 5. Intestinal gastrin | e. Stimulates gastric glands and motility |
+| 6. Peptide YY | f. Released after meals; reduces appetite |
+= 1-a, 2-b, 3-c, 4-d, 5-e, 6-f
+
+? [9] Match each enzyme or fluid to the macromolecule it acts on: A = carbohydrates, B = proteins, C = fats.
+| Enzyme or fluid | Acts on |
+| 1. Maltase | |
+| 2. Lipase | |
+| 3. Bile | |
+| 4. Trypsin | |
+| 5. Amylase | |
+| 6. Sucrase | |
+| 7. Pepsin | |
+| 8. Chymotrypsin | |
+| 9. Lactase | |
+= 1-A, 2-C, 3-C, 4-B, 5-A, 6-A, 7-B, 8-B, 9-A
+
+? [7] Match the GI layer to its description.
+| Layer | Description |
+| 1. Epithelium | a. Most superficial layer of the mucosa; contains enteroendocrine cells; renews every 5–7 days |
+| 2. Mucosa | b. Inner circular and outer longitudinal smooth muscle; peristalsis and segmentation |
+| 3. Serosa | c. Also called visceral peritoneum; absent from most of the esophagus |
+| 4. Submucosa | d. Connects the mucosa to the muscularis |
+| 5. Lamina propria | e. Has the most MALT |
+| 6. Muscularis externa | f. Epithelium, lamina propria and muscularis mucosae |
+| 7. Muscularis of the upper esophagus | g. Contains skeletal muscle |
+= 1-a, 2-f, 3-c, 4-d, 5-e, 6-b, 7-g
+
+? [8] Match each disease to its description.
+| Disease | Description |
+| 1. GERD | a. Inflamed, infected pouches in the colon |
+| 2. Crohn's disease | b. Stomach acid irritates the esophageal lining |
+| 3. Celiac disease | c. Pain moves from the navel to the lower right; treated by surgery |
+| 4. Diverticulitis | d. Part of the stomach pushes above the diaphragm |
+| 5. Appendicitis | e. Lack of lactase |
+| 6. Lactose intolerance | f. Patchy inflammation anywhere from mouth to anus; mouth sores |
+| 7. Hiatal hernia | g. Sores in the stomach or duodenal lining |
+| 8. Peptic ulcer | h. Gluten damages small-intestine villi |
+= 1-b, 2-f, 3-h, 4-a, 5-c, 6-e, 7-d, 8-g
+
+? [5] Match each hepatitis virus to its feature.
+| Virus | Feature |
+| 1. Hepatitis A | a. RNA virus; most often spread by shared needles; often becomes chronic; no vaccine |
+| 2. Hepatitis B | b. Fecal-oral; contaminated shellfish; never chronic; vaccine available |
+| 3. Hepatitis C | c. DNA virus; blood, sex and birth; vaccine available |
+| 4. Hepatitis D | d. Fecal-oral; dangerous in pregnancy |
+| 5. Hepatitis E | e. Needs hepatitis B to replicate |
+= 1-b, 2-c, 3-a, 4-e, 5-d
+
+? [4] Match the peritoneal fold to what it connects.
+| Fold | Connects |
+| 1. Greater omentum | a. Lesser curvature of the stomach to the liver |
+| 2. Lesser omentum | b. Greater curvature of the stomach, hanging over the intestines to the transverse colon |
+| 3. Mesentery proper | c. Jejunum and ileum to the posterior abdominal wall |
+| 4. Transverse mesocolon | d. Transverse colon to the posterior abdominal wall |
+= 1-b, 2-a, 3-c, 4-d
+
+## E. Digestion Pathways, Data and Calculations
+
+? [8] Complete the table: for each nutrient give the main enzyme(s), the final product(s) and where digestion occurs.
+| Nutrient | Enzyme(s) | Final product(s) | Location(s) |
+| Proteins | | | |
+| Starch | | | |
+| Lipids | | | |
+| Nucleic acids | | | |
+= Proteins: pepsin; trypsin, chymotrypsin, carboxypeptidase; aminopeptidase, dipeptidase → amino acids; stomach and small intestine. Starch: salivary and pancreatic amylase; maltase and other brush-border enzymes → glucose; mouth and small intestine. Lipids: lingual, gastric and pancreatic lipase (after bile) → fatty acids and monoglycerides; mouth, stomach, small intestine. Nucleic acids: pancreatic nucleases; brush-border nucleosidases and phosphatases → pentose sugars, phosphates, nitrogenous bases; small intestine.
+
+? [3] Put these fat-digestion events in order (1 = first): __ fatty acids enter intestinal cells; __ gallbladder releases bile into the duodenum; __ lingual lipase acts; __ CCK is released; __ fatty meal is eaten; __ fatty acids are reassembled into chylomicrons; __ gastric lipase acts; __ pancreatic lipase forms fatty acids; __ bile emulsifies fat globules.
+= In the order listed: 8, 5, 2, 4, 1, 9, 3, 7, 6
+
+? [2] Put these stomach events in order: __ pepsinogen activated; __ gastrin released; __ food stretches the stomach wall; __ protein digestion; __ HCl released.
+= In the order listed: 4, 2, 1, 5, 3
+
+? [2] Put these in the order food passes through them: cecum, esophagus, ileum, transverse colon, jejunum, stomach, oropharynx, duodenum.
+= oropharynx → esophagus → stomach → duodenum → jejunum → ileum → cecum → transverse colon
+
+? [2] Put these steps of the cephalic phase of gastric secretion in order: increased G-cell activity; olfactory receptors; vagal nuclei; hypothalamus; increased ACh release.
+= olfactory receptors → hypothalamus → vagal nuclei → increased ACh release → increased G-cell activity
+
+? [4] For each, write S (stimulates gastric secretion) or I (inhibits): a) excess gastric acidity (pH < 2)  b) stomach distension  c) rise in gastric pH  d) duodenal distension with chyme
+= a) I  b) S  c) S  d) I
+
+? [3] Four molecules were tested with amylase, chymotrypsin, lipase, nuclease and pepsin, all under the same conditions. Molecule B showed activity with both amylase and pepsin. Why must this result be a recording error?
+= Amylase works near neutral pH and pepsin near pH 2. If all enzymes were tested under the same conditions, both could not be active at once.
+
+? [2] Someone eats 50 g of fat in a 2,000-kcal day. How many calories came from fat, and what percent is that?
+= 50 × 9 = 450 kcal; 450 ÷ 2,000 = 22.5%
+
+? [2] A meal contains 60 g carbohydrate, 25 g protein and 20 g fat. Calculate total calories.
+= 60 × 4 + 25 × 4 + 20 × 9 = 240 + 100 + 180 = 520 kcal
+
+? [7] Gastric emptying: normal half-emptying time is < 20 min for liquids and < 120 min for solids. A patient's times are 15 min (liquid) and 180 min (solid). True or false: a) the patient is at higher risk of malnutrition  b) the patient may have more acid reflux  c) the patient has high pyloric resistance  d) more pyloric resistance speeds solid emptying  e) stronger antral contractions without more pyloric resistance speed emptying of both  f) if the patient vomits, the vomit will contain bile  g) antacids would not help at all.
+= a) T  b) T  c) T  d) F  e) T  f) F  g) F (antacids can ease reflux symptoms)
+
+? [3] True or false: a) a tumor blocking the common bile duct lowers blood conjugated bilirubin  b) a mutation that reduces UGT activity raises unconjugated bilirubin  c) malaria, which bursts red blood cells, raises blood bilirubin.
+= a) F — it raises conjugated bilirubin (it backs up into blood).  b) T  c) T
+
+? [3] Describe carbohydrate digestion and absorption in the small intestine. Name the transporters involved.
+= Pancreatic amylase breaks starch into maltose, maltotriose and dextrins; brush-border enzymes (maltase, sucrase, lactase, dextrinase) make monosaccharides. Glucose and galactose enter by SGLT1 (Na+ cotransport); fructose enters by GLUT5; all leave the cell into blood by GLUT2.
+
+
+? [8] Complete the table comparing the lining of the alimentary canal.
+| Organ | Epithelium | Special surface features | Main glands or cells |
+| Esophagus | | | |
+| Stomach | | | |
+| Small intestine | | | |
+| Large intestine | | | |
+= Esophagus: nonkeratinized stratified squamous; longitudinal folds; esophageal (mucous) glands in submucosa. Stomach: simple columnar mucous surface cells; rugae, gastric pits; gastric glands with parietal, chief, mucous neck, G and enteroendocrine cells. Small intestine: simple columnar with microvilli; plicae circulares, villi, crypts; enterocytes, goblet, Paneth, enteroendocrine cells, Brunner's glands (duodenum), Peyer's patches (ileum). Large intestine: simple columnar; no villi or plicae, straight deep crypts, haustra, teniae coli; abundant goblet cells; lower anal canal becomes stratified squamous.
+
+? [6] Complete the table comparing mechanical and chemical digestion in each location.
+| Location | Mechanical digestion | Chemical digestion |
+| Mouth | | |
+| Stomach | | |
+| Small intestine | | |
+| Large intestine | | |
+= Mouth: chewing (mastication), mixing by tongue; salivary amylase (starch), lingual lipase. Stomach: churning, mixing waves; pepsin (protein), gastric lipase. Small intestine: segmentation, bile emulsification; pancreatic enzymes and brush-border enzymes digest all nutrients. Large intestine: haustral churning, mass movements; bacterial fermentation (no host enzymes).
+
+? [3] A runner's gut blood flow is 1,500 mL/min at rest and drops by 70% during a race. What is the gut blood flow during the race? Give one symptom this may cause.
+= 1,500 × 0.30 = 450 mL/min. Nausea, cramps, diarrhea or GI bleeding (ischemia).
+
+? [3] A person's BMI is calculated as weight (kg) ÷ height (m)². Calculate BMI for 95 kg and 1.75 m, and classify it.
+= 95 ÷ 3.06 ≈ 31.0; obese (BMI ≥ 30).
+
+## F. Short Answer and Case Studies
+
+? [2] Compare peristalsis and segmentation.
+= Peristalsis: waves of contraction and relaxation of adjacent segments that push food forward. Segmentation: nonadjacent rings of muscle contract alternately, mixing chyme back and forth (mainly small intestine).
+
+? [4] Where is bile made and stored, and what does it do? What pigment in bile makes skin yellow in liver disease, and where does it come from?
+= Made by hepatocytes; stored and concentrated in the gallbladder. Bile salts emulsify fat and form micelles so lipase can work and fats can be absorbed; bile also excretes cholesterol and bilirubin. Bilirubin, from heme in old red blood cells, causes jaundice.
+
+? [4] Explain how pepsin digests protein without digesting the stomach itself.
+= It is secreted as inactive pepsinogen and activated only in the lumen by HCl. A thick layer of alkaline mucus from mucous cells, tight junctions between epithelial cells and rapid cell renewal (every 3–5 days) protect the wall; prostaglandins maintain the mucus barrier.
+
+? [5] What is a retroperitoneal organ? List three retroperitoneal digestive organs.
+= An organ that lies behind the parietal peritoneum, against the posterior abdominal wall, without a mesentery. Examples: most of the duodenum, pancreas, ascending and descending colon, rectum (also kidneys, outside the digestive system).
+
+? [6] Compare the digestion and absorption of short-chain and long-chain fatty acids.
+= Both are freed by lipases. Short- and medium-chain fatty acids are water-soluble enough to diffuse into enterocytes and directly into blood capillaries (hepatic portal vein) without micelles. Long-chain fatty acids need bile-salt micelles, are reassembled into triglycerides, packaged with proteins into chylomicrons and enter lacteals (lymph), reaching blood through the thoracic duct.
+
+? [3] Cassie is a diabetic who drinks heavily. Name the two main types of gallstones and one risk factor for each. Why does fasting raise gallstone risk?
+= Cholesterol stones (obesity, diabetes, female sex, rapid weight loss); pigment stones (cirrhosis, alcoholic liver disease, hemolysis). Fasting means little CCK, so the gallbladder rarely empties; bile stagnates and concentrates until crystals form.
+
+? [3] Compare a gallstone blocking the common bile duct with one blocking the main pancreatic duct. Which symptom occurs in both? Which occur only with the pancreatic duct blocked?
+= Both: fat maldigestion (steatorrhea). Pancreatic duct only: protein maldigestion and lower duodenal pH (no bicarbonate); pancreatitis. Bile duct only: jaundice and pale stools.
+
+? [3] After cholecystectomy, why should a patient limit dietary fat? Which vitamins may be poorly absorbed? Why can the patient still live without the gallbladder?
+= Bile now trickles into the duodenum constantly instead of being released in a burst with a fatty meal, so large fat loads are poorly digested (possible diarrhea). Vitamins A, D, E, K. The liver still makes bile, which flows through the bile ducts.
+
+? [3] Enterogastric reflex: what stimulates it, what does CCK target, and why is the reflex needed?
+= Acidic, fatty or hypertonic chyme stretching the duodenum. CCK targets the gallbladder (contract), pancreas (enzymes) and stomach (slows emptying). It prevents the duodenum from being overloaded so it can neutralize acid and finish digestion.
+
+? [2] What is the hepatic portal system, and what is its benefit?
+= Veins from the GI tract and spleen drain through the hepatic portal vein to the liver before reaching the heart. The liver processes and stores nutrients and removes toxins, drugs and bacteria first.
+
+? [3] After his stomach is removed, Canaan develops anemia. Explain why. Should he take vitamin B12 orally or by injection?
+= No parietal cells means no intrinsic factor, so B12 cannot be absorbed in the ileum, causing pernicious (megaloblastic) anemia; less acid also reduces iron absorption. B12 injections (oral B12 still needs intrinsic factor).
+
+? [4] Name three ions lost in severe diarrhea. Why might the patient hyperventilate? Why does plain water not rehydrate well, and what should she drink?
+= Any three of Na+, K+, Cl−, HCO3−. Losing bicarbonate causes metabolic acidosis, so she breathes faster to blow off CO2. Plain water does not replace electrolytes and can dilute blood sodium. An oral rehydration solution with sodium and glucose (absorbed together by SGLT1).
+
+? [3 | TB] Eating a fatty meal before drinking alcohol slows intoxication. Explain using where alcohol is absorbed.
+= Some alcohol is absorbed in the stomach, but most is absorbed rapidly in the small intestine. Fat triggers CCK and the enterogastric reflex, slowing gastric emptying, so alcohol stays longer in the stomach where absorption is slow and gastric enzymes break some down.
+
+? [3] Describe what you would see on a liver slide for cirrhosis, fatty liver and hepatitis.
+= Cirrhosis: bands of fibrous scar around nodules of liver cells. Fatty liver: hepatocytes filled with round, clear lipid vacuoles. Hepatitis: clusters of lymphocytes around portal areas (inflammation) and damaged hepatocytes.
+
+? [2] If a person swallows while standing on their head, where does the food go? Explain.
+= Into the stomach. Swallowing and peristalsis are muscular and work against gravity.
+
+? [4] Jackson, 60, a peanut farmer with heavy drinking and type 2 diabetes, dies of liver failure with jaundice, bruising and fluid in the abdomen. What happened to his liver, what cancer may have developed, and what were his risk factors?
+= Cirrhosis progressing to hepatocellular carcinoma. Risk factors: heavy alcohol use, aflatoxin from moldy peanuts, type 2 diabetes (fatty liver). Bruising: low clotting factors; ascites: portal hypertension and low albumin.
+
+? [5] A 54-year-old traveler has fever, nausea, diarrhea and jaundice after eating local shellfish. Name the organ affected and the most likely disease. Which two liver cell types does the virus affect? Why is the disease underreported? Name two ways to prevent it.
+= Liver; hepatitis A. Hepatocytes and Kupffer cells. Many cases are mild or have no symptoms. Prevention: hepatitis A vaccine, hand washing, avoiding raw shellfish and untreated water.
+
+? [3] A 19-year-old student develops flu-like illness and yellow eyes weeks after swimming in a lagoon where clothes were washed. Name the disease, explain the yellow eyes, and name one thing she did that could have harmed her liver further.
+= Hepatitis A. Damaged hepatocytes cannot process and excrete bilirubin, which builds up in tissues (jaundice). She treated her fever with acetaminophen, which is toxic to the liver at high doses. There is no specific antiviral; treatment is supportive.
+
+? [3] A 66-year-old ex-smoker who drinks daily has weight loss, deep epigastric pain radiating to the back that eases when he leans forward, and greasy stools. CT shows a mass in the tail of the pancreas. Name the diagnosis and three findings that point to the pancreas.
+= Pancreatic cancer. Pain radiating to the back and eased by leaning forward; steatorrhea (no pancreatic lipase); epigastric tenderness; smoking and alcohol as risk factors; imaging. Negative Murphy's sign and normal liver and spleen argue against gallbladder disease.
+
+? [2] How would the presentation above differ if the tumor were in the head of the pancreas?
+= It could block the common bile duct, causing painless jaundice, dark urine, pale stools and a palpable gallbladder (Courvoisier's sign).
+
+? [3] A newborn in Finland has diarrhea after breastfeeding that stops on soy formula. Name the condition. How does it differ from a milk allergy?
+= Congenital lactase deficiency (primary congenital lactose intolerance). An intolerance is a lack of an enzyme, not an immune reaction; a milk allergy is an immune (often IgE) response to milk proteins.
+
+? [3] Name two signs a doctor checks for appendicitis and the surgery used to treat it. What happens if the appendix ruptures?
+= McBurney's point tenderness, Rovsing's sign, psoas sign, obturator sign. Appendectomy. Rupture spreads bacteria into the abdomen, causing peritonitis.
+
+? [3] A patient has peritonitis after surgery and stays sick despite strong antibiotics. Why would the doctor insert a drainage tube?
+= Pus and infected fluid collect in the peritoneal cavity (an abscess). Antibiotics cannot penetrate an abscess well, so it must be drained.
+
+? [3] Explain how obesity can harm the digestive system. Give three mechanisms.
+= Abdominal pressure weakens the lower esophageal sphincter (GERD, hiatal hernia); fatty liver disease; gallstones; visceral fat releases inflammatory cytokines (IL-6, TNF-α); higher risk of colorectal, esophageal and pancreatic cancer.
+
+? [3] What is Barrett's esophagus, what causes it and why is it important?
+= Replacement of the esophagus's stratified squamous lining with simple columnar (intestine-like) cells, caused by long-term acid reflux (GERD). It is a precancerous change that raises the risk of esophageal adenocarcinoma.
+
+? [2] Why is lactose intolerance not an allergy? What happens to the undigested lactose?
+= It is a lack of lactase, not an immune response. Lactose reaches the colon, draws water in (osmotic diarrhea) and is fermented by bacteria, producing gas and bloating.
+
+? [3] Describe the location of the esophagus from beginning to end.
+= It starts behind the cricoid cartilage (about C6), runs through the posterior mediastinum behind the trachea, passes through the esophageal hiatus of the diaphragm and runs a few centimeters in the abdomen before joining the stomach at the cardia.
+
+? [3] A patient's stomach acid production is high and he has multiple duodenal ulcers. Tests show a gastrin-secreting tumor. Name the syndrome. Why are ulcers forming in the duodenum?
+= Zollinger-Ellison syndrome. Excess gastrin drives massive HCl secretion that overwhelms the duodenum's bicarbonate buffering.
+
+
+? [4] Describe protein digestion from mouth to absorption.
+= No protein digestion in the mouth. Stomach: HCl denatures proteins and activates pepsin, which cuts them into polypeptides. Small intestine: pancreatic trypsin, chymotrypsin and carboxypeptidase cut polypeptides into smaller peptides; brush-border aminopeptidases and dipeptidases make amino acids, dipeptides and tripeptides. These are absorbed by sodium-dependent cotransport into enterocytes and enter blood capillaries to the hepatic portal vein.
+
+? [4] Describe fat digestion and absorption from mouth to lymph.
+= Lingual and gastric lipases start digestion. In the duodenum, CCK releases bile; bile salts emulsify fat. Pancreatic lipase (with colipase) splits triglycerides into fatty acids and monoglycerides, which form micelles with bile salts. They diffuse into enterocytes, are rebuilt into triglycerides, packed into chylomicrons and enter lacteals, then lymph and the thoracic duct.
+
+? [4] Describe how exercise affects the digestive system in the short term and long term.
+= Short term: sympathetic activity reduces gut blood flow and slows digestion and gastric emptying; intense exercise can cause nausea, cramps, reflux or diarrhea. Long term: regular moderate exercise speeds colon transit (less constipation), helps control weight, improves insulin sensitivity, lowers risk of colon cancer, gallstones, fatty liver and diverticular disease, and supports a healthy gut microbiome.
+
+? [5] Describe how obesity affects the digestive system. Name at least four conditions linked to it.
+= Higher abdominal pressure and a weaker lower esophageal sphincter cause GERD and hiatal hernia; excess fat in the liver causes fatty liver disease, which can progress to cirrhosis; cholesterol-rich bile causes gallstones; inflammatory cytokines from visceral fat damage tissues; higher risk of colorectal, esophageal adenocarcinoma, pancreatic, liver and gallbladder cancers; altered gut microbiome.
+
+? [5] Describe a peptic ulcer at each level: cell, tissue, organ and whole person.
+= Cell: H. pylori or NSAIDs damage epithelial cells and reduce mucus and bicarbonate; acid and pepsin digest exposed cells. Tissue: an erosion deepens through the mucosa into the submucosa or muscle layer. Organ: the stomach or duodenal wall can bleed or perforate. Whole person: burning epigastric pain, nausea, black stools, anemia; treated with PPIs, antibiotics for H. pylori and stopping NSAIDs.
+
+? [5] Describe colorectal cancer at each level: cell, tissue, organ and whole person. How is it screened for and prevented?
+= Cell: mutations (often APC, then KRAS and p53) let colon epithelial cells divide uncontrollably. Tissue: an adenomatous polyp grows and becomes an invasive adenocarcinoma. Organ: the tumor narrows the colon, bleeds and can spread to lymph nodes and liver. Whole person: blood in stool, change in bowel habits, anemia, weight loss. Screening: colonoscopy (removing polyps), stool tests. Prevention: fiber-rich diet, less red and processed meat, exercise, no smoking, limited alcohol.
+
+? [4] Describe lactose intolerance at the cell, organ and whole-person level.
+= Cell: enterocytes in the small intestine make too little lactase on their brush border. Organ: undigested lactose stays in the lumen, drawing in water (osmotic diarrhea); colon bacteria ferment it, producing gas and acids. Whole person: bloating, cramps, gas and diarrhea 30 minutes to 2 hours after dairy; diagnosed with a hydrogen breath test; managed with lactose-free foods or lactase pills.
+
+? [4] Describe hepatitis at the cell, organ and whole-person level.
+= Cell: virus (or alcohol, drugs) infects or injures hepatocytes; immune cells kill infected hepatocytes, releasing ALT and AST. Organ: liver inflammation; chronic hepatitis B or C causes fibrosis, cirrhosis and liver cancer. Whole person: fatigue, nausea, jaundice, dark urine, pale stools, right upper abdominal pain; prevented by vaccines (A, B), safe food and water, and avoiding shared needles.
+
+? [4] Describe appendicitis from cause to treatment.
+= A fecalith or swollen lymphoid tissue blocks the appendix. Mucus and bacteria build up, pressure rises, blood flow falls and the wall becomes inflamed and can die (gangrene) and rupture. Pain starts near the navel (visceral) and moves to the right lower quadrant (McBurney's point) as the peritoneum is irritated; fever, nausea and high white count follow. Treatment: appendectomy (or antibiotics in selected cases); rupture causes peritonitis.
+
+? [4] Describe diarrhea at the cell and whole-person level, and compare osmotic, secretory and exudative types.
+= Cells either absorb too little water (osmotic: unabsorbed solutes such as lactose), secrete too much Cl− and water (secretory: cholera, E. coli toxins) or are damaged and leak blood and pus (exudative: Shigella, ulcerative colitis). Whole person: frequent loose stools, dehydration, loss of Na+, K+ and HCO3−, metabolic acidosis; treated with oral rehydration solution and by treating the cause.

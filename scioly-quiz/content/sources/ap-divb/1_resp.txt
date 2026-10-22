@@ -1,0 +1,1703 @@
+# R | Part 1 – Respiratory System
+
+## A. Multiple Choice
+@ Choose the single best answer unless the question says "Select ALL".
+
+? [1] Gas exchange between air and blood occurs mainly in the:
+- trachea
+- bronchi
+- terminal bronchioles
+- alveoli
+= d
+
+? [1] Which structure is part of the upper respiratory tract?
+- trachea
+- pharynx
+- bronchi
+- alveoli
+= b — the upper tract is the nose, nasal cavity, paranasal sinuses and pharynx (the larynx is classified either way by different texts).
+
+? [1] Which passageway carries both food and air?
+- nasopharynx
+- larynx
+- oropharynx
+- trachea
+= c — the oropharynx and laryngopharynx carry both; the nasopharynx carries air only.
+
+? [2] Select ALL structures that carry both food and air: a) nasopharynx  b) oropharynx  c) laryngopharynx  d) larynx  e) trachea
+= b, c
+
+? [1] The middle portion of the pharynx, between the soft palate and the level of the hyoid bone, is the:
+- nasopharynx
+- oropharynx
+- laryngopharynx
+- glottis
+= b
+
+? [1] The exchange surface of the alveolus (type I cells) is made of:
+- simple cuboidal epithelium
+- simple squamous epithelium
+- pseudostratified ciliated columnar epithelium
+- stratified squamous epithelium
+= b
+
+? [1] The nasal cavity, trachea and bronchi are lined with "respiratory mucosa," which is:
+- stratified squamous epithelium
+- simple columnar epithelium
+- pseudostratified ciliated columnar epithelium with goblet cells
+- transitional epithelium
+= c
+
+? [1] The vestibule of the nasal cavity (just inside the nostrils) is lined with:
+- stratified squamous epithelium
+- simple squamous epithelium
+- pseudostratified columnar epithelium
+- simple cuboidal epithelium
+= a — it is continuous with the skin and carries vibrissae.
+
+? [1] The oropharynx and laryngopharynx are lined with stratified squamous epithelium because:
+- they exchange gases
+- they must resist abrasion from swallowed food
+- they secrete surfactant
+- they contain olfactory receptors
+= b
+
+? [1] Vibrissae are:
+- folds of mucosa that warm air
+- stiff hairs in the nasal vestibule that filter large particles
+- cilia in the bronchioles
+- glands that secrete mucus
+= b
+
+? [1] The nasal conchae mainly:
+- produce speech
+- increase surface area and air turbulence so air is warmed, moistened and filtered
+- drain tears into the nose
+- separate the two nasal cavities
+= b — the nasal septum separates the cavities.
+
+? [1] The posterior openings of the nasal cavity into the nasopharynx are the:
+- nares
+- choanae
+- Eustachian tubes
+- conchae
+= b
+
+? [1] The auditory (Eustachian) tube opens into the:
+- oropharynx
+- laryngopharynx
+- nasopharynx
+- larynx
+= c — it equalizes middle-ear pressure; the pharyngeal tonsil (adenoid) is nearby.
+
+? [1] Paranasal sinuses do all of the following EXCEPT:
+- lighten the skull
+- warm and humidify air
+- resonate the voice
+- exchange gases with blood
+= d
+
+? [1] What keeps the trachea open during inhalation?
+- surfactant
+- C-shaped rings of hyaline cartilage
+- skeletal muscle
+- elastic cartilage
+= b
+
+? [1] The open ends of the tracheal C-rings face the esophagus and are bridged by the:
+- cricoid cartilage
+- trachealis (smooth) muscle
+- vocalis muscle
+- carina
+= b
+
+? [1] The "Adam's apple" is the:
+- hyoid bone
+- arytenoid cartilage
+- thyroid cartilage
+- cricoid cartilage
+= c
+
+? [1] The only complete ring of cartilage in the airway is the:
+- thyroid cartilage
+- cricoid cartilage
+- epiglottis
+- first tracheal ring
+= b
+
+? [1] The paired cartilages that pivot to tense and relax the vocal cords are the:
+- arytenoid cartilages
+- cuneiform cartilages
+- cricoid cartilages
+- thyroid laminae
+= a — corniculate cartilages sit on top of them.
+
+? [1] The epiglottis is made of:
+- hyaline cartilage
+- elastic cartilage
+- fibrocartilage
+- bone
+= b
+
+? [1] The opening between the true vocal cords is the:
+- glottis
+- vestibule
+- rima vestibuli
+- carina
+= a
+
+? [1] Which is NOT a function of the larynx?
+- houses the vocal cords
+- routes food and air into the proper channels
+- keeps the airway open
+- warms air with erectile tissue on the conchae
+= d
+
+? [1] The ridge where the trachea splits into the two main bronchi is the:
+- hilum
+- carina
+- cardiac notch
+- mediastinum
+= b — touching it triggers a strong cough reflex.
+
+? [1] An inhaled object is most likely to lodge in the right main bronchus because it is:
+- longer and narrower
+- wider, shorter and more vertical
+- lined with more cilia
+- protected by the heart
+= b
+
+? [1] What is the correct order of air flow? 1-secondary bronchus, 2-bronchiole, 3-alveolar duct, 4-primary bronchus, 5-respiratory bronchiole, 6-alveoli, 7-terminal bronchiole, 8-tertiary bronchus
+- 4, 1, 8, 2, 7, 5, 3, 6
+- 4, 8, 1, 2, 7, 5, 3, 6
+- 4, 1, 8, 2, 5, 7, 3, 6
+- 1, 4, 8, 7, 2, 5, 6, 3
+= a
+
+? [2] Select ALL structures in the respiratory zone: a) trachea  b) primary bronchi  c) terminal bronchioles  d) respiratory bronchioles  e) alveolar ducts  f) alveoli
+= d, e, f
+
+? [1] As airways branch from bronchi to bronchioles, which change occurs?
+- cartilage increases
+- smooth muscle disappears
+- cartilage plates disappear and smooth muscle becomes relatively more prominent
+- epithelium becomes stratified squamous
+= c
+
+? [1] Club (Clara) cells are found in the:
+- trachea
+- bronchioles
+- alveolar sacs
+- nasal cavity
+= b — they secrete protective proteins and help detoxify inhaled substances.
+
+? [1] Which cells line the terminal bronchioles?
+- pseudostratified ciliated columnar
+- simple cuboidal (ciliated cells and club cells)
+- stratified squamous
+- simple squamous type I cells
+= b
+
+? [1] Surfactant is made by:
+- type I alveolar cells
+- type II alveolar cells (septal cells)
+- alveolar macrophages
+- goblet cells
+= b
+
+? [1] The cell that wanders the alveoli phagocytizing dust and microbes is the:
+- type I pneumocyte
+- dust cell (alveolar macrophage)
+- club cell
+- goblet cell
+= b
+
+? [1] Small openings between neighboring alveoli that let air flow between them are:
+- pores of Kohn
+- canals of Lambert
+- lacteals
+- acini
+= a
+
+? [1] An acinus (pulmonary lobule) is:
+- another name for a lung lobe
+- a group of alveoli supplied by one terminal bronchiole
+- a bronchopulmonary segment
+- the volume of air inhaled at rest
+= b
+
+? [1] The right lung has ___ lobes and the left lung has ___ lobes.
+- 3, 2
+- 2, 3
+- 3, 3
+- 2, 2
+= a
+
+? [1] Which lung has a horizontal fissure?
+- right only
+- left only
+- both
+- neither
+= a — both lungs have an oblique fissure.
+
+? [1] The lingula is part of the:
+- right upper lobe
+- right middle lobe
+- left upper lobe
+- left lower lobe
+= c — it is the left lung's counterpart to the right middle lobe.
+
+? [1] The indentation in the left lung that holds the heart is the:
+- hilum
+- cardiac notch (impression)
+- costal surface
+- carina
+= b
+
+? [1] Blood vessels, bronchi and nerves enter each lung at the:
+- apex
+- base
+- hilum
+- cardiac notch
+= c
+
+? [1] The heart lies between the lungs in the:
+- pleural cavity
+- mediastinum
+- peritoneal cavity
+- pericardial notch
+= b
+
+? [1] The serous membrane covering the surface of the lung is the:
+- parietal pleura
+- visceral pleura
+- pericardium
+- intercostal fascia
+= b
+
+? [1] The pleural cavity is best described as:
+- an air-filled space
+- a potential space containing a thin film of serous fluid
+- the space inside the alveoli
+- the space between the trachea and esophagus
+= b
+
+? [1] The lungs receive deoxygenated blood for gas exchange through the:
+- bronchial arteries
+- pulmonary arteries
+- pulmonary veins
+- vena cava
+= b — bronchial arteries supply oxygenated blood to the lung tissue itself.
+
+? [1] The nerve that controls the diaphragm is the:
+- vagus nerve
+- phrenic nerve
+- intercostal nerve
+- glossopharyngeal nerve
+= b — it arises from spinal nerves C3–C5 ("C3, 4, 5 keeps the diaphragm alive").
+
+? [1] During quiet inhalation the diaphragm:
+- contracts and moves up
+- relaxes and moves down
+- contracts, flattens and moves down
+- relaxes and moves up
+= c
+
+? [1] Which muscles raise the ribs during quiet inspiration?
+- internal intercostals
+- external intercostals
+- rectus abdominis
+- latissimus dorsi
+= b
+
+? [2] Select ALL accessory muscles of forced inspiration: a) sternocleidomastoid  b) scalenes  c) pectoralis minor  d) internal intercostals  e) rectus abdominis
+= a, b, c
+
+? [1] Blowing up a balloon (forced exhalation) uses mainly the:
+- diaphragm and external intercostals
+- internal intercostals and abdominal muscles
+- scalenes
+- sternocleidomastoid
+= b
+
+? [1] Quiet exhalation is:
+- active, using the internal intercostals
+- passive, using elastic recoil of the lungs and relaxation of inspiratory muscles
+- active, using the diaphragm
+- caused by surfactant
+= b
+
+? [1] During inspiration, alveolar (intrapulmonary) pressure is:
+- higher than atmospheric pressure
+- lower than atmospheric pressure
+- equal to atmospheric pressure
+- equal to intrapleural pressure
+= b
+
+? [1] Normal intrapleural pressure is about:
+- 4 mmHg above alveolar pressure
+- 4 mmHg below alveolar pressure (about 756 mmHg)
+- equal to atmospheric pressure
+- 20 mmHg above atmospheric pressure
+= b — it is always negative relative to alveolar pressure, which keeps the lungs inflated.
+
+? [1] Transpulmonary pressure (Palv − Pip):
+- collapses the lungs
+- keeps the alveoli open
+- is zero in healthy lungs
+- equals atmospheric pressure
+= b
+
+? [1] The "bucket-handle" movement of the ribs during inspiration mainly increases the:
+- vertical dimension of the thorax
+- lateral (side-to-side) dimension of the thorax
+- front-to-back dimension of the thorax
+- volume of the abdomen
+= b — the "pump-handle" movement of the sternum increases the front-to-back dimension.
+
+? [1] Boyle's law states that, at constant temperature, gas pressure is:
+- directly proportional to volume
+- inversely proportional to volume
+- proportional to temperature
+- equal to the sum of partial pressures
+= b
+
+? [1] The law that says total pressure equals the sum of the partial pressures of each gas is:
+- Boyle's
+- Charles'
+- Dalton's
+- Henry's
+= c
+
+? [1] The law that says the amount of gas dissolving in a liquid depends on its partial pressure and solubility is:
+- Boyle's
+- Charles'
+- Dalton's
+- Henry's
+= d
+
+? [1] The law that says gas volume is directly proportional to absolute temperature is:
+- Boyle's
+- Charles'
+- Dalton's
+- Henry's
+= b — it explains why inhaled air expands as it warms.
+
+? [1] The most abundant gas in both inhaled and exhaled air is:
+- oxygen
+- carbon dioxide
+- nitrogen
+- water vapor
+= c
+
+? [1] Air pressure at the top of Mt. Everest is about one-third of sea level (1 atm). Air is 21% O2. The PO2 there is about:
+- 0.21 atm
+- 0.07 atm
+- 0.33 atm
+- 0.7 atm
+= b — 1/3 × 0.21 ≈ 0.07 atm.
+
+? [1] Normal alveolar PO2 is about:
+- 40 mmHg
+- 104 mmHg
+- 160 mmHg
+- 569 mmHg
+= b
+
+? [1] Normal PCO2 in alveoli and arterial blood is about:
+- 4 mmHg
+- 40 mmHg
+- 46 mmHg
+- 104 mmHg
+= b — venous blood is about 45–46 mmHg.
+
+? [1] CO2 diffuses across the respiratory membrane about as fast as O2 even though its pressure gradient is much smaller because CO2 is:
+- a smaller molecule
+- about 20 times more soluble in water
+- carried by hemoglobin
+- actively transported
+= b
+
+? [1] Gases always diffuse from:
+- high to low partial pressure
+- low to high partial pressure
+- high to low total pressure only
+- blood to air only
+= a
+
+? [1] Gas exchange between blood in systemic capillaries and the tissues is called:
+- pulmonary ventilation
+- external respiration
+- internal respiration
+- cellular respiration
+= c
+
+? [1] Gas exchange between alveolar air and pulmonary capillary blood is called:
+- pulmonary ventilation
+- external respiration
+- internal respiration
+- perfusion
+= b
+
+? [1] When an alveolus is poorly ventilated, its arterioles:
+- dilate to bring more blood
+- constrict to send blood to better-ventilated alveoli
+- do not change
+- leak fluid
+= b — hypoxic pulmonary vasoconstriction matches perfusion to ventilation (the opposite of systemic arterioles).
+
+? [1] In an upright healthy person, the ventilation/perfusion (V/Q) ratio is:
+- highest at the base of the lung
+- highest at the apex of the lung
+- the same everywhere
+- zero at the apex
+= b — gravity pulls more blood to the base, so V/Q is lower there.
+
+? [1] How many O2 molecules can one hemoglobin bind?
+- 1
+- 2
+- 4
+- 8
+= c
+
+? [1] The ion at the center of each heme group is:
+- Mg2+
+- Fe2+ (ferrous iron)
+- Fe3+ (ferric iron)
+- Cu2+
+= b
+
+? [1] About what percentage of O2 is carried bound to hemoglobin?
+- 1.5%
+- 25%
+- 70%
+- 98.5%
+= d — only about 1.5% is dissolved because O2 is poorly soluble in water.
+
+? [1] The sigmoid shape of the hemoglobin–O2 curve is due to:
+- negative cooperativity
+- positive cooperativity
+- feedback inhibition
+- competitive inhibition
+= b
+
+? [2] Select ALL changes that shift the hemoglobin–O2 curve to the RIGHT (more unloading): a) increased CO2  b) increased H+ (lower pH)  c) increased temperature  d) increased 2,3-BPG  e) increased carbon monoxide
+= a, b, c, d — CO shifts the curve left.
+
+? [2] Select ALL situations in which the curve shifts LEFT: a) fetal hemoglobin  b) carbon monoxide exposure  c) intense exercise  d) hypothermia  e) alkalosis
+= a, b, d, e
+
+? [1] The effect of CO2 and H+ in lowering hemoglobin's affinity for O2 is the:
+- Haldane effect
+- Bohr effect
+- Hering-Breuer reflex
+- chloride shift
+= b
+
+? [1] The more deoxygenated the blood, the more CO2 it can carry. This is the:
+- Bohr effect
+- Haldane effect
+- Henry effect
+- Dalton effect
+= b
+
+? [1] Compared with adult hemoglobin, fetal hemoglobin:
+- has lower O2 affinity
+- binds 2,3-BPG more strongly
+- has higher O2 affinity, shifting its curve left
+- has six subunits
+= c — HbF has 2 alpha and 2 gamma chains that bind 2,3-BPG poorly.
+
+? [1] At rest, blood leaving the tissues still carries about what percent of its O2?
+- 0%
+- 25%
+- 75%
+- 100%
+= c — this reserve is available during exercise.
+
+? [1] Most CO2 is carried in the blood as:
+- dissolved CO2
+- carbaminohemoglobin
+- bicarbonate ions
+- carbonic acid
+= c — about 70%.
+
+? [1] The enzyme that speeds the conversion of CO2 and water to carbonic acid in red blood cells is:
+- carbonic anhydrase
+- lysozyme
+- catalase
+- carboxypeptidase
+= a
+
+? [1] As bicarbonate leaves the red blood cell, chloride moves in. This is the:
+- Bohr effect
+- chloride shift
+- Haldane effect
+- sodium pump
+= b
+
+? [1] Carbon monoxide is dangerous because it:
+- binds hemoglobin about 200 times more strongly than O2
+- destroys red blood cells
+- blocks the phrenic nerve
+- dissolves surfactant
+= a — treat with 100% or hyperbaric oxygen.
+
+? [1] Myoglobin's O2 curve is:
+- sigmoidal and right of hemoglobin
+- hyperbolic and left of hemoglobin
+- linear
+- identical to hemoglobin
+= b
+
+? [1] The respiratory control centers are in the:
+- midbrain and medulla
+- medulla oblongata and pons
+- pons and cerebellum
+- hypothalamus
+= b
+
+? [1] Damage to which area is most likely to stop breathing completely?
+- pontine respiratory group
+- ventral respiratory group of the medulla
+- lung stretch receptors
+- cerebellum
+= b — the VRG contains the rhythm generator (pre-Bötzinger complex).
+
+? [1] The dorsal respiratory group:
+- sets the basic rhythm through the phrenic and intercostal nerves and integrates sensory input
+- controls only forced exhalation
+- is in the pons
+- controls the vocal cords
+= a
+
+? [1] Overstimulation of the pneumotaxic center would cause breathing that is:
+- slow and deep
+- rapid and shallow
+- absent
+- gasping with long inspiratory holds
+= b — it shortens inspiration.
+
+? [1] The Hering-Breuer (inflation) reflex is triggered by:
+- low blood O2
+- stretch receptors sensing overinflation of the lungs
+- high blood CO2
+- irritants in the trachea
+= b
+
+? [1] Central chemoreceptors in the medulla respond mainly to:
+- low PO2
+- increased H+ in cerebrospinal fluid caused by rising PCO2
+- blood pressure
+- temperature
+= b
+
+? [1] Peripheral chemoreceptors are located in the:
+- hypothalamus and pons
+- carotid bodies and aortic bodies
+- carotid sinus and atria
+- trachea
+= b — they are the only receptors that respond strongly to low PO2 (below about 60 mmHg).
+
+? [1] In a healthy person, the strongest stimulus to breathe is:
+- low O2
+- high CO2
+- high blood pressure
+- low temperature
+= b
+
+? [1] A baby holding its breath will:
+- suffer brain damage from low oxygen
+- automatically start breathing again when CO2 rises high enough
+- become a "blue baby" permanently
+- have heart damage
+= b
+
+? [1] Breathing at rest (normal, quiet breathing) is called:
+- eupnea
+- apnea
+- tachypnea
+- hyperpnea
+= a
+
+? [1] A normal adult resting respiratory rate is:
+- 3–6/min
+- 6–10/min
+- 12–20/min
+- 30–40/min
+= c
+
+? [1] Fewer than 12 breaths per minute is:
+- tachypnea
+- bradypnea
+- hyperpnea
+- dyspnea
+= b
+
+? [1] Increased depth (and rate) of breathing that matches increased demand, as in exercise, is:
+- hyperventilation
+- hyperpnea
+- tachypnea
+- apnea
+= b — hyperventilation removes more CO2 than the body produces.
+
+? [1] Deep, labored, regular breathing in diabetic ketoacidosis (metabolic acidosis) is:
+- Biot's
+- Kussmaul's
+- Cheyne-Stokes
+- apneustic
+= b
+
+? [1] Cycles of gradually deeper then shallower breaths separated by apnea (crescendo-decrescendo), seen in heart failure, is:
+- Kussmaul's
+- Biot's
+- Cheyne-Stokes
+- agonal
+= c
+
+? [1] Groups of quick, equal-depth breaths separated by irregular periods of apnea, seen with meningitis or damage to the medulla/pons, is:
+- Biot's (ataxic)
+- Kussmaul's
+- Cheyne-Stokes
+- eupnea
+= a
+
+? [1] Prolonged, gasping inspirations with a pause before a short exhalation, seen with damage to the upper pons, is:
+- Kussmaul's
+- apneustic
+- Cheyne-Stokes
+- tachypnea
+= b
+
+? [1] Difficulty breathing when lying flat, common in heart failure, is:
+- dyspnea
+- orthopnea
+- apnea
+- eupnea
+= b
+
+? [1] Labored, uncomfortable breathing ("air hunger") is:
+- dyspnea
+- eupnea
+- hypopnea
+- hypocapnia
+= a
+
+? [1] A blood CO2 level below normal is:
+- hypercapnia
+- hypocapnia
+- hypoxia
+- hypoxemia
+= b — hyperventilation causes it, which raises pH (respiratory alkalosis).
+
+? [1] Rapid, shallow breathing from anxiety lowers blood CO2. The result is:
+- respiratory acidosis
+- respiratory alkalosis
+- metabolic acidosis
+- metabolic alkalosis
+= b — symptoms include tingling, dizziness and muscle spasms (tetany).
+
+? [1] Respiratory failure (inadequate ventilation) causes:
+- pH to fall and CO2 to rise
+- pH to rise and CO2 to rise
+- pH to rise and CO2 to fall
+- no change
+= a
+
+? [1] A patient has arterial hypoxemia (PaO2 = 50 mmHg). Which cause would raise PaCO2 the most?
+- high altitude
+- diffusion impairment
+- shunt
+- hypoventilation
+= d
+
+? [1] Vital capacity equals:
+- TV + IRV
+- TLC − RV
+- ERV + RV
+- IC + RV
+= b — also equals TV + IRV + ERV.
+
+? [1] Functional residual capacity equals:
+- ERV + RV
+- TV + IRV
+- TV + ERV
+- IC + ERV
+= a
+
+? [1] The volume of air in a normal quiet breath is the:
+- vital capacity
+- tidal volume
+- residual volume
+- inspiratory reserve volume
+= b — about 500 mL.
+
+? [1] Residual volume is about:
+- 150 mL
+- 500 mL
+- 1,200 mL
+- 6,000 mL
+= c
+
+? [1] About 150 mL of each breath stays in the conducting airways and never reaches the alveoli. This is the:
+- residual volume
+- anatomical dead space
+- functional residual capacity
+- alveolar volume
+= b
+
+? [1] Minute ventilation equals:
+- TV × respiratory rate
+- (TV − dead space) × rate
+- VC × rate
+- TLC ÷ rate
+= a — alveolar ventilation is (TV − dead space) × rate.
+
+? [1] An FEV1/FVC ratio below about ___ indicates obstructive lung disease.
+- 50%
+- 70%
+- 85%
+- 95%
+= b
+
+? [1] Lung compliance is:
+- the force needed to move air through the airways
+- how easily the lungs stretch: change in volume ÷ change in pressure
+- the volume of the lungs at rest
+- the rate of gas diffusion
+= b
+
+? [1] Pulmonary fibrosis causes:
+- increased compliance
+- decreased compliance and decreased vital capacity
+- increased residual volume
+- an FEV1/FVC ratio below 50%
+= b
+
+? [1] Emphysema causes compliance to:
+- increase, because elastic fibers are destroyed
+- decrease
+- stay the same
+- become zero
+= a — recoil is lost, so air is trapped and exhaling is hard.
+
+? [1] Alpha-1 antitrypsin deficiency causes emphysema because:
+- elastase from neutrophils is left unchecked and destroys alveolar walls
+- surfactant is not made
+- cilia stop beating
+- the bronchi narrow
+= a
+
+? [1] Smoking damages the respiratory tract mainly by:
+- paralyzing and destroying cilia and increasing mucus
+- increasing surfactant
+- strengthening the alveoli
+- making the trachea collapse
+= a
+
+? [2] Select ALL obstructive lung diseases: a) emphysema  b) asthma  c) pulmonary fibrosis  d) chronic bronchitis  e) obesity hypoventilation
+= a, b, d
+
+? [1] Chronic bronchitis is defined clinically as a productive cough for:
+- 2 weeks
+- 3 months in each of 2 consecutive years
+- 6 months in a row
+- any length of time
+= b
+
+? [1] Asthma symptoms are mainly caused by inflammation and constriction of the:
+- alveoli
+- pleura
+- bronchi and bronchioles
+- trachea only
+= c
+
+? [1] Curschmann's spirals (twisted mucus casts) in sputum are a sign of:
+- tuberculosis
+- asthma
+- pneumonia
+- lung cancer
+= b
+
+? [1] Albuterol and terbutaline are:
+- short-acting beta-2 agonists (bronchodilators)
+- inhaled steroids
+- antibiotics
+- leukotriene inhibitors
+= a
+
+? [1] Aminophylline (theophylline) is given in acute bronchitis to:
+- promote coughing up mucus
+- suppress the cough
+- relax bronchial smooth muscle
+- prevent infection
+= c
+
+? [1] Some people with asthma have attacks triggered by:
+- NSAIDs such as aspirin
+- vitamin C
+- sleep
+- drinking water
+= a
+
+? [1] Tuberculosis is caused by:
+- a virus
+- Mycobacterium tuberculosis, a bacterium
+- a fungus
+- an allergy
+= b — infected macrophages are walled off in granulomas (tubercles).
+
+? [1] The drug commonly used to treat tuberculosis is:
+- isoniazid
+- albuterol
+- furosemide
+- fluticasone
+= a — combined with rifampin and others for months.
+
+? [1] A 67-year-old has fever, cough and a hazy right lower lobe on x-ray. The best vaccine to have prevented this is the:
+- BCG vaccine
+- pneumococcal vaccine
+- Tdap vaccine
+- HPV vaccine
+= b — Streptococcus pneumoniae is the most common cause of community-acquired pneumonia.
+
+? [1] Coughing up green mucus with fever and shortness of breath most strongly suggests:
+- pneumonia
+- emphysema
+- cystic fibrosis
+- pleurisy
+= a
+
+? [1] Cystic fibrosis is caused by a mutated:
+- CFTR chloride channel
+- sodium-potassium pump
+- hemoglobin beta chain
+- alpha-1 antitrypsin
+= a — the most common mutation is ΔF508.
+
+? [1] Cystic fibrosis is inherited as:
+- autosomal dominant
+- autosomal recessive
+- X-linked recessive
+- mitochondrial
+= b
+
+? [1] A father with cystic fibrosis and a carrier mother have a child. The chance the child has CF is:
+- 1/4
+- 1/2
+- 3/4
+- 1
+= b
+
+? [1] Neonatal respiratory distress syndrome in a premature baby is treated mainly with:
+- antihistamine
+- bronchodilator
+- surfactant replacement
+- antibiotics
+= c — giving the mother corticosteroids before delivery speeds the baby's surfactant production.
+
+? [1] Sharp chest pain that worsens with each breath, caused by inflamed pleura, is:
+- pleurisy
+- pneumothorax
+- pulmonary edema
+- asthma
+= a
+
+? [1] Air in the pleural space that collapses the lung is:
+- atelectasis caused by pneumothorax
+- emphysema
+- pulmonary edema
+- hemothorax
+= a — atelectasis is the collapse; pneumothorax is the air.
+
+? [1] Which is most likely to cause a collapsed lung?
+- gunshot wound to the chest
+- drug overdose
+- food poisoning
+- hyperventilation
+= a
+
+? [1] A blood clot that travels to and blocks a pulmonary artery is a:
+- pulmonary edema
+- pulmonary embolism
+- pneumothorax
+- pleural effusion
+= b — it increases alveolar dead space (ventilated but not perfused).
+
+? [1] Fluid build-up in the alveoli, often from left heart failure, is:
+- pleurisy
+- pulmonary edema
+- pneumoconiosis
+- bronchitis
+= b — patients may cough up pink, frothy sputum; treated with diuretics such as furosemide.
+
+? [1] Lung disease caused by inhaling mineral dust (coal, silica, asbestos) is called:
+- pneumoconiosis
+- pneumothorax
+- pleurisy
+- sarcoidosis
+= a
+
+? [1] Long-term asbestos exposure is linked to:
+- mesothelioma
+- small cell carcinoma only
+- Kaposi sarcoma
+- carcinoid tumor
+= a
+
+? [1] The most common type of lung cancer overall is:
+- small cell carcinoma
+- adenocarcinoma (a non-small cell lung cancer)
+- mesothelioma
+- carcinoid
+= b
+
+? [1] Obstructive sleep apnea is caused by:
+- the brain failing to send signals to breathe
+- repeated collapse of the pharyngeal airway during sleep
+- fluid in the alveoli
+- a pneumothorax
+= b — risk factors include obesity; it is diagnosed with a polysomnogram (sleep study) and treated with CPAP.
+
+? [1] The common cold, inflammation of the nasal mucosa, is:
+- acute rhinitis
+- laryngitis
+- sinusitis
+- pharyngitis
+= a
+
+? [1] Inflammation of the vocal folds causing hoarseness is:
+- rhinitis
+- laryngitis
+- tonsillitis
+- tracheitis
+= b
+
+? [1] Hiccups are involuntary spasms of the:
+- larynx
+- diaphragm
+- external intercostals
+- epiglottis
+= b
+
+? [1] Sneezing differs from coughing because in a sneeze:
+- air is forced out through the nose and the uvula is depressed
+- the glottis stays open
+- the diaphragm relaxes
+- no air moves
+= a
+
+? [1] Which of the following is NOT a non-respiratory air movement?
+- coughing
+- yawning
+- hiccuping
+- eupnea
+= d
+
+? [1] Which is NOT a function of the respiratory system?
+- sense of smell
+- producing angiotensin-converting enzyme (in lung capillaries)
+- regulating blood pH
+- digesting nutrients
+= d
+
+? [1] When rising quickly to high altitude, the first thing that drives faster breathing is:
+- hypoxic stimulation of central chemoreceptors
+- hypoxic stimulation of carotid body chemoreceptors
+- falling pH around central chemoreceptors
+- falling pulmonary blood pressure
+= b
+
+? [1] Over weeks at high altitude, which change helps the body adapt?
+- decreased red blood cell production
+- increased erythropoietin and red blood cell count
+- decreased 2,3-BPG
+- decreased breathing rate
+= b
+
+? [1] Rapid ascent to high altitude can cause high-altitude pulmonary edema because:
+- hypoxia constricts pulmonary vessels, raising pressure and pushing fluid into alveoli
+- surfactant boils
+- nitrogen bubbles form
+- the trachea collapses
+= a
+
+? [1] Decompression sickness ("the bends") is explained by:
+- Boyle's law
+- Charles' law
+- Dalton's law
+- Henry's law
+= d
+
+? [1] Which would NOT normally be treated with 100% oxygen?
+- anoxia
+- carbon monoxide poisoning
+- eupnea
+- severe hypoxemia from pneumonia
+= c — in an emphysema patient who retains CO2, high-flow oxygen must also be used with caution.
+
+? [1] Which describes aging of the respiratory system?
+- vital capacity increases
+- costal cartilage becomes stiffer and elastic tissue decreases
+- alveoli multiply
+- tidal volume doubles
+= b
+
+? [1] Exercise training improves breathing mainly by:
+- increasing the number of alveoli
+- strengthening the diaphragm and intercostal muscles
+- reducing lung volume
+- removing dead space
+= b
+
+? [1 | TB] In the Weibel model of the airways, gas exchange begins at about generation:
+- 1
+- 8
+- 17
+- 23
+= c — generations 0–16 are conducting; 17–23 are the respiratory zone.
+
+? [1 | TB] In a patient whose lung compliance is half normal, with normal tidal volume and rate:
+- the total work of breathing increases
+- airway resistance doubles
+- FRC increases
+- alveolar pressure is positive at end-inspiration
+= a — pleural pressure must become more negative to inflate stiff lungs.
+
+
+? [1] Which is NOT a function of the respiratory system?
+- helping produce sound (speech)
+- helping regulate blood pH
+- helping return venous blood and lymph to the heart through pressure changes in the chest
+- producing red blood cells
+= d — breathing's pressure changes do aid venous and lymph return (the "respiratory pump").
+
+? [1] The olfactory epithelium, which detects smells, is located:
+- on the vocal cords
+- in the roof of the nasal cavity
+- in the trachea
+- in the alveoli
+= b
+
+? [1] The respiratory membrane that gases cross consists of:
+- alveolar epithelium, fused basement membranes and capillary endothelium
+- bronchial cartilage and smooth muscle
+- pleura and diaphragm
+- type II cells only
+= a — it is only about 0.5 µm thick.
+
+? [1] Air flow (F) through the airways depends on the pressure gradient and resistance (F = ΔP/R). The factor that most changes airway resistance is:
+- airway length
+- airway diameter (bronchiole radius)
+- air temperature
+- number of alveoli
+= b — resistance rises sharply as radius falls, which is why bronchoconstriction in asthma is so serious.
+
+? [1] Sympathetic stimulation (epinephrine) affects the bronchioles by causing:
+- bronchoconstriction
+- bronchodilation
+- more mucus
+- no effect
+= b — parasympathetic (vagus) stimulation causes bronchoconstriction.
+
+? [1] A spirogram trace shows each quiet breath rising and falling by about 0.5 L. This volume is the:
+- tidal volume
+- vital capacity
+- expiratory reserve volume
+- residual volume
+= a
+
+? [1] On a spirogram, the largest single excursion from a maximal inhalation to a maximal exhalation is the:
+- tidal volume
+- vital capacity
+- total lung capacity
+- inspiratory capacity
+= b — TLC cannot be read directly because residual volume never leaves the lungs.
+
+? [1] On a forced-exhalation spirogram (volume vs time), an obstructive disease shows:
+- a steep curve that reaches its plateau within about 1 second
+- a slowly rising curve that takes many seconds to reach a plateau, with a low FEV1
+- a small, quick curve with a high FEV1/FVC
+- a flat line
+= b — a restrictive disease shows a small but fast curve.
+
+? [1] During strenuous exercise, minute ventilation can rise from about 6 L/min to more than:
+- 10 L/min
+- 20 L/min
+- 100 L/min
+- 1,000 L/min
+= c — both tidal volume and rate increase.
+
+? [1] At the start of exercise, breathing rises abruptly within seconds, before blood gases change. This is mainly due to:
+- falling blood O2
+- neural input from the motor cortex and from proprioceptors in moving muscles and joints
+- rising blood CO2
+- surfactant release
+= b — arterial PO2 and PCO2 stay nearly normal during moderate exercise.
+
+? [1] During exercise, which change increases O2 unloading to working muscle?
+- lower temperature
+- higher pH
+- higher CO2, H+ and temperature, shifting the curve right
+- less 2,3-BPG
+= c
+
+? [1] Long-term endurance training does NOT:
+- strengthen the diaphragm and intercostal muscles
+- increase maximum minute ventilation
+- increase the number of alveoli in an adult
+- increase capillary density in skeletal muscle
+= c
+
+? [1] Erythropoietin (EPO), which increases red blood cell production at high altitude, is released mainly by the:
+- liver
+- kidneys
+- lungs
+- bone marrow
+= b
+
+? [1] Over days at high altitude, the kidneys excrete more bicarbonate. This:
+- corrects the respiratory alkalosis caused by hyperventilation
+- causes acidosis
+- reduces breathing
+- lowers red blood cell count
+= a — acetazolamide speeds this and helps prevent altitude sickness.
+
+? [1] People native to high altitudes (such as in the Andes) typically have:
+- smaller chests and fewer red blood cells
+- larger lung volumes and higher hematocrit
+- no 2,3-BPG
+- lower ventilation at rest
+= b
+
+? [1] The best single treatment for acute mountain sickness that is worsening is:
+- antihistamines
+- descending to a lower altitude
+- exercising harder
+- drinking alcohol
+= b
+
+? [1] COPD includes mainly:
+- asthma and pneumonia
+- emphysema and chronic bronchitis
+- tuberculosis and pleurisy
+- cystic fibrosis and sleep apnea
+= b
+
+? [1] The leading cause of COPD is:
+- air pollution
+- cigarette smoking
+- viral infection
+- obesity
+= b — alpha-1 antitrypsin deficiency is a genetic cause.
+
+? [1] A "pink puffer" is a COPD patient with mainly:
+- chronic bronchitis
+- emphysema
+- asthma
+- pneumonia
+= b — "blue bloaters" have mainly chronic bronchitis, with cyanosis and edema.
+
+? [1] Which COPD patient is most likely to have a barrel chest from air trapping?
+- emphysema
+- pneumonia
+- sleep apnea
+- pulmonary fibrosis
+= a
+
+? [1] Status asthmaticus is:
+- mild seasonal asthma
+- a severe asthma attack that does not respond to usual bronchodilators
+- exercise-induced asthma
+- asthma that has resolved
+= b — it is a medical emergency.
+
+? [1] An asthma attack has an early phase driven by mast-cell histamine and a late phase (hours later) driven by:
+- eosinophils, leukotrienes and airway inflammation
+- neutrophils only
+- surfactant loss
+- red blood cells
+= a — this is why inhaled steroids are used for long-term control.
+
+? [1] Pneumonia acquired in a hospital or on a ventilator is most often caused by:
+- Streptococcus pneumoniae only
+- gram-negative bacteria such as Pseudomonas, and Staphylococcus aureus
+- the common cold virus
+- Mycobacterium tuberculosis
+= b
+
+? [1] On a chest x-ray, pneumonia of one whole lobe appears as:
+- a dark, air-filled area
+- a white, dense area (consolidation)
+- a collapsed lung edge
+- a normal lung
+= b — alveoli are filled with fluid, pus and cells.
+
+? [1] Central sleep apnea differs from obstructive sleep apnea because in central apnea:
+- the airway collapses
+- the brain fails to send signals to the breathing muscles
+- the patient is always obese
+- snoring is loud
+= b — it is linked to heart failure, stroke and opioid use.
+
+? [1] A sleep study counts pauses in breathing per hour to give the:
+- FEV1
+- apnea-hypopnea index (AHI)
+- DLCO
+- V/Q ratio
+= b — an AHI of 30 or more per hour is severe.
+
+? [1] Cystic fibrosis patients often have poor growth because:
+- thick mucus blocks pancreatic ducts, so digestive enzymes cannot reach the intestine
+- they cannot taste food
+- they lack stomach acid
+- their teeth are weak
+= a — they take pancreatic enzyme capsules with meals.
+
+? [1] Most men with cystic fibrosis are infertile because:
+- the vas deferens is blocked or absent
+- they lack testosterone
+- the testes do not form
+- sperm lack mitochondria
+= a
+
+? [1] CFTR modulator drugs (such as elexacaftor/tezacaftor/ivacaftor) work by:
+- killing bacteria
+- helping the faulty CFTR channel fold correctly and open
+- thinning mucus with enzymes
+- replacing surfactant
+= b
+
+## B. True or False
+@ Write True or False.
+
+? [1] The mucociliary escalator moves mucus up toward the pharynx, where it is swallowed or coughed out.
+= True
+
+? [1] Inhalation is active and quiet exhalation is passive.
+= True
+
+? [1] Type I pneumocytes make surfactant and type II pneumocytes carry out gas exchange.
+= False — type II make surfactant; type I form the thin exchange surface.
+
+? [1] Oxygen binds the central magnesium atom of heme.
+= False — it binds iron (Fe2+).
+
+? [1] The normal pH range of arterial blood is 7.35–7.45.
+= True
+
+? [1] Hyperventilation makes the blood more acidic.
+= False — it removes CO2 and makes blood more alkaline.
+
+? [1] Bronchioles have cartilage rings like the trachea.
+= False — bronchioles have no cartilage.
+
+? [1] The left main bronchus is shorter and more vertical than the right.
+= False — the right is shorter, wider and more vertical.
+
+? [1] O2 is more soluble in water than CO2.
+= False — CO2 is about 20 times more soluble.
+
+? [1] An increase in body temperature decreases gas solubility and shifts the O2 curve to the right.
+= True
+
+? [1] The PO2 of tissue cells is higher than that of arterial blood.
+= False — it is lower, so O2 diffuses into the tissues.
+
+? [1] Residual volume can be measured with a simple spirometer.
+= False — it needs helium dilution, nitrogen washout or body plethysmography.
+
+? [1] Pneumonia is always caused by a virus.
+= False — it can be bacterial, viral or fungal; bacteria (especially S. pneumoniae) are common causes.
+
+? [1] Tuberculosis is a viral disease.
+= False — it is bacterial.
+
+? [1] Obesity is a common cause of restrictive lung physiology.
+= True
+
+? [1] Exercise decreases the amount of anatomical dead space.
+= False — anatomical dead space stays about the same; deeper breaths make it a smaller fraction of each breath.
+
+? [1] The lungs are compartmentalized, so damage to one lobe does not necessarily affect the others.
+= True
+
+? [1] Peripheral chemoreceptors are located in the carotid sinus and the atria.
+= False — they are in the carotid and aortic bodies.
+
+? [1] You can consciously override breathing for a short time using the cerebral cortex.
+= True — not the cerebellum.
+
+? [1] The trachea is reinforced by hyaline cartilage.
+= True
+
+? [1] Hering-Breuer reflex receptors are in the medulla.
+= False — they are stretch receptors in the walls of the bronchi and bronchioles.
+
+? [1] Fetal hemoglobin has a lower affinity for oxygen than adult hemoglobin.
+= False
+
+? [1] The pleural cavity is a potential space, normally with almost no room in it.
+= True
+
+? [1] The alveoli provide about 70 square meters of surface area for gas exchange.
+= True
+
+? [1] The common cold (acute rhinitis) has no cure.
+= True — treatment is supportive.
+
+## C. Fill in the Blank
+
+? [2] Surfactant is a mix of about 90% ______ and 10% ______; it lowers alveolar ______.
+= phospholipids; proteins; surface tension
+
+? [3] Name the three regions of the pharynx from top to bottom.
+= nasopharynx, oropharynx, laryngopharynx
+
+? [2] The upper folds of the larynx are the ______ vocal cords (vestibular folds); the lower folds that vibrate to make sound are the ______ vocal cords.
+= false; true
+
+? [2] Name the two pleural layers. Which covers the lung surface?
+= parietal and visceral; the visceral pleura covers the lung.
+
+? [2] The two sets of peripheral chemoreceptors are the ______ bodies and the ______ bodies.
+= carotid; aortic
+
+? [2] The ______ respiratory group controls the inspiratory muscles through the phrenic and intercostal nerves; the ______ respiratory group controls forced breathing and muscles of the pharynx, larynx and tongue.
+= dorsal; ventral
+
+? [2] The two respiratory centers of the pons are the ______ center and the ______ center.
+= pneumotaxic; apneustic
+
+? [3] The respiratory process has three components: ______, ______ and ______.
+= ventilation, diffusion (gas exchange), perfusion (blood flow)
+
+? [2] The bound form of hemoglobin and CO2 is called ______; hemoglobin bound to O2 is ______.
+= carbaminohemoglobin; oxyhemoglobin
+
+? [2] Write the equation for the bicarbonate buffer reaction in red blood cells.
+= CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3−
+
+? [1] The bicarbonate buffer shifts in response to added or removed CO2 according to ______'s principle.
+= Le Chatelier
+
+? [1] The unit of pressure that raises a mercury column 1 mm is the ______.
+= mmHg (torr)
+
+? [1] Air in the conducting zone that never takes part in gas exchange is called anatomical ______ ______.
+= dead space
+
+? [1] ______ is the medical term for a bluish color of the skin and lips caused by low blood oxygen.
+= cyanosis
+
+? [4] Match the terms to definitions: low O2 in tissues; low O2 in arterial blood; high CO2 in blood; bluish skin.
+= hypoxia; hypoxemia; hypercapnia; cyanosis
+
+? [1] The functional unit of the lung served by one terminal bronchiole is the ______.
+= acinus (pulmonary lobule)
+
+? [3] In order of decreasing size, the three microscopic units of the lung are ______, ______ and ______.
+= alveolar ducts, alveolar sacs, alveoli
+
+? [1] Normal vital capacity in an adult is about ______ mL.
+= 4,800 (accept 4,500–5,000)
+
+? [1] Normal total lung capacity in an adult male is about ______ mL.
+= 6,000
+
+? [2] During a normal inhalation, intrapleural pressure is about ______ mmHg relative to atmospheric pressure, and transpulmonary pressure keeps the alveoli ______.
+= −6 (accept −4 to −8); open
+
+? [1] The gene mutated in cystic fibrosis is ______.
+= CFTR
+
+? [1] The test used to diagnose COPD is ______.
+= spirometry
+
+? [1] Sleep apnea is confirmed with an overnight sleep study called a ______.
+= polysomnogram
+
+? [1] The enzyme that destroys alveolar walls in emphysema when alpha-1 antitrypsin is missing is ______.
+= elastase
+
+? [1] The maneuver used to dislodge food from a choking person's airway is the ______ maneuver.
+= Heimlich (abdominal thrusts)
+
+? [1] Surfactant production in the fetus is stimulated by cortisol from the adrenal gland and by ______ hormones.
+= thyroid
+
+
+? [3] Name three functions of the respiratory system other than gas exchange.
+= any three: sense of smell, speech (sound production), regulating blood pH, filtering/warming/humidifying air, protection from pathogens, helping venous and lymph return, converting angiotensin I to II (ACE in lung capillaries)
+
+? [2] Breathing out at the start of a cough begins with a deep breath, then the ______ closes and abdominal muscles contract, then it suddenly opens.
+= glottis
+
+? [2] Two genetic causes of COPD or emphysema are ______ deficiency; the strongest environmental cause is ______.
+= alpha-1 antitrypsin; cigarette smoking
+
+? [1] The CFTR protein normally transports ______ ions out of epithelial cells.
+= chloride
+
+## D. Matching
+
+? [4] Match each breathing pattern to its most likely cause.
+| Pattern | Cause |
+| 1. Kussmaul | a. Damage to the upper pons |
+| 2. Cheyne-Stokes | b. Diabetic ketoacidosis |
+| 3. Apneustic | c. Runner who just finished a race |
+| 4. Tachypnea | d. Congestive heart failure or brain injury |
+= 1-b, 2-d, 3-a, 4-c
+
+? [7] Match each breathing pattern to its description.
+| Pattern | Description |
+| 1. Eupnea | a. Caused by upper airway collapse during sleep |
+| 2. Obstructive sleep apnea | b. Cycles with periods of apnea |
+| 3. Orthopnea | c. Rate 12–20, tidal volume about 500 mL |
+| 4. Dyspnea | d. Feeling of difficult, labored breathing |
+| 5. Cheyne-Stokes | e. Cannot breathe comfortably lying down |
+| 6. Hyperventilation | f. Dizziness, tingling and spasms in hands and feet |
+| 7. Hypoventilation | g. CO2 builds up; blood becomes acidic |
+= 1-c, 2-a, 3-e, 4-d, 5-b, 6-f, 7-g
+
+? [8] Match each condition to its description.
+| Condition | Description |
+| 1. Tuberculosis | a. Excess fluid in the lungs |
+| 2. Emphysema | b. Reversible airway narrowing from an immune response |
+| 3. Asthma | c. Airborne bacterial infection; night sweats, bloody cough |
+| 4. Chronic bronchitis | d. Alveolar walls destroyed; large air spaces |
+| 5. Pneumonia | e. Breathing stops during sleep; treated with CPAP |
+| 6. Pulmonary edema | f. Inflamed pleura, sharp pain on breathing |
+| 7. Sleep apnea | g. Inflamed air sacs that fill with fluid or pus |
+| 8. Pleurisy | h. Productive cough for 3+ months in 2 years; damaged cilia |
+= 1-c, 2-d, 3-b, 4-h, 5-g, 6-a, 7-e, 8-f
+
+? [8] Match each disease to its treatment.
+| Disease | Treatment |
+| 1. Asthma | a. Fluticasone (inhaled steroid) and albuterol |
+| 2. COPD | b. Levofloxacin or other antibiotic |
+| 3. Emphysema (severe) | c. Tiotropium (long-acting bronchodilator) |
+| 4. Bacterial pneumonia | d. CPAP |
+| 5. Sleep apnea | e. Isoniazid and rifampin |
+| 6. Cystic fibrosis | f. Furosemide (diuretic) |
+| 7. Tuberculosis | g. Mucolytics and airway clearance |
+| 8. Pulmonary edema | h. Lung volume reduction surgery |
+= 1-a, 2-c, 3-h, 4-b, 5-d, 6-g, 7-e, 8-f
+
+? [4] Match the gas to its partial pressure in alveolar air.
+| Gas | Partial pressure |
+| 1. N2 | a. 104 mmHg |
+| 2. O2 | b. 40 mmHg |
+| 3. CO2 | c. 569 mmHg |
+| 4. H2O | d. 47 mmHg |
+= 1-c, 2-a, 3-b, 4-d
+
+? [4] Match the process to its definition.
+| Process | Definition |
+| 1. Pulmonary ventilation | a. Gas exchange between blood and tissues |
+| 2. External respiration | b. Movement of gases in blood between lungs and tissues |
+| 3. Transport of respiratory gases | c. Movement of air into and out of the lungs |
+| 4. Internal respiration | d. Gas exchange between alveoli and blood |
+= 1-c, 2-d, 3-b, 4-a
+
+? [7] Match the structure to its description.
+| Structure | Description |
+| 1. Nose | a. Mucosa-lined, air-filled cavities in skull bones |
+| 2. Paranasal sinuses | b. Tonsils expose immune cells to inhaled antigens |
+| 3. Pharynx | c. External part supported by bone and cartilage |
+| 4. Trachea | d. Supported by hyaline cartilage and ends at the carina |
+| 5. Lungs | e. Elastic connective tissue stroma; flank the mediastinum |
+| 6. Pleurae | f. Serous membrane |
+| 7. Alveoli | g. Simple squamous walls; some cells make surfactant |
+= 1-c, 2-a, 3-b, 4-d, 5-e, 6-f, 7-g
+
+## E. Lung Volumes, Calculations and Data
+
+? [4] A patient has TV = 500 mL, IRV = 3,000 mL, ERV = 1,100 mL and RV = 1,200 mL. Calculate inspiratory capacity, vital capacity, functional residual capacity and total lung capacity.
+= IC = 3,500 mL; VC = 4,600 mL; FRC = 2,300 mL; TLC = 5,800 mL
+
+? [1] TV = 500 mL, ERV = 1,200 mL, IRV = 3,100 mL, RV = 1,200 mL. What is the functional residual capacity?
+= 2,400 mL (ERV + RV)
+
+? [1] TV = 0.5 L, RV = 1 L, IRV = 3 L, ERV = 1.5 L. Calculate vital capacity.
+= 5.0 L
+
+? [1] IRV = 1,900 mL and TV = 500 mL. What is the maximum volume that can be inhaled after a resting exhalation (inspiratory capacity)?
+= 2,400 mL
+
+? [1] Vital capacity is 5,000 mL, FRC is 2,000 mL and ERV is 1,000 mL. What is total lung capacity?
+= 6,000 mL — RV = FRC − ERV = 1,000 mL; TLC = VC + RV.
+
+? [2] Vital capacity is 4,500 mL, ERV is 1,250 mL and IRV is 2,500 mL. Calculate tidal volume in liters.
+= 0.75 L
+
+? [2] A patient breathes 15 times per minute with a tidal volume of 500 mL. Calculate minute ventilation in L/min.
+= 7.5 L/min
+
+? [2] Using the patient above (dead space 150 mL), calculate alveolar ventilation.
+= (500 − 150) × 15 = 5,250 mL/min = 5.25 L/min
+
+? [2] Two people have the same minute ventilation of 6 L/min. Person A breathes 30 times/min at 200 mL; person B breathes 10 times/min at 600 mL. Dead space is 150 mL for both. Who has better alveolar ventilation? Show work.
+= B. A: (200 − 150) × 30 = 1.5 L/min. B: (600 − 150) × 10 = 4.5 L/min. Shallow, rapid breathing wastes more air on dead space.
+
+? [2] A smoker's FVC is 5.02 L and FEV1 is 2.61 L. Calculate FEV1/FVC and state whether this pattern is obstructive or restrictive.
+= 52%; obstructive (below 70%)
+
+? [3] Spirometry: Patient A has FEV1 2.0 L, FVC 4.0 L. Patient B has FEV1 2.4 L, FVC 2.8 L. Calculate each ratio and classify each patient.
+= A: 50%, obstructive. B: 86%, restrictive pattern (low FVC with normal or high ratio; confirm with low TLC).
+
+? [2] A woman's FVC is 40% of predicted, FEV1/FVC is 61%, and TLC is 52% of predicted. Her FVC falls further when she lies down. Classify her disease. Which muscle is likely weak?
+= Restrictive (TLC low). A large drop in FVC when supine points to diaphragm weakness.
+
+? [2] A 65-year-old non-smoker exposed to asbestos has FVC 102% of predicted, FEV1/FVC 73%, TLC 113% of predicted, and no change after a bronchodilator. Interpret.
+= Normal spirometry: no airflow obstruction, no restriction (TLC normal to high), no significant bronchodilator response; DLCO only mildly low. Keep monitoring for asbestos-related disease.
+
+? [1] A bronchodilator raises a patient's FEV1 by 15% and 300 mL. This suggests:
+= reversible airway obstruction, typical of asthma (a significant response is ≥ 12% and ≥ 200 mL).
+
+? [2] Describe how a flow-volume loop looks in obstructive disease and in restrictive disease compared with a healthy loop.
+= Obstructive: lower peak flow, "scooped" (concave) expiratory limb, loop shifted toward larger volumes. Restrictive: small, narrow loop of near-normal shape shifted toward smaller volumes.
+
+? [3] Define FEV1 and FVC. How does the FEV1/FVC ratio change in obstructive vs restrictive disease?
+= FEV1: volume forcibly exhaled in the first second. FVC: total volume forcibly exhaled after a maximal breath in. Obstructive: ratio falls (< 70%). Restrictive: ratio normal or high.
+
+? [2] Calculate the PO2 of dry inspired air at sea level (760 mmHg), and at 18,000 ft where pressure is 380 mmHg.
+= Sea level: 0.21 × 760 ≈ 160 mmHg. At 18,000 ft: 0.21 × 380 ≈ 80 mmHg.
+
+? [2] Lung compliance: a 1.0 L breath requires a 2.5 cmH2O change in transpulmonary pressure. Calculate compliance. Would it rise or fall in fibrosis?
+= 1.0 ÷ 2.5 = 0.4 L/cmH2O; compliance falls in fibrosis.
+
+? [2] A diver uses a snorkel that adds 300 mL of dead space. With TV 500 mL, anatomical dead space 150 mL and rate 12/min, what is the new alveolar ventilation?
+= (500 − 150 − 300) × 12 = 600 mL/min. Breathing through a long snorkel is dangerous unless TV increases.
+
+? [4] For each treatment, write A (effective for asthma only), E (emphysema only), B (both) or N (neither): a) bronchodilators  b) inhaled glucocorticoids  c) oxygen therapy  d) leukotriene inhibitors
+= a) B  b) A (also used in COPD flare-ups)  c) B (when hypoxemic; long-term mainly emphysema)  d) A
+
+
+@ Questions on a spirogram described in numbers. In a spirogram of total lung volume over time: quiet breaths rise and fall between 2.4 L and 2.9 L; the deepest inspiration reaches 5.9 L; the deepest expiration falls to 1.2 L; 6 quiet breaths take 24 seconds.
+
+? [8] From the spirogram described above, calculate: a) tidal volume  b) inspiratory reserve volume  c) expiratory reserve volume  d) residual volume  e) vital capacity  f) inspiratory capacity  g) functional residual capacity  h) total lung capacity
+= a) 0.5 L  b) 5.9 − 2.9 = 3.0 L  c) 2.4 − 1.2 = 1.2 L  d) 1.2 L  e) 5.9 − 1.2 = 4.7 L  f) 5.9 − 2.4 = 3.5 L  g) 2.4 L  h) 5.9 L
+
+? [2] Using the same spirogram, calculate the breathing rate (breaths/min) and minute ventilation (L/min).
+= 6 breaths in 24 s = 15 breaths/min; 0.5 × 15 = 7.5 L/min
+
+? [2] A residual volume of 1.2 L appears on the spirogram above. How was it determined, given that a spirometer cannot measure it?
+= By another method (helium dilution, nitrogen washout or body plethysmography); the spirogram only shows changes in volume, so RV must be added from that test.
+
+? [3] Two patients' spirograms: Patient X has TLC 8.0 L, RV 3.5 L, VC 4.5 L. Patient Y has TLC 3.8 L, RV 1.0 L, VC 2.8 L. Classify each pattern and name a disease that fits.
+= X: obstructive with air trapping (high TLC and RV) — emphysema/COPD. Y: restrictive (low TLC and VC) — pulmonary fibrosis or obesity.
+
+? [4] During exercise, an athlete's tidal volume rises from 0.5 L to 2.5 L and rate from 12 to 40 breaths/min. Dead space is 0.15 L. Calculate minute ventilation and alveolar ventilation at rest and during exercise.
+= Rest: VE = 6 L/min; VA = (0.5 − 0.15) × 12 = 4.2 L/min. Exercise: VE = 100 L/min; VA = (2.5 − 0.15) × 40 = 94 L/min.
+
+? [2] At sea level hemoglobin is 98% saturated; at high altitude it is 85%. If a person has 150 g/L hemoglobin and each gram carries 1.34 mL O2 when saturated, calculate O2 carried per liter of blood in each case.
+= Sea level: 150 × 1.34 × 0.98 ≈ 197 mL O2/L. Altitude: 150 × 1.34 × 0.85 ≈ 171 mL O2/L.
+
+? [2] Read an oxygen dissociation curve: arterial blood at PO2 100 mmHg is 98% saturated; venous blood at 40 mmHg is 75% saturated. What percentage of the O2 was unloaded to the tissues? During exercise, muscle PO2 falls to 20 mmHg (35% saturated). What percentage is unloaded now?
+= Rest: 98 − 75 = 23 percentage points (about 23% of the O2). Exercise: 98 − 35 = 63 percentage points (about 64% of the O2).
+
+? [2] The P50 is the PO2 at which hemoglobin is 50% saturated (normally about 27 mmHg). If a person's P50 rises to 32 mmHg, which way has the curve shifted, and what might cause it?
+= To the right (lower affinity). Causes: exercise, fever, acidosis, high CO2, more 2,3-BPG (altitude).
+
+## F. Short Answer and Case Studies
+
+? [4] Name the three ways CO2 is carried in blood, with approximate percentages. Explain the roles of carbonic anhydrase and the chloride shift.
+= ~70% as bicarbonate, ~20–23% as carbaminohemoglobin, ~7–10% dissolved. Carbonic anhydrase in red blood cells rapidly converts CO2 + H2O to H2CO3, which splits into H+ and HCO3−. HCO3− leaves the cell in exchange for Cl− (chloride shift), keeping the gradient so more CO2 can load.
+
+? [2] CO2 is a neutral molecule. Explain, with an equation, how rising CO2 lowers blood pH.
+= CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3−. More CO2 drives the reaction right, raising H+ and lowering pH (respiratory acidosis).
+
+? [3] A person lacks carbonic anhydrase. Predict what happens to CO2 transport and blood pH.
+= CO2 and carbonic acid cannot interconvert quickly, so far less CO2 is carried as bicarbonate. CO2 builds up in tissues and blood, lowering pH (acidosis).
+
+? [5] Explain why hemoglobin's sigmoidal curve is useful. Include positive cooperativity and what happens at about 40 mmHg.
+= Binding of the first O2 changes hemoglobin's shape and raises affinity for the next O2 (positive cooperativity). In the lungs (~100 mmHg) the flat top keeps hemoglobin nearly 100% saturated even if PO2 drops a little. At tissue PO2 (~40 mmHg) the curve is steep, so a small drop in PO2 releases a lot of O2.
+
+? [5] Why does fetal hemoglobin's curve lie to the left of adult hemoglobin's? Why is this useful? What disease can be treated by inducing HbF?
+= HbF has 2 alpha and 2 gamma chains; gamma chains bind 2,3-BPG poorly, so HbF has higher O2 affinity. This pulls O2 from maternal blood across the placenta. Sickle cell disease: hydroxyurea raises HbF, which prevents sickling.
+
+? [2] How does the myoglobin dissociation curve differ in shape from hemoglobin's, and why?
+= Myoglobin's curve is hyperbolic and left-shifted because it has one heme and no cooperative binding. It stores O2 in muscle and releases it only at very low PO2.
+
+? [3] Define surfactant generally. Explain why pulmonary surfactant is important, using the law of Laplace (P = 2T/r).
+= A surfactant lowers the surface tension of water. Without it, surface tension would make small alveoli (small r, high pressure) collapse and empty into larger ones. Surfactant lowers tension more in small alveoli, keeping all alveoli open and reducing the work of breathing.
+
+? [4] Donald coughs up thick mucus and has high chloride in his sweat. Name the disease, how it is inherited and the affected protein. Explain why his mucus is thick and why the pH of his small intestine is lower than normal.
+= Cystic fibrosis; autosomal recessive; CFTR chloride channel. Without Cl− secretion, Na+ and water are pulled out of the airway, leaving dehydrated, sticky mucus. Pancreatic duct cells need CFTR to secrete bicarbonate, so less HCO3− reaches the duodenum and its pH drops; thick secretions also block the ducts.
+
+? [3] A boy born in 2000 fails to gain weight, has greasy, foul-smelling stools and a productive cough by 4 months. Name the disease, the most common mutation, and one bacterium he is especially prone to.
+= Cystic fibrosis; ΔF508 in CFTR; Pseudomonas aeruginosa (also Staphylococcus aureus).
+
+? [3] How is cystic fibrosis diagnosed and treated? Is there a cure?
+= Newborn screening (high immunoreactive trypsinogen), sweat chloride test, genetic testing. Treatment: airway clearance, mucolytics, antibiotics, bronchodilators, pancreatic enzymes, CFTR modulators. No cure; lung transplant in severe cases.
+
+? [4] A stab wound causes a collapsed left lung. Using Palv, Pip and Ptp, explain why it collapsed. Why did the right lung not collapse? Name two risk factors for a spontaneous pneumothorax.
+= Air enters the pleural space, so Pip rises to atmospheric pressure. Ptp (Palv − Pip) falls to 0, so nothing holds the lung open and elastic recoil collapses it. Each lung has its own pleural cavity. Risk factors: tall, thin young male; smoking; COPD or CF; Marfan syndrome.
+
+? [4] Left heart failure causes blood to back up in the pulmonary circulation. Explain how this causes pulmonary edema. Give two reasons PO2 falls more than PCO2 rises when diffusion is impaired.
+= Higher pulmonary capillary hydrostatic pressure pushes fluid into the interstitium and alveoli, thickening the diffusion barrier. (1) CO2 is about 20× more soluble and diffuses faster. (2) Extra ventilation easily blows off CO2 but cannot add much O2 to blood leaving well-ventilated alveoli (hemoglobin is already near saturation).
+
+? [5] Jeffrey, an obese heavy smoker with heart disease, suddenly becomes short of breath, wheezes and coughs up pink, frothy sputum. Name the condition and whether it is acute or chronic. Give two immediate treatments and two tests.
+= Acute pulmonary edema (cardiogenic). Treatment: sit upright, oxygen, diuretic (furosemide), nitrates/positive-pressure ventilation. Tests: chest x-ray, echocardiogram, BNP blood test, ECG, arterial blood gas.
+
+? [3] Players collapsed during a game at 7,400 ft. Explain the effect of altitude on O2 loading and unloading, and name two ways the body adapts over weeks.
+= Lower atmospheric PO2 lowers alveolar PO2, so less O2 loads onto hemoglobin and delivery to muscles falls. Adaptations: faster/deeper breathing, more EPO and red cells, more 2,3-BPG, more capillaries and mitochondria.
+
+? [4] Climbers new to high altitude breathe much faster. Will this cause acidosis or alkalosis? Explain using the bicarbonate equation. What are the two dangerous forms of altitude sickness?
+= Respiratory alkalosis: rapid breathing removes CO2, the equation shifts left, H+ falls and pH rises. Dangerous forms: high-altitude pulmonary edema and high-altitude cerebral edema.
+
+? [3] After scuba diving, Jeff boards a plane and develops elbow pain. What is happening, which gas law explains it, and what is the treatment?
+= Decompression sickness: extra N2 dissolved in blood under pressure forms bubbles as pressure drops. Henry's law. Treat with hyperbaric oxygen (recompression).
+
+? [5] Randy, a pack-a-day smoker, has worsening shortness of breath. His FEV1/FVC is 52% and his DLCO is low. Name the disease and give the reasoning. Is his residual volume increased or decreased? Name two things you would do to help him.
+= Emphysema: obstructive pattern (ratio < 70%) plus low DLCO from destroyed alveolar surface (chronic bronchitis usually has normal DLCO). RV is increased (air trapping). Help: stop smoking, bronchodilators/inhaled steroids, pulmonary rehab, oxygen, vaccines.
+
+? [4] Emphysema: name the main symptom, explain what causes it physiologically, and describe what happens over time.
+= Main symptom: shortness of breath. Destroyed alveolar walls reduce gas-exchange area and elastic recoil, so air is trapped and exhaling is hard. Over time, alveoli merge into large air spaces (bullae), the chest becomes barrel-shaped and breathing work rises.
+
+? [3] Overstimulated pneumotaxic center: describe the rate and depth of breathing, whether hypercapnia or hypocapnia results, and whether gas exchange becomes more efficient.
+= Rapid, shallow breathing; hypocapnia; no, a larger share of each small breath is dead space, so alveolar ventilation is less efficient.
+
+? [2] Why are the C-rings of the trachea incomplete posteriorly?
+= So the esophagus behind the trachea can bulge forward when a large bolus is swallowed; the trachealis muscle also changes airway diameter for coughing.
+
+? [3] Describe what happens during swallowing to keep food out of the airway.
+= The soft palate and uvula rise to close off the nasopharynx; the larynx rises and the epiglottis folds over the glottis; the vocal cords close; breathing briefly stops.
+
+? [3] What force must be overcome during inspiration? Why does the lung not collapse at rest?
+= The inward elastic recoil of the lungs (and alveolar surface tension). The negative intrapleural pressure and cohesion of pleural fluid hold the lung against the chest wall, and surfactant reduces surface tension.
+
+? [2] What happens to PO2 and PCO2 during voluntary hyperventilation?
+= Alveolar PO2 rises (toward ~120 mmHg) and PCO2 falls (toward ~20 mmHg).
+
+? [3] A 55-year-old obese man snores loudly, has morning headaches and is sleepy during the day. Name the likely disorder, its mechanism, how it is diagnosed and treated.
+= Obstructive sleep apnea: repeated collapse of the pharyngeal airway during sleep. Diagnosed by polysomnogram; treated with CPAP, weight loss, oral appliances or surgery.
+
+? [3 | TB] In the Weibel airway model, how does the partial pressure of H2O, CO2 and O2 in generation 1 (bronchi) compare with generation 22 (alveolar sacs) after inhalation?
+= H2O: less in generation 1 (accept "same"; air is nearly fully humidified by the trachea); CO2: less in generation 1; O2: greater in generation 1. Fresh air mixes with alveolar gas, so CO2 rises and O2 falls toward the alveoli.
+
+? [2] How would a pulmonary embolism and a right-to-left shunt each affect alveolar dead space?
+= Pulmonary embolism increases alveolar dead space (ventilated, not perfused). A shunt does not increase dead space; it is perfused but not ventilated (V/Q = 0).
+
+
+? [5] Compare the effects of a single bout of exercise with long-term training on the respiratory system.
+= Single bout: ventilation rises sharply (deeper and faster breaths) from neural input then chemical fine-tuning; more O2 unloaded (curve shifts right with heat, CO2 and H+); more lung capillaries open, so perfusion and diffusion rise. Training: stronger breathing muscles and higher maximum ventilation; more capillaries and mitochondria in muscle, so muscles extract more O2; lower breathing rate at a given workload; lung volumes and alveoli number change little.
+
+? [4] Compare chronic bronchitis and emphysema: what is damaged, the main symptom, typical blood gases and appearance.
+= Chronic bronchitis: inflamed airways, enlarged mucous glands, damaged cilia; productive cough; early hypoxemia and CO2 retention, cyanosis and edema ("blue bloater"). Emphysema: destroyed alveolar walls and lost elastic recoil; shortness of breath; breathes hard to keep gases near normal, thin with barrel chest, pursed-lip breathing ("pink puffer").
+
+? [4] Explain why an asthma attack makes it harder to exhale than to inhale.
+= During inhalation, the expanding lungs pull airways open. During exhalation, the pressure around the airways rises and squeezes already narrowed, inflamed, mucus-filled bronchioles shut, trapping air (wheezing on exhalation).
+
+? [3] Name three common asthma triggers and two types of asthma medicines (with how each works).
+= Triggers: allergens (pollen, dust mites, pet dander), exercise, cold air, smoke, infections, NSAIDs. Medicines: quick-relief beta-2 agonists (albuterol) relax bronchial smooth muscle; inhaled corticosteroids reduce inflammation; leukotriene blockers (montelukast) block inflammatory mediators.
+
+? [4] A 72-year-old has fever, a cough producing rusty sputum, chest pain on breathing and crackles over one lung. Name the likely diagnosis and organism. Explain why his blood O2 is low.
+= Lobar pneumonia, most likely Streptococcus pneumoniae. Alveoli fill with fluid, pus and cells, so blood flowing past them is not oxygenated (shunt), lowering PaO2.
+
+? [3] Why does obstructive sleep apnea raise the risk of high blood pressure and heart disease?
+= Repeated drops in blood O2 and arousals trigger sympathetic surges (high heart rate and blood pressure) many times a night; long-term this raises blood pressure and strains the heart, increasing risk of heart failure, arrhythmia and stroke.
+
+? [5] Describe cystic fibrosis at each level: gene, protein, cell, organ and whole person.
+= Gene: mutations in CFTR (chromosome 7), autosomal recessive (ΔF508 most common). Protein: misfolded or nonfunctional chloride channel. Cell: epithelial cells cannot secrete Cl−, so water does not follow and mucus is thick and dehydrated. Organs: lungs (blocked airways, chronic Pseudomonas infections), pancreas (blocked ducts, malabsorption, CF-related diabetes), intestines (meconium ileus), sweat glands (salty sweat), vas deferens. Whole person: chronic cough, poor growth, shortened life expectancy, treated with airway clearance, enzymes, antibiotics and CFTR modulators.

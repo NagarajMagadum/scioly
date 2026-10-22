@@ -1,0 +1,1849 @@
+# I | Part 3 – Immune System
+
+## A. Multiple Choice
+@ Choose the single best answer unless the question says "Select ALL".
+
+? [1] The body's first line of defense is:
+- antibodies
+- skin and mucous membranes
+- phagocytes
+- fever
+= b
+
+? [1] Which is NOT part of the first line of defense?
+- sebum
+- vibrissae (nose hairs)
+- fever
+- gastric juice
+= c — fever is part of the second line (innate internal defenses).
+
+? [1] The antibacterial enzyme in tears, saliva and mucus that breaks bacterial cell walls is:
+- amylase
+- protease
+- lysozyme
+- nuclease
+= c
+
+? [1] Which is NOT a protective chemical secreted at body surfaces?
+- lysozyme
+- dermcidin (in sweat)
+- mucin
+- amylase
+= d — amylase is digestive.
+
+? [2] Select ALL correct pairings of body fluid and defense: a) tears – lysozyme  b) vaginal secretions – lactic acid  c) urine – flushes microbes  d) bile – digests bacterial capsules  e) stomach – acid kills microbes
+= a, b, c, e
+
+? [1] Antimicrobial peptides such as defensins work mainly by:
+- disrupting microbial membranes
+- making antibodies
+- presenting antigen
+- causing fever
+= a
+
+? [1] Histatins in saliva are active mainly against:
+- viruses
+- fungi such as Candida
+- worms
+- prions
+= b
+
+? [1] Which cell is NOT part of the innate immune system?
+- neutrophil
+- NK cell
+- macrophage
+- helper T cell
+= d
+
+? [1] Innate immunity:
+- is specific to one antigen
+- acts immediately (within minutes to hours) and has no memory
+- depends on earlier exposure
+- uses B-cell receptors
+= b
+
+? [1] Cells of the adaptive immune system differ from innate cells because each one:
+- binds only one specific antigen
+- responds immediately
+- comes from the bone marrow
+- responds to cell stress
+= a
+
+? [1] The most abundant white blood cell is the:
+- lymphocyte
+- monocyte
+- neutrophil
+- eosinophil
+= c — about 60% of white blood cells.
+
+? [1] The least abundant white blood cell is the:
+- eosinophil
+- basophil
+- monocyte
+- lymphocyte
+= b
+
+? [1] Which is NOT a white blood cell?
+- lymphocyte
+- normoblast
+- neutrophil
+- monocyte
+= b — a normoblast is a developing red blood cell.
+
+? [1] Which is NOT a type of lymphocyte?
+- neutrophil
+- T cell
+- B cell
+- NK cell
+= a
+
+? [1] Pus is made up mostly of:
+- dead neutrophils, tissue debris and microbes
+- red blood cells
+- antibodies
+- platelets
+= a
+
+? [1] The first white blood cells to arrive at a site of bacterial infection are usually:
+- macrophages
+- neutrophils
+- lymphocytes
+- eosinophils
+= b
+
+? [1] A cutaneous abscess would contain the greatest number of:
+- neutrophils
+- CD8 T cells
+- B cells
+- Langerhans cells
+= a
+
+? [1] Monocytes become ______ when they leave the blood and enter tissues.
+- mast cells
+- macrophages
+- plasma cells
+- dendritic cells only
+= b
+
+? [1] Which is NOT a type of macrophage?
+- Kupffer cell (liver)
+- microglia (brain)
+- alveolar dust cell (lung)
+- osteoblast (bone)
+= d — osteoclasts, not osteoblasts, come from the monocyte line.
+
+? [2] Select ALL phagocytic cells: a) neutrophil  b) monocyte/macrophage  c) dendritic cell  d) mast cell  e) NK cell
+= a, b, c — eosinophils have limited phagocytic ability.
+
+? [1] Eosinophils are most effective against:
+- bacteria
+- parasitic worms
+- viruses
+- fungi
+= b — they also take part in allergic reactions.
+
+? [1] Basophils and mast cells release:
+- perforin and granzymes
+- histamine and heparin
+- antibodies
+- interferon
+= b
+
+? [1] Histamine causes:
+- vasoconstriction and less blood flow
+- vasodilation and more leaky capillaries
+- fever only
+- antibody production
+= b
+
+? [1] NK cells kill target cells that:
+- show too much MHC I
+- lack or have reduced MHC I
+- carry IgE
+- show MHC II
+= b — they kill without earlier sensitization.
+
+? [1] NK cells and cytotoxic T cells kill target cells mainly by releasing:
+- histamine and heparin
+- perforin and granzymes
+- antibodies
+- lysozyme
+= b — perforin forms pores; granzymes trigger apoptosis.
+
+? [1] Interferons are released by:
+- mast cells
+- virus-infected cells
+- plasma cells
+- red blood cells
+= b — they warn nearby cells to resist viral replication and activate NK cells.
+
+? [1] Type I interferons (alpha and beta) are made by virus-infected cells, fibroblasts and leukocytes; type II interferon (gamma) is made mainly by:
+- T cells and NK cells
+- red blood cells
+- neutrophils
+- platelets
+= a — interferon gamma activates macrophages.
+
+? [1] Pyrogens act on the ______ to cause fever.
+- thymus
+- hypothalamus
+- spleen
+- medulla
+= b
+
+? [1] Fever helps fight infection partly because the liver and spleen:
+- release more iron
+- hold back iron and zinc that bacteria need
+- destroy antibodies
+- make interferon
+= b
+
+? [1] The correct order of phagocyte mobilization is:
+- leukocytosis, margination, diapedesis, chemotaxis
+- chemotaxis, margination, diapedesis, leukocytosis
+- margination, leukocytosis, chemotaxis, diapedesis
+- diapedesis, chemotaxis, margination, leukocytosis
+= a
+
+? [1] Neutrophils squeezing between endothelial cells of a capillary is called:
+- margination
+- diapedesis (extravasation)
+- chemotaxis
+- opsonization
+= b
+
+? [1] White blood cells moving toward chemical signals at an infection site is:
+- chemotaxis
+- diapedesis
+- margination
+- phagocytosis
+= a
+
+? [1] Coating a microbe with antibodies or complement so phagocytes engulf it more easily is:
+- agglutination
+- diapedesis
+- opsonization
+- chemotaxis
+= c
+
+? [1] During phagocytosis, the vesicle containing the microbe (phagosome) fuses with a ______ to digest it.
+- ribosome
+- lysosome
+- mitochondrion
+- nucleus
+= b — the fused vesicle is a phagolysosome.
+
+? [1] An infectious granuloma (as in tuberculosis) is:
+- a tumor-like mass of infected macrophages walled off by other macrophages and T cells
+- a malignant lymph node
+- an abscess of pus
+- a type of antibody
+= a
+
+? [1] Which is NOT a cardinal sign of inflammation?
+- redness
+- heat
+- swelling
+- mucus production
+= d
+
+? [1] Increased capillary permeability during inflammation leads to:
+- edema (swelling)
+- less blood flow
+- lower white cell numbers
+- fever only
+= a
+
+? [1] The complement system is:
+- a group of about 20 plasma proteins, made in the liver, that circulate inactive
+- a type of white blood cell
+- a carbohydrate cascade
+- part of adaptive immunity only
+= a
+
+? [1] The complement pathway triggered directly by microbial surfaces is the:
+- classical pathway
+- alternative pathway
+- lectin pathway
+- membrane pathway
+= b — the classical pathway starts when C1 binds antibody (IgG or IgM) on an antigen; the lectin pathway starts with mannose-binding lectin.
+
+? [1] The membrane attack complex (MAC) is made of complement proteins:
+- C1–C4
+- C3a and C3b
+- C5b–C9
+- C5a only
+= c
+
+? [1] The complement fragment that acts as the main opsonin is:
+- C3a
+- C3b
+- C5a
+- C9
+= b — C3a and C5a promote inflammation and attract phagocytes.
+
+? [1] Toll-like receptors are activated by:
+- pathogen-associated molecular patterns (PAMPs)
+- antibodies
+- MHC proteins
+- cytokines
+= a — TLRs are pattern recognition receptors (PRRs).
+
+? [2] Select ALL PAMPs found on Streptococcus pneumoniae (gram-positive, no flagella): a) LPS  b) lipoteichoic acid / lipoproteins  c) unmethylated CpG DNA  d) double-stranded RNA  e) flagellin
+= b, c
+
+? [1] Our innate sensors tell viral RNA and DNA apart from our own using all of the following EXCEPT:
+- where the nucleic acid is in the cell
+- DNA methylation
+- unique structures on viral RNA
+- presence of adenosine in the RNA
+= d — all RNA contains adenosine.
+
+? [1] Which is a primary (central) lymphoid organ?
+- lymph node
+- spleen
+- thymus
+- tonsil
+= c — red bone marrow is the other.
+
+? [1] Which is NOT a secondary lymphoid organ?
+- lymph nodes
+- spleen
+- bone marrow
+- tonsils
+= c
+
+? [1] Which is NOT an organ of the immune system?
+- spleen
+- thymus
+- red bone marrow
+- pancreas
+= d
+
+? [1] B and T cells both originate in the:
+- thymus
+- red bone marrow
+- liver
+- spleen
+= b — B cells mature in the bone marrow; T cells mature in the thymus.
+
+? [1] The thymus:
+- is largest in childhood and shrinks and fills with fat with age
+- grows throughout life
+- filters lymph
+- stores red blood cells
+= a — this shrinking is thymic involution.
+
+? [1] The hormone made by the thymus that helps T cells mature is:
+- thyroxine
+- thymosin
+- thymase
+- thrombopoietin
+= b
+
+? [1] In the thymus, negative selection occurs mainly in the:
+- cortex
+- medulla
+- capsule
+- trabeculae
+= b — positive selection occurs in the cortex.
+
+? [1] In type 1 diabetes, self-reactive T cells survived because of a failure of:
+- affinity maturation
+- antigen processing
+- positive selection
+- negative selection
+= d
+
+? [1] About what percentage of developing T cells survive thymic selection?
+- 2%
+- 25%
+- 50%
+- 98%
+= a — most fail to bind self-MHC at all.
+
+? [1] In the spleen, white pulp ______ and red pulp ______.
+- removes old red cells; makes antibodies
+- holds lymphocytes that respond to blood-borne antigens; removes old red blood cells and platelets
+- makes red blood cells; stores iron
+- stores bile; filters lymph
+= b
+
+? [1] After splenectomy, the greatest risk is overwhelming infection by:
+- encapsulated bacteria such as Streptococcus pneumoniae and Neisseria meningitidis
+- viruses
+- fungi
+- worms
+= a
+
+? [1] In a lymph node, T cells are concentrated in the:
+- paracortex
+- cortical follicles
+- medulla
+- capsule
+= a — B cells are in the cortical follicles (germinal centers).
+
+? [1] Germinal centers in lymph nodes are sites of:
+- macrophage storage
+- proliferating B cells
+- T-cell maturation
+- red blood cell destruction
+= b
+
+? [1] Lymph enters a lymph node through ______ vessels and leaves through ______ vessels.
+- efferent; afferent
+- afferent; efferent
+- venous; arterial
+- arterial; venous
+= b
+
+? [1] Lymph from the right arm and right side of the head drains into the:
+- thoracic duct
+- right lymphatic duct, then the right subclavian vein
+- left subclavian vein
+- cisterna chyli
+= b — everything else drains into the thoracic duct and the left subclavian vein.
+
+? [1] Lymph from the right foot eventually enters the blood at the:
+- right subclavian vein
+- left subclavian vein (via the thoracic duct)
+- inferior vena cava
+- right atrium
+= b
+
+? [1] Lymphatic vessels:
+- filter lymph
+- return leaked plasma fluid and proteins to the blood
+- are pumped by the heart
+- carry red blood cells
+= b — lymph nodes do the filtering.
+
+? [1] Which is NOT a function of the lymphatic system?
+- draining excess interstitial fluid
+- transporting dietary fats
+- carrying out immune responses
+- pumping blood
+= d
+
+? [1] Peyer's patches are found in the:
+- stomach
+- liver
+- small intestine (ileum)
+- large intestine
+= c
+
+? [1] Waldeyer's ring is made of the:
+- pharyngeal (adenoid), tubal, palatine and lingual tonsils
+- lymph nodes of the neck
+- Peyer's patches
+- spleen and thymus
+= a
+
+? [1] Which antibody class is a pentamer and is the first made in a primary response?
+- IgA
+- IgE
+- IgG
+- IgM
+= d
+
+? [1] The most abundant antibody in blood, and the only one that crosses the placenta, is:
+- IgA
+- IgD
+- IgG
+- IgM
+= c
+
+? [1] The antibody found in breast milk, tears, saliva and gut secretions, usually as a dimer, is:
+- IgA
+- IgD
+- IgE
+- IgG
+= a
+
+? [1] The antibody that binds mast cells and basophils and triggers allergies is:
+- IgA
+- IgD
+- IgE
+- IgM
+= c — it also defends against parasitic worms.
+
+? [1] The antibody found mainly on the surface of naive B cells as an antigen receptor is:
+- IgA
+- IgD
+- IgE
+- IgG
+= b
+
+? [1] The least abundant antibody in plasma is:
+- IgG
+- IgM
+- IgA
+- IgE
+= d
+
+? [2] Select ALL antibody classes that can fix (activate) complement: a) IgA  b) IgD  c) IgE  d) IgG  e) IgM
+= d, e
+
+? [1] Why can one IgM activate the classical complement pathway while at least two IgGs are needed?
+- IgM is a pentamer with many binding sites close together
+- IgM has a higher affinity
+- IgM is more abundant
+- IgG cannot bind C1
+= a
+
+? [1] The J chain is found in:
+- IgG
+- IgE
+- polymeric antibodies (IgM and secretory IgA)
+- IgD
+= c
+
+? [1] An antibody is made of:
+- two heavy chains and two light chains joined by disulfide bonds
+- four identical chains
+- one heavy and one light chain
+- two heavy chains only
+= a
+
+? [1] Antibody class is set by the:
+- light-chain variable region
+- light-chain constant region
+- heavy-chain variable region
+- heavy-chain constant region
+= d
+
+? [1] Which is NOT a heavy chain type?
+- alpha (α)
+- epsilon (ε)
+- mu (μ)
+- kappa (κ)
+= d — kappa and lambda are light chains.
+
+? [1] A single antibody binds to:
+- a whole bacterium
+- one epitope (antigenic determinant)
+- all antigens on a cell
+- any protein
+= b
+
+? [1] Haptens are small molecules that:
+- are reactive but not immunogenic unless attached to a carrier protein
+- are immunogenic but not reactive
+- are neither
+- are complete antigens
+= a — penicillin is an example.
+
+? [1] Professional antigen-presenting cells include:
+- dendritic cells, macrophages and B cells
+- red blood cells
+- neutrophils and platelets
+- NK cells
+= a
+
+? [1] The antigen-presenting cell that best activates naive T cells and bridges innate and adaptive immunity is the:
+- basophil
+- dendritic cell
+- NK cell
+- plasma cell
+= b
+
+? [1] Langerhans cells are dendritic cells found in the:
+- liver
+- epidermis
+- lungs
+- spleen
+= b
+
+? [1] MHC class I molecules are found on:
+- all nucleated cells
+- only antigen-presenting cells
+- red blood cells
+- only T cells
+= a
+
+? [1] MHC class I presents antigen to:
+- CD4 helper T cells
+- CD8 cytotoxic T cells
+- B cells
+- NK cells
+= b
+
+? [1] MHC class II presents antigen to:
+- CD4 helper T cells
+- CD8 cytotoxic T cells
+- red blood cells
+- neutrophils
+= a
+
+? [1] Presenting peptides from inside the cell on MHC I is especially important for detecting:
+- large worms in the gut
+- intracellular pathogens such as viruses
+- extracellular bacteria in the lungs
+- fungal hyphae
+= b
+
+? [1] Diversity in antigen presentation within a person comes from MHC genes being:
+- polygenic and codominantly expressed
+- non-polymorphic
+- expressed from only one parent
+- identical in everyone
+= a
+
+? [1] Dendritic cells and macrophages display B7 proteins that bind which co-stimulatory receptor on T cells?
+- CD28
+- CD4
+- CD8
+- TCR
+= a — CTLA-4 (CD152) also binds B7 and turns T cells off.
+
+? [1] Helper T cells activate B cells by binding:
+- CD40 on the B cell with CD40 ligand
+- MHC I
+- IgE
+- B7 only
+= a — this, plus cytokines, triggers class switching.
+
+? [1] Which is NOT involved in activating a B cell?
+- antigen
+- helper T cell
+- cytokines
+- cytotoxic T cell
+= d
+
+? [1] Which cell can NOT directly kill target cells?
+- macrophage
+- cytotoxic T cell
+- helper T cell
+- NK cell
+= c
+
+? [1] The cell that links humoral and cell-mediated immunity is the:
+- helper T cell
+- plasma cell
+- neutrophil
+- red blood cell
+= a
+
+? [1] Helper T cells that defend against worms, mobilize eosinophils and drive IgE production are:
+- Th1 cells
+- Th2 cells
+- Th17 cells
+- regulatory T cells
+= b — allergens also drive a Th2 response.
+
+? [1] Regulatory T cells:
+- kill infected cells
+- suppress immune responses and help prevent autoimmunity
+- make antibodies
+- present antigen
+= b
+
+? [1] When a naive B cell becomes a plasma cell, the antibody it secretes has the same specificity as:
+- a random antibody
+- the membrane-bound antibody it used as its receptor
+- the helper T cell's receptor
+- the MHC molecule
+= b
+
+? [1] T cells do not secrete their receptors because their effector functions:
+- only work in the gut
+- depend on direct contact with other cells (infected cells or immune cells)
+- target only worms
+- only stimulate B cells
+= b
+
+? [1] A secondary immune response is faster and stronger mainly because of:
+- histamine
+- passive immunity
+- memory cells
+- complement
+= c
+
+? [1] After first exposure to an antigen, antibody levels peak in about:
+- 1–3 hours
+- 24–48 hours
+- 10–14 days
+- 6 months
+= c
+
+? [1] In the primary response, which statement is INCORRECT?
+- antibody is detected during the lag phase
+- antibody levels rise rapidly in the log phase
+- antibody levels level off in the plateau phase
+- antibody is cleared in the decline phase
+= a — antibody is not yet detectable in the lag phase.
+
+? [1] Vaccines against influenza and HIV have been hard to make long-lasting mainly because these viruses:
+- undergo rapid antigenic variation
+- spread too fast
+- have RNA genomes that vaccines cannot target
+- only infect babies
+= a
+
+? [1] An example of artificial active immunity is:
+- a flu vaccine
+- recovering from the flu
+- antibodies in breast milk
+- antivenom
+= a
+
+? [1] Antibodies made in a horse or rabbit and injected into a person give:
+- natural active immunity
+- artificial active immunity
+- natural passive immunity
+- artificial passive immunity
+= d
+
+? [1] A baby gets antibodies through colostrum. This is:
+- natural active
+- artificial active
+- natural passive
+- artificial passive
+= c
+
+? [1] Edward Jenner's smallpox vaccine came from the observation that:
+- milkmaids who had cowpox rarely got smallpox
+- citrus fruit prevented scurvy
+- a water pump spread cholera
+- H. pylori caused ulcers
+= a
+
+? [1] Type I hypersensitivity is mediated by:
+- IgE on mast cells and basophils
+- IgG against cell-surface antigens
+- immune complexes
+- T cells
+= a
+
+? [1] The most important first treatment for anaphylaxis is:
+- antihistamine
+- corticosteroids
+- epinephrine
+- glucagon
+= c
+
+? [1] Which is NOT a common symptom of anaphylaxis?
+- fever
+- low blood pressure
+- swelling (angioedema)
+- itching and hives
+= a
+
+? [1] A fire ant bite causes itchy swelling within minutes. The mechanism is:
+- IgG-mediated cell destruction
+- immune-complex deposition
+- T-cell-mediated inflammation
+- IgE-mediated release from mast cells
+= d
+
+? [1] A blood test that confirms mast-cell activation after anaphylaxis measures:
+- tryptase
+- amylase
+- troponin
+- bilirubin
+= a
+
+? [1] Peanut oral immunotherapy aims to shift a patient's antibody response away from:
+- IgE (toward IgG4)
+- IgA
+- IgM
+- IgD
+= a
+
+? [1] Days after receiving horse antivenom, a soldier has fever, rash, joint pain and blood in his urine. This is type ___ hypersensitivity.
+- I
+- II
+- III
+- IV
+= c — serum sickness.
+
+? [1] An Arthus reaction is type ___ hypersensitivity.
+- I
+- II
+- III
+- IV
+= c
+
+? [1] A blood transfusion reaction and hemolytic disease of the newborn are type ___ hypersensitivity.
+- I
+- II
+- III
+- IV
+= b
+
+? [1] Poison ivy (contact dermatitis), the TB skin test and granulomas are type ___ hypersensitivity.
+- I
+- II
+- III
+- IV
+= d
+
+? [2] Select ALL type I hypersensitivity reactions: a) anaphylaxis  b) contact dermatitis  c) hay fever  d) penicillin hives  e) type 1 diabetes
+= a, c, d
+
+? [1] Contact dermatitis is diagnosed with a:
+- prick test
+- patch test
+- blood smear
+- spirometer
+= b
+
+? [1] Which is NOT an autoimmune disease?
+- asthma
+- Addison's disease
+- Graves' disease
+- lupus
+= a
+
+? [1] In multiple sclerosis the immune system attacks the:
+- dendrites
+- myelin sheath of CNS neurons
+- axon terminals
+- acetylcholine receptors
+= b — MS lesions show on MRI.
+
+? [1] The most common course of multiple sclerosis is:
+- primary progressive
+- relapsing-remitting
+- secondary progressive
+- progressive-relapsing
+= b
+
+? [1] In myasthenia gravis, antibodies block:
+- calcium channels
+- acetylcholine receptors at the neuromuscular junction
+- myelin
+- TSH receptors
+= b — drooping eyelids (ptosis) are an early sign; acetylcholinesterase inhibitors treat it.
+
+? [1] Graves' disease is caused by antibodies that:
+- destroy the thyroid
+- stimulate the TSH receptor, causing hyperthyroidism
+- block insulin
+- attack the adrenal cortex
+= b
+
+? [1] Hashimoto's thyroiditis causes:
+- hyperthyroidism with weight loss
+- hypothyroidism with fatigue, weight gain, dry skin and constipation
+- diabetes
+- anemia only
+= b — labs show high TSH and low T3/T4; treat with levothyroxine.
+
+? [1] Fatigue, joint pain, fever and a butterfly rash across the nose that worsens in sunlight suggest:
+- rheumatoid arthritis
+- systemic lupus erythematosus
+- psoriasis
+- MS
+= b
+
+? [1] Lupus is linked to autoantibodies against:
+- nuclear antigens such as DNA and histones
+- myelin
+- insulin
+- red blood cells only
+= a
+
+? [1] The anti-citrullinated protein antibody (anti-CCP) is strongly linked to:
+- rheumatoid arthritis
+- lupus
+- celiac disease
+- MS
+= a
+
+? [1] An infant with recurrent infections, no thymic shadow on x-ray and low calcium most likely has:
+- DiGeorge syndrome (22q11 deletion)
+- SCID from ADA deficiency
+- X-linked agammaglobulinemia
+- CVID
+= a — low parathyroid hormone causes low calcium.
+
+? [1] Loss of the enzymes for V(D)J recombination causes:
+- autoimmunity
+- chronic granulomatous disease
+- common variable immunodeficiency
+- severe combined immunodeficiency
+= d
+
+? [1] A baby born with almost no T cells and B cells that do not work has:
+- SCID
+- AIDS
+- DiGeorge
+- lupus
+= a — "bubble boy" disease.
+
+? [1] HIV mainly infects:
+- cytotoxic T cells
+- helper T cells (CD4+)
+- NK cells
+- neutrophils
+= b — it also infects macrophages and dendritic cells.
+
+? [1] People resistant to HIV often lack the co-receptor:
+- CD4
+- CD8
+- CCR5
+- CD3
+= c
+
+? [1] Zidovudine (AZT) blocks HIV by inhibiting:
+- protease
+- reverse transcriptase
+- integrase
+- fusion
+= b — it is a nucleoside analog.
+
+? [1] Enfuvirtide (Fuzeon) blocks HIV entry by binding the viral protein:
+- gp41
+- gp120
+- reverse transcriptase
+- p24
+= a
+
+? [1] HIV drugs are given as combinations mainly because:
+- HIV mutates rapidly and quickly becomes resistant to a single drug
+- each drug is weak
+- they are cheaper
+- one drug cures it
+= a
+
+? [1] AIDS is diagnosed when HIV infection is accompanied by a CD4 count below:
+- 1,000 cells/µL
+- 500 cells/µL
+- 200 cells/µL
+- 50 cells/µL
+= c — or by an AIDS-defining illness.
+
+? [1] Kaposi sarcoma in AIDS patients is caused by:
+- HPV
+- human herpesvirus 8
+- Epstein-Barr virus
+- hepatitis B
+= b
+
+? [1] In the blood-brain barrier, microbes are kept out mainly by:
+- desmosomes
+- tight junctions
+- gap junctions
+- mucus
+= b
+
+? [1] In lymphomas that destroy the bone marrow, production of all of these would fall EXCEPT:
+- red blood cells
+- macrophages
+- lymphocytes
+- endothelial cells
+= d
+
+? [1] Which would NOT indicate an immunodeficiency?
+- high C-reactive protein
+- low immunoglobulins
+- neutrophil disorders
+- complement deficiency
+= a — CRP rises with inflammation.
+
+? [1] A patient's transplant is attacked by cells recognizing class I HLA a few weeks later. The cells are most likely:
+- CD4 T cells
+- CD8 cytotoxic T cells
+- neutrophils
+- NK cells
+= b
+
+? [1] A graft from an identical twin is a(n):
+- autograft
+- isograft
+- allograft
+- xenograft
+= b
+
+? [1] Hyperacute transplant rejection occurs within minutes because of:
+- pre-existing antibodies that cause clotting in the graft vessels
+- T cells
+- NK cells
+- infection
+= a
+
+? [1] The probability that a person with two siblings has at least one HLA-identical sibling is about:
+- 25%
+- 43.8%
+- 68.4%
+- 100%
+= b — 1 − (3/4)² = 7/16.
+
+? [1] IgA in the gut helps prevent food sensitization by:
+- blocking intact food antigens from crossing the gut lining
+- destroying APCs
+- causing inflammation
+- suppressing all immunity
+= a
+
+? [1] Salmonella and Shigella cross the gut lining through which cells of Peyer's patches?
+- goblet cells
+- dendritic cells
+- microfold (M) cells
+- T cells
+= c
+
+? [1] Memory B cells made after vaccination are an example of:
+- innate immunity
+- adaptive immunity
+- passive immunity
+- inflammation
+= b
+
+? [1] A low blood albumin level causes:
+- higher oncotic pressure
+- lower oncotic pressure and edema
+- no change
+- fever
+= b
+
+
+? [1] The skin's outermost layer protects against microbes mainly because it is:
+- made of dead keratinized cells that are continually shed
+- full of blood vessels
+- covered in cilia
+- made of mucous membranes
+= a — skin is also acidic (pH about 5) and contains antimicrobial peptides.
+
+? [1] The skin's dendritic cells, which carry antigens to lymph nodes, are:
+- Langerhans cells
+- melanocytes
+- keratinocytes
+- Merkel cells
+= a
+
+? [1] The "acid mantle" of the skin protects against microbes by:
+- keeping the skin surface pH around 4.5–5.5
+- making antibodies
+- killing viruses inside cells
+- causing fever
+= a
+
+? [1] Which describes red bone marrow's role in immunity?
+- it makes all blood cells, including all white cells, and is where B cells mature
+- it filters lymph
+- it is where T cells mature
+- it stores bile
+= a
+
+? [1] Hassall's corpuscles are found in the:
+- spleen
+- thymic medulla
+- lymph node cortex
+- tonsils
+= b
+
+? [1] The blood–thymus barrier:
+- keeps developing T cells from being exposed to blood-borne antigens too early
+- lets antibodies into the thymus
+- filters lymph
+- stores T cells
+= a
+
+? [1] The spleen's periarteriolar lymphoid sheath (PALS) is rich in:
+- T cells
+- red blood cells
+- neutrophils
+- platelets only
+= a
+
+? [1] Lymph nodes are most concentrated in the:
+- cervical, axillary and inguinal regions
+- fingers and toes
+- brain
+- heart
+= a
+
+? [1] The cisterna chyli collects lymph from the:
+- right arm
+- abdomen and legs, then empties into the thoracic duct
+- head
+- lungs only
+= b
+
+? [1] Toll-like receptors are found on:
+- the cell surface or inside endosomes of cells such as macrophages and dendritic cells
+- red blood cells only
+- antibodies
+- the nucleus
+= a
+
+? [1] TLR4 recognizes:
+- lipopolysaccharide (LPS) of gram-negative bacteria
+- flagellin
+- double-stranded RNA
+- CpG DNA
+= a — TLR5 binds flagellin, TLR3 binds dsRNA, TLR9 binds CpG DNA, TLR2 binds lipoteichoic acid and lipoproteins.
+
+? [1] When a TLR binds its ligand, the cell typically activates the transcription factor ______ and releases inflammatory cytokines.
+- NF-κB
+- insulin
+- p53
+- CFTR
+= a
+
+? [1] All three complement pathways converge on cleavage of:
+- C1
+- C3
+- C9
+- factor D
+= b
+
+? [1] Anaphylatoxins that cause mast cells to release histamine and attract neutrophils are:
+- C3a and C5a
+- C3b and C4b
+- C5b–C9
+- C1q
+= a
+
+? [1] Deficiency of the late complement proteins (C5–C9) mainly increases risk of infection by:
+- Neisseria (meningitis, gonorrhea)
+- viruses
+- fungi
+- worms
+= a
+
+? [1] Hereditary angioedema, with episodes of severe swelling, is caused by a deficiency of:
+- C1 esterase inhibitor
+- C3
+- IgE
+- lysozyme
+= a
+
+? [1] Acute-phase proteins such as C-reactive protein are made by the ______ in response to IL-6.
+- spleen
+- liver
+- thymus
+- kidney
+= b
+
+? [1] Which inflammatory mediator is made from arachidonic acid and causes pain and fever?
+- prostaglandins
+- histamine
+- complement
+- interferon
+= a — NSAIDs block their production.
+
+? [1] Bradykinin during inflammation mainly:
+- causes vasodilation, increases permeability and stimulates pain receptors
+- kills bacteria directly
+- makes antibodies
+- clots blood
+= a
+
+? [1] Chronic inflammation is dominated by:
+- macrophages and lymphocytes, often with tissue scarring
+- neutrophils only
+- red blood cells
+- platelets only
+= a
+
+? [1] Clonal selection means:
+- an antigen activates only the lymphocytes whose receptors bind it, and those cells multiply
+- all lymphocytes divide in response to any antigen
+- antibodies make copies of themselves
+- the thymus selects antigens
+= a
+
+? [1] Affinity maturation, which makes antibodies bind more tightly over time, occurs in:
+- germinal centers of lymph nodes
+- the thymus
+- the liver
+- the blood
+= a — B cells undergo somatic hypermutation there.
+
+? [1] Humoral immunity mainly defends against:
+- extracellular bacteria, toxins and free viruses
+- virus-infected cells
+- cancer cells
+- transplanted tissue
+= a — cell-mediated immunity targets infected cells, cancer cells and grafts.
+
+? [1] An antigen that B cells can respond to without helper T cells (T-independent) is usually:
+- a repeating polysaccharide, such as a bacterial capsule
+- a single protein
+- a peptide on MHC I
+- a hapten alone
+= a — T-independent responses make mostly IgM and little memory.
+
+? [1] Allergic sensitization (the first exposure) produces:
+- IgE that binds to mast cells but usually no symptoms
+- immediate anaphylaxis
+- IgM only
+- contact dermatitis
+= a — symptoms come on later exposures when the allergen cross-links that IgE.
+
+? [1] Urticaria (hives) is:
+- itchy, raised red welts from histamine released by skin mast cells
+- a type IV reaction
+- an infection of the skin
+- a form of lupus
+= a — usually type I; treated with antihistamines.
+
+? [1] Angioedema differs from urticaria because it:
+- involves deeper swelling of the dermis and tissues, such as the lips, eyelids and throat
+- is never dangerous
+- is caused by T cells
+- only affects the hands
+= a
+
+? [1] Allergic rhinitis (hay fever) is best treated long term with:
+- antihistamines and nasal corticosteroids, or allergen immunotherapy
+- antibiotics
+- surgery
+- vaccines against bacteria
+= a
+
+? [1] Allergen immunotherapy ("allergy shots") works by:
+- shifting the response toward IgG and regulatory T cells and away from IgE
+- removing mast cells
+- killing the allergen
+- blocking the thymus
+= a
+
+? [1] Common variable immunodeficiency (CVID) is characterized by:
+- low IgG (and usually IgA or IgM) with poor antibody responses to vaccines, usually diagnosed in adults
+- absent T cells at birth
+- high IgE
+- no thymus
+= a — treated with IVIG.
+
+? [1] X-linked agammaglobulinemia (Bruton's) differs from CVID because:
+- B cells are almost completely absent from birth due to a BTK mutation
+- T cells are absent
+- it is caused by HIV
+- it affects only adults
+= a
+
+? [1] SCID caused by adenosine deaminase (ADA) deficiency damages lymphocytes because:
+- toxic metabolites build up and kill developing T and B cells
+- the thymus is missing
+- antibodies attack lymphocytes
+- the bone marrow fails
+= a — gene therapy and bone marrow transplant are treatments.
+
+? [1] The most common form of SCID is X-linked, caused by a defect in the:
+- common gamma chain of several interleukin receptors
+- CFTR gene
+- CD4 receptor
+- complement C3
+= a
+
+? [1] Live vaccines should NOT be given to children with SCID because:
+- the weakened vaccine germ can cause serious infection
+- they cause allergies
+- they do not work in anyone
+- they cause autoimmunity
+= a
+
+? [1] HIV is classified as a:
+- retrovirus that uses reverse transcriptase to make DNA from its RNA
+- DNA virus
+- bacterium
+- prion
+= a
+
+? [1] The main routes of HIV transmission are:
+- blood, sexual contact, and mother to child (birth or breastfeeding)
+- coughing and sneezing
+- shaking hands
+- mosquito bites
+= a
+
+? [1] Pre-exposure prophylaxis (PrEP) means:
+- an HIV-negative person takes antiretroviral drugs to prevent infection
+- a vaccine against HIV
+- treatment after AIDS develops
+- testing for HIV
+= a
+
+? [1] In multiple sclerosis, the cells that attack myelin are mainly:
+- autoreactive T cells and macrophages, with B cells and antibodies
+- neutrophils
+- red blood cells
+- eosinophils only
+= a — myelin in the CNS is made by oligodendrocytes.
+
+? [1] A rheumatoid arthritis blood test that detects antibodies against the Fc portion of IgG is:
+- rheumatoid factor
+- ANA
+- anti-TPO
+- tryptase
+= a — anti-CCP is more specific.
+
+? [1] In rheumatoid arthritis, the inflamed synovial tissue that erodes cartilage and bone is called:
+- pannus
+- tophus
+- granuloma
+- plaque
+= a
+
+? [1] Rheumatoid arthritis usually affects joints:
+- symmetrically, especially the small joints of the hands and wrists, with morning stiffness over an hour
+- on one side only
+- only in the spine
+- only after injury
+= a — osteoarthritis is wear-and-tear, not autoimmune.
+
+? [1] Graves' disease is a type ___ hypersensitivity, because antibodies bind a cell-surface receptor.
+- I
+- II
+- III
+- IV
+= b — antibodies that stimulate a receptor are sometimes called "type V."
+
+? [1] A sign specific to Graves' disease is:
+- bulging eyes (exophthalmos)
+- weight gain
+- cold intolerance
+- slow heart rate
+= a
+
+? [1] Hashimoto's thyroiditis destroys thyroid cells mainly through:
+- T cells and antibodies against thyroid peroxidase and thyroglobulin
+- IgE
+- immune complexes in the kidneys
+- complement deficiency
+= a
+
+? [1] Myasthenia gravis weakness typically:
+- gets worse with use and improves with rest
+- is constant
+- affects only the heart
+- improves with exercise
+= a — many patients have a thymoma or enlarged thymus; thymectomy can help.
+
+? [1] Myasthenia gravis is classified as a type ___ hypersensitivity.
+- I
+- II
+- III
+- IV
+= b
+
+? [1] The Arthus reaction, a localized type III reaction, occurs:
+- at the site of an injection (such as a booster vaccine) in someone with high antibody levels, 4–12 hours later
+- within seconds
+- 48–72 hours later
+- only in the lungs
+= a — immune complexes form in vessel walls and activate complement.
+
+? [1] Serum sickness differs from the Arthus reaction because it is:
+- systemic, with immune complexes in many tissues 1–2 weeks after foreign protein or drugs
+- local
+- IgE-mediated
+- caused by T cells
+= a
+
+? [1] Contact dermatitis from nickel or poison ivy is caused by:
+- sensitized T cells that release cytokines 24–72 hours after contact
+- IgE on mast cells
+- immune complexes
+- antibodies against red blood cells
+= a — the small allergen acts as a hapten.
+
+? [1] A tuberculin (PPD) skin test reading is done at:
+- 15 minutes
+- 48–72 hours
+- 2 weeks
+- 6 months
+= b — a type IV (delayed) reaction.
+
+## B. True or False
+@ Write True or False.
+
+? [1] Humoral immunity is also called antibody-mediated immunity.
+= True
+
+? [1] Antigens are always complete.
+= False — haptens are incomplete antigens.
+
+? [1] T cells mature in the thymus.
+= True
+
+? [1] Vaccines provide passive immunity.
+= False — they provide artificial active immunity.
+
+? [1] Allergic contact dermatitis is a delayed (type IV) hypersensitivity reaction.
+= True
+
+? [1] Membrane attack complexes form from C3a and C3b.
+= False — they form from C5b–C9.
+
+? [1] Both B and T cell precursors originate in red bone marrow.
+= True
+
+? [1] During positive selection, T cells that fail to recognize self-MHC undergo apoptosis.
+= True
+
+? [1] T lymphocytes are professional antigen-presenting cells.
+= False — dendritic cells, macrophages and B cells are.
+
+? [1] IgA occurs as both a monomer and a pentamer.
+= False — it occurs as a monomer (in blood) and a dimer (in secretions).
+
+? [1] IgM is the most abundant antibody in plasma.
+= False — IgG is.
+
+? [1] There are two classes of MHC proteins: class A and class B.
+= False — they are class I and class II.
+
+? [1] Lymph comes from fluid that leaked out of blood capillaries.
+= True
+
+? [1] Lymph is pumped through the body by the heart.
+= False — it moves by skeletal muscle contraction, breathing and valves.
+
+? [1] Lymph nodes swell during infection because lymphocytes are dividing in response to antigen.
+= True
+
+? [1] Dendritic cells link innate and adaptive immunity.
+= True
+
+? [1] Autoimmunity is when the immune system recognizes your own tissues and does not react.
+= False — autoimmunity is an attack on self; ignoring self is tolerance.
+
+? [1] Another word for antigen is immunoglobulin.
+= False — immunoglobulin means antibody.
+
+? [1] Neutrophils make up about 60% of white blood cells.
+= True
+
+? [1] Macrophages are found in tissues; monocytes are their precursors in blood.
+= True
+
+? [1] The lymphatic system absorbs fats from the digestive system.
+= True — through lacteals.
+
+? [1] Mast cells secrete serotonin.
+= True — in humans mostly histamine, but mast cells can also release serotonin.
+
+? [1] Basophils and eosinophils are major phagocytes.
+= False — their main role is releasing chemicals; phagocytosis is limited.
+
+? [1] Innate immunity remembers each pathogen and responds faster the second time.
+= False — memory belongs to adaptive immunity.
+
+? [1] Helper T cells recognize antigen on MHC I.
+= False — they recognize antigen on MHC II.
+
+? [1] T-cell receptors only recognize antigens presented on MHC.
+= True
+
+? [1] Xenografts come from a genetically different member of the same species.
+= False — that is an allograft; a xenograft comes from another species.
+
+? [1] The earliest thymocytes express neither CD4 nor CD8.
+= True — they are "double negative," then become "double positive" before choosing one.
+
+? [1] Saliva does not contain IgA.
+= False
+
+? [1] Pleiotropy (one cytokine having many effects) is a property of cytokines.
+= True
+
+
+
+? [1] Skin is part of the innate immune system's first line of defense.
+= True
+
+? [1] The thymus is most active before puberty.
+= True
+
+? [1] Lymph nodes filter blood and the spleen filters lymph.
+= False — lymph nodes filter lymph; the spleen filters blood.
+
+? [1] Toll-like receptors are found on B cells and T cells only.
+= False — they are found mainly on innate cells such as macrophages and dendritic cells (and on many other cells).
+
+? [1] The complement system can kill bacteria by punching holes in their membranes.
+= True — through the membrane attack complex.
+
+? [1] A person must be exposed to an allergen at least once before having an allergic reaction to it.
+= True — the first exposure sensitizes them.
+
+? [1] Urticaria is always caused by an allergy.
+= False — hives can also come from cold, pressure, exercise, infections or unknown causes.
+
+? [1] CVID is usually diagnosed in infancy.
+= False — usually in teens or adults (ages 20–40 is common).
+
+? [1] SCID is often called "bubble boy" disease.
+= True
+
+? [1] HIV can be spread by mosquitoes.
+= False
+
+? [1] Multiple sclerosis affects the peripheral nervous system.
+= False — it affects the CNS (brain, spinal cord, optic nerves).
+
+? [1] Hashimoto's thyroiditis is the most common cause of hypothyroidism in the United States.
+= True
+
+? [1] Serum sickness is a type IV hypersensitivity.
+= False — it is type III.
+
+## C. Fill in the Blank
+
+? [3] The primary lymphoid organs are the ______ and ______. Name one secondary lymphoid organ.
+= red bone marrow and thymus; lymph node, spleen, tonsils, Peyer's patches or appendix
+
+? [2] List the five white blood cells from most to least abundant.
+= neutrophils, lymphocytes, monocytes, eosinophils, basophils ("Never Let Monkeys Eat Bananas")
+
+? [2] Helper T cells carry the surface protein ______; cytotoxic T cells carry ______.
+= CD4; CD8
+
+? [4] MHC class I is on ______ and presents to ______ T cells. MHC class II is on ______ and presents to ______ T cells.
+= all nucleated cells, CD8 (cytotoxic); antigen-presenting cells, CD4 (helper)
+
+? [2] Cytotoxic T cells kill by releasing ______ and ______.
+= perforin; granzymes
+
+? [3] An Rh-negative mother carrying an Rh-positive baby makes anti-Rh antibodies of class ______. This can cause ______ in a later pregnancy. It is prevented with ______.
+= IgG; hemolytic disease of the newborn (erythroblastosis fetalis); RhoGAM (anti-D immunoglobulin)
+
+? [5] The five cardinal signs of inflammation in Latin are rubor, calor, tumor, dolor and functio laesa. Give each in English.
+= redness, heat, swelling, pain, loss of function
+
+? [4] Name the four steps of phagocyte mobilization in order.
+= leukocytosis, margination, diapedesis, chemotaxis
+
+? [2] The two main antimicrobial proteins of innate defense are ______ and ______.
+= complement; interferons
+
+? [1] MALT stands for ______.
+= mucosa-associated lymphoid tissue
+
+? [1] The lymphoid follicles in the wall of the ileum are called ______.
+= Peyer's patches
+
+? [4] Waldeyer's ring consists of the ______, ______, ______ and ______ tonsils.
+= pharyngeal (adenoid), tubal, palatine, lingual
+
+? [1] Class I MHC proteins are on almost all body cells except ______.
+= red blood cells
+
+? [2] Antibodies are made of two ______ chains and two ______ chains.
+= heavy; light
+
+? [1] Pieces of an antigen that an antibody or receptor binds are called ______.
+= epitopes (antigenic determinants)
+
+? [1] B cells activated in a primary response become either ______ cells or memory B cells.
+= plasma
+
+? [1] ______ highlight molecules to be phagocytosed by binding receptors on phagocytes.
+= opsonins
+
+? [1] ______ is the breakdown of a cell caused by damage to its plasma membrane.
+= lysis
+
+? [2] Lymph is derived from ______ fluid and carries bacteria to lymph nodes, where they are destroyed by ______.
+= interstitial; macrophages (and lymphocytes)
+
+? [2] The red pulp of the spleen contains red blood cells, ______ and ______.
+= macrophages; lymphocytes (and other blood cells)
+
+? [2] Collectins, ficolins and pentraxins act as pattern recognition receptors and activate complement through the ______ or ______ pathway.
+= classical; lectin
+
+? [2] Phagocytes release two kinds of signaling molecules: ______ and ______.
+= cytokines; chemokines
+
+? [1] Interleukin-1, made by macrophages, promotes helper T-cell proliferation and causes ______.
+= fever
+
+? [1] A blood marker of inflammation made by the liver is C-______ protein.
+= reactive
+
+? [1] The rare disease in which a baby is born with very few or no functional T cells and B cells is ______ (initials).
+= SCID
+
+
+? [5] Name the organs of the immune system listed in the rules and one function of each: bone marrow, thymus, spleen, lymph nodes, skin.
+= Bone marrow: makes all blood cells; B-cell maturation. Thymus: T-cell maturation and selection. Spleen: filters blood, removes old red cells, mounts responses to blood-borne antigens. Lymph nodes: filter lymph; B and T cells meet antigen. Skin: physical and chemical barrier; Langerhans cells capture antigens.
+
+? [3] The three complement activation pathways are the ______, ______ and ______ pathways.
+= classical, lectin (mannose-binding lectin), alternative
+
+? [3] Name three anatomical or physical barriers of innate immunity.
+= any three: skin, mucous membranes, mucus, cilia (mucociliary escalator), vibrissae, tears, saliva, stomach acid, tight junctions, normal microbiota
+
+? [4] Name four innate immune cells.
+= any four: neutrophils, macrophages/monocytes, dendritic cells, NK cells, eosinophils, basophils, mast cells
+
+? [2] Antibodies against thyroid ______ and thyroglobulin are typical of Hashimoto's; antibodies that stimulate the ______ receptor cause Graves'.
+= peroxidase (TPO); TSH (thyrotropin)
+
+? [2] In myasthenia gravis, drooping eyelids are called ______ and the drugs that boost acetylcholine are acetylcholinesterase ______.
+= ptosis; inhibitors (e.g., pyridostigmine)
+
+? [2] The treatment for CVID and other antibody deficiencies is replacement with ______ (abbreviation).
+= IVIG (intravenous immunoglobulin)
+
+## D. Matching
+
+? [4] Match each graft type.
+| Graft | Donor |
+| 1. Autograft | a. Another species |
+| 2. Isograft | b. Genetically different person of the same species |
+| 3. Allograft | c. The patient's own tissue |
+| 4. Xenograft | d. Identical twin |
+= 1-c, 2-d, 3-b, 4-a
+
+? [8] Match each disease to what the immune system attacks or how it presents.
+| Disease | Target or feature |
+| 1. Multiple sclerosis | a. Joint linings; swollen, deformed joints |
+| 2. Myasthenia gravis | b. Pancreatic beta cells |
+| 3. Graves' disease | c. Myelin in the CNS |
+| 4. Hashimoto's thyroiditis | d. Antibodies stimulate the TSH receptor; hyperthyroid |
+| 5. Rheumatoid arthritis | e. Thyroid destroyed; hypothyroid, weight gain |
+| 6. Type 1 diabetes | f. Acetylcholine receptors at the neuromuscular junction |
+| 7. Lupus (SLE) | g. Gluten triggers damage to intestinal villi |
+| 8. Celiac disease | h. Nuclear antigens (DNA, histones); butterfly rash |
+= 1-c, 2-f, 3-d, 4-e, 5-a, 6-b, 7-h, 8-g
+
+? [8] Match each cell to its function.
+| Cell | Function |
+| 1. Neutrophil | a. Secretes antibodies |
+| 2. Eosinophil | b. Most abundant white cell; first to arrive at infection |
+| 3. Basophil / mast cell | c. Becomes a macrophage in tissues |
+| 4. Monocyte | d. Kills parasitic worms; role in allergy |
+| 5. NK cell | e. Releases histamine and heparin |
+| 6. Plasma cell | f. Dampens T- and B-cell activity |
+| 7. Regulatory T cell | g. Kills tumor and virus-infected cells without prior sensitization |
+| 8. Memory B cell | h. Long-lived; speeds the secondary response |
+= 1-b, 2-d, 3-e, 4-c, 5-g, 6-a, 7-f, 8-h
+
+? [5] Match each antibody to its description.
+| Antibody | Description |
+| 1. IgM | a. Main antibody of late primary and secondary responses; crosses the placenta |
+| 2. IgG | b. Dimer in saliva, tears, milk and intestinal juice |
+| 3. IgA | c. First antibody secreted in a primary response; pentamer; strongly fixes complement |
+| 4. IgD | d. B-cell antigen receptor on naive B cells |
+| 5. IgE | e. Stem binds mast cells and basophils; triggers histamine release |
+= 1-c, 2-a, 3-b, 4-d, 5-e
+
+? [5] Match each inflammatory chemical to its source.
+| Chemical | Source |
+| 1. Histamine | a. Fatty acids made from arachidonic acid |
+| 2. Kinins | b. Granules of mast cells and basophils |
+| 3. Prostaglandins | c. Plasma proteins cleaved by kallikrein |
+| 4. Complement | d. Secreted by activated macrophages and lymphocytes |
+| 5. Cytokines | e. Pro-proteins made mainly in the liver |
+= 1-b, 2-c, 3-a, 4-e, 5-d
+
+? [8] Match each cytokine to its function.
+| Cytokine | Function |
+| 1. Interferon alpha/beta | a. Activates macrophages; increases MHC expression |
+| 2. Interferon gamma | b. Antiviral; activates NK cells |
+| 3. IL-1 | c. Causes fever and promotes T-cell activation |
+| 4. IL-2 | d. Stimulates T- and B-cell proliferation |
+| 5. IL-4 | e. Promotes Th2 cells and switching to IgE |
+| 6. IL-5 | f. Attracts and activates eosinophils |
+| 7. IL-10 | g. Turns down immune responses; inhibits macrophages |
+| 8. TNF | h. Promotes inflammation and apoptosis |
+= 1-b, 2-a, 3-c, 4-d, 5-e, 6-f, 7-g, 8-h
+
+? [8] For each item, write the line of defense it belongs to (1st, 2nd or 3rd): a) skin  b) plasma cell  c) neutrophil  d) lysozyme in tears  e) inflammation  f) antibodies  g) helper T cell  h) normal microbiota
+= a) 1st  b) 3rd  c) 2nd  d) 1st  e) 2nd  f) 3rd  g) 3rd  h) 1st
+
+? [8] Classify each as active or passive, and natural or artificial: a) infection with a pathogen  b) antibodies passed from mother to fetus  c) injection of gamma globulin  d) injection of an attenuated (weakened) pathogen
+= a) natural active  b) natural passive  c) artificial passive  d) artificial active
+
+? [4] Match the hypersensitivity type to its example.
+| Type | Example |
+| 1. Type I | a. Serum sickness, lupus nephritis |
+| 2. Type II | b. Poison ivy rash the next day |
+| 3. Type III | c. Hay fever, peanut anaphylaxis |
+| 4. Type IV | d. Mismatched blood transfusion |
+= 1-c, 2-d, 3-a, 4-b
+
+? [5] Identify the disorder: a) Women who are or recently were pregnant are at higher risk.  b) Anti-citrullinated protein antibodies are present.  c) Four courses include relapsing-remitting and primary progressive.  d) Treated with antiretrovirals and reverse transcriptase inhibitors.  e) Baby born without a thymus and with low calcium.
+= a) Graves' disease  b) rheumatoid arthritis  c) multiple sclerosis  d) HIV/AIDS  e) DiGeorge syndrome
+
+
+? [8] Match each condition to its hypersensitivity type (I, II, III or IV).
+| Condition | Type |
+| 1. Anaphylaxis | |
+| 2. Urticaria (allergic hives) | |
+| 3. Myasthenia gravis | |
+| 4. Arthus reaction | |
+| 5. Serum sickness | |
+| 6. Contact dermatitis | |
+| 7. Hemolytic disease of the newborn | |
+| 8. Tuberculin skin test | |
+= 1-I, 2-I, 3-II, 4-III, 5-III, 6-IV, 7-II, 8-IV
+
+? [5] Match the immunodeficiency to its description.
+| Disorder | Description |
+| 1. HIV/AIDS | a. Acquired; virus destroys CD4 T cells |
+| 2. CVID | b. Low antibodies, poor vaccine response; often diagnosed in adults |
+| 3. SCID | c. Absent or nonfunctional T and B cells from birth |
+| 4. DiGeorge syndrome | d. Missing thymus and parathyroids; low T cells and low calcium |
+| 5. X-linked agammaglobulinemia | e. No mature B cells; BTK mutation; boys |
+= 1-a, 2-b, 3-c, 4-d, 5-e
+
+? [6] Match each toll-like receptor to what it recognizes.
+| Receptor | Recognizes |
+| 1. TLR2 | a. Lipopolysaccharide (gram-negative bacteria) |
+| 2. TLR3 | b. Flagellin |
+| 3. TLR4 | c. Unmethylated CpG DNA |
+| 4. TLR5 | d. Lipoteichoic acid and lipoproteins (gram-positive bacteria) |
+| 5. TLR7 | e. Double-stranded RNA (viruses) |
+| 6. TLR9 | f. Single-stranded RNA (viruses) |
+= 1-d, 2-e, 3-a, 4-b, 5-f, 6-c
+
+## E. Data and Calculations
+
+? [6] Two children have frequent infections. Use their blood results to answer.
+| Measure | Normal | Wednesday | Tuesday |
+| IgG (mg/dL) | 640–1430 | 340 | 300 |
+| IgA (mg/dL) | 70–300 | 40 | 30 |
+| IgM (mg/dL) | 20–140 | 50 | 10 |
+| CD4 T cells (cells/mm3) | 500–1200 | 700 | 300 |
+| B cells (cells/µL) | 1000–4800 | 1200 | 4600 |
+| NK cells (cells/µL) | 500–3100 | 1500 | 200 |
+> a) What type of immunodeficiency does each child most likely have? b) Tuesday has normal B-cell numbers. Give one reason his antibodies are still low. c) For each treatment write W, T, both (B) or neither (N): IVIG, bone marrow transplant, antibiotics, gene therapy.
+= a) Wednesday: antibody (humoral) deficiency such as CVID — Ig low, cell counts normal. Tuesday: SCID (T−, B+, NK− pattern, e.g., X-linked common gamma chain defect). b) B cells need helper T-cell signals (cytokines, CD40L) to class-switch and become plasma cells. c) IVIG – B; bone marrow transplant – T; antibiotics – B; gene therapy – T.
+
+? [5] Wednesday has septic shock and a nurse has anaphylactic shock. For each treatment write W, N (nurse), B (both) or NA (neither): IV fluids, antibiotics, steroids, antihistamines, epinephrine.
+= IV fluids – B; antibiotics – W; steroids – B; antihistamines – N; epinephrine – B (norepinephrine is preferred in septic shock).
+
+? [2] Each person inherits one HLA haplotype from each parent. What is the chance that two siblings are HLA-identical? What is the chance that at least one of two siblings matches a patient?
+= 1/4 (25%); 1 − (3/4)² = 7/16 ≈ 43.8%
+
+? [3] A blood smear shows 70% neutrophils with many band (immature) forms. What does this suggest? What would a smear with 15% eosinophils suggest?
+= Neutrophilia with a "left shift": acute bacterial infection. Eosinophilia: parasitic worm infection or allergy/asthma.
+
+? [3] A 10-year-old girl has a CD4 count of 89 cells/µL, recurrent pneumonia, tuberculosis, chronic diarrhea and severe anemia. Name the disease. Why does she keep getting pneumonia? Name one class of drugs used to treat her.
+= AIDS (advanced HIV infection; CD4 < 200). Without helper T cells, she cannot activate B cells, cytotoxic T cells and macrophages, so opportunistic infections such as Pneumocystis pneumonia take hold. Drug classes: nucleoside/nucleotide reverse transcriptase inhibitors, non-nucleoside RT inhibitors, protease inhibitors, integrase inhibitors, fusion/entry inhibitors.
+
+## F. Short Answer and Case Studies
+
+? [3] Give three differences between innate and adaptive immunity.
+= Innate: present from birth, nonspecific, acts in minutes to hours, no memory, germline-encoded receptors (PRRs). Adaptive: acquired, specific to one antigen, takes days the first time, has memory, receptors made by gene rearrangement.
+
+? [4] Name the cardinal signs of inflammation and explain how histamine produces two of them.
+= Redness, heat, swelling, pain (and loss of function). Histamine dilates arterioles (redness, heat) and makes capillaries leaky, so fluid enters tissue (swelling) and presses on nerves (pain).
+
+? [2] Give one reason a high fever helps and one reason it can harm.
+= Helps: slows microbial growth, the liver and spleen hold back iron and zinc, speeds repair and immune activity. Harms: very high fever denatures proteins, can cause seizures and dehydration, and raises heart rate and O2 demand.
+
+? [5] Name five ways antibodies inactivate antigens.
+= Neutralization, agglutination, precipitation, complement activation (fixation), opsonization (also antibody-dependent cell-mediated cytotoxicity).
+
+? [8] Complete the table of hypersensitivity types.
+| Type | Mediator | Example |
+| I | | |
+| II | | |
+| III | | |
+| IV | | |
+= I (immediate): IgE on mast cells and basophils, histamine — anaphylaxis, hay fever, asthma. II (cytotoxic): IgG/IgM against cell-surface antigens, complement — transfusion reaction, HDN, Graves', myasthenia gravis. III (immune complex): antigen–antibody complexes deposited in tissue — serum sickness, lupus, Arthus reaction. IV (delayed): T cells and macrophages — contact dermatitis, TB skin test, transplant rejection.
+
+? [2] Why can a bone marrow transplant from an identical twin be given with little risk of rejection?
+= An identical twin has the same MHC (HLA) proteins, so the cells are recognized as self; there is little rejection or graft-versus-host disease.
+
+? [3] Cancer cells are "self." How can the immune system still recognize them? Use the terms MHC I and neoantigen, and name two cells that kill them.
+= Mutated proteins are broken down and their fragments (neoantigens) are shown on MHC I, where cytotoxic T cells recognize them as nonself. Cancer cells that hide by lowering MHC I are killed by NK cells. Cells: CD8 cytotoxic T cells and NK cells.
+
+? [4 | TB] Describe T-cell development in the thymus, including positive and negative selection.
+= Precursors from bone marrow enter the thymus and build T-cell receptors (double negative → double positive CD4+CD8+). Positive selection (cortex): cells that bind self-MHC weakly survive; those that cannot bind die. Cells become CD4 (MHC II) or CD8 (MHC I) single positive. Negative selection (medulla): cells that bind self-antigen too strongly undergo apoptosis, creating self-tolerance. Survivors leave as naive T cells.
+
+? [2] How does a B cell switch from making IgM to IgG or IgE?
+= Class switching: helper T cells give signals (CD40L and cytokines such as IL-4 for IgE) that make the B cell recombine its DNA, swapping the heavy-chain constant region while keeping the same variable region and specificity.
+
+? [4] Name the four kinds of acquired immunity with one example each.
+= Natural active – recovering from chickenpox. Artificial active – a vaccine. Natural passive – maternal IgG across the placenta or IgA in breast milk. Artificial passive – antivenom or IVIG.
+
+? [3] Describe the complement cascade and its three main outcomes.
+= Complement proteins circulate inactive and are activated in a cascade by the classical (antibody), lectin or alternative (microbial surface) pathway, all converging on cleavage of C3. Outcomes: opsonization (C3b), inflammation and chemotaxis (C3a, C5a), and lysis by the membrane attack complex (C5b–C9).
+
+? [3] Why do complement proteins circulate in an inactive (pro-) form?
+= They are powerful inducers of inflammation and cell lysis; keeping them inactive until a pathogen is detected protects the body's own cells.
+
+? [2] How does the innate immune system recognize pathogens?
+= Pattern recognition receptors (such as toll-like receptors) bind pathogen-associated molecular patterns (PAMPs) shared by broad classes of microbes, such as LPS, flagellin and viral double-stranded RNA.
+
+? [5] AIDS: what type of pathogen causes it? Describe its effect on weight, lymph nodes and body temperature. Can people with HIV live long lives today?
+= A retrovirus (HIV). Weight loss (wasting), swollen lymph nodes and recurring fevers. Yes — antiretroviral therapy suppresses the virus so people can live near-normal lifespans.
+
+? [4] Explain how HIV replicates and give two drug targets.
+= HIV gp120 binds CD4 and a co-receptor (CCR5 or CXCR4); gp41 fuses the membranes; reverse transcriptase copies RNA into DNA; integrase inserts it into host DNA; new proteins are cut by protease and virions bud off. Drug targets: entry/fusion, reverse transcriptase, integrase, protease.
+
+? [4] A 45-year-old woman has constipation, fatigue, weight gain, dry skin and a lump in her neck. Name the disease, the antibodies elevated, the hormone results and one treatment.
+= Hashimoto's thyroiditis. Anti-thyroid peroxidase and anti-thyroglobulin antibodies. High TSH, low T3 and T4. Levothyroxine.
+
+? [5] Clara, 33, has had mononucleosis and now has dizziness, arm weakness and tingling, and partial loss of vision in one eye. MRI shows white-matter lesions. Name the disease and give four supporting reasons. How is it treated? Can it be cured?
+= Multiple sclerosis: neurological symptoms in different places at different times; optic neuritis (vision loss); MRI lesions in CNS white matter (demyelination); young woman; prior Epstein-Barr virus (mono) is a known risk factor; oligoclonal bands in cerebrospinal fluid. Treatment: corticosteroids for flares, disease-modifying drugs (interferon beta, monoclonal antibodies), physical therapy. No cure.
+
+? [5] Jonny, a pianist, has stiff, painful, red, warm, swollen finger and wrist joints, a high sedimentation rate and abnormal antibodies. Name the disease. What is happening in the joints? Would neutrophils in his joint fluid be normal, high or low? Can he be cured? Name one long-term treatment.
+= Rheumatoid arthritis. The immune system attacks the synovial membrane, which thickens (pannus) and erodes cartilage and bone. High — neutrophils flood inflamed joints. No cure. DMARDs (e.g., methotrexate), biologics (TNF inhibitors), NSAIDs, low-dose steroids, physical therapy.
+
+? [4] A boy has a red facial rash, fever, painful joints, hair loss and swollen lymph nodes. Name the disease and give two treatments. Should he keep playing soccer outdoors?
+= Systemic lupus erythematosus. Hydroxychloroquine, NSAIDs, corticosteroids, immunosuppressants. He can stay active (exercise helps) but must use strong sun protection and rest during flares.
+
+? [5] A patient has an anaphylactic reaction. Explain what happens in the body, the blood test that confirms it, and how epinephrine helps.
+= Allergen cross-links IgE on mast cells and basophils, which release histamine and other mediators: vasodilation drops blood pressure, leaky vessels cause swelling, bronchi constrict. Serum tryptase confirms mast-cell activation. Epinephrine constricts blood vessels (raises pressure) and relaxes airway smooth muscle.
+
+? [2] What is the difference between a food allergy and a food intolerance?
+= An allergy is an immune (often IgE) response to a food protein. An intolerance does not involve the immune system, such as lactose intolerance caused by missing lactase.
+
+? [6] Transplant patients: Patient 3's graft clots within minutes; Patient 4 has reduced kidney function and flu-like symptoms 2 months after transplant; Patient 5's liver loses bile ducts over years. What condition do they share, why does it occur, and what is each type called?
+= Transplant rejection: the recipient's immune system recognizes donor HLA as foreign. Patient 3: hyperacute (pre-existing antibodies; remove graft). Patient 4: acute (T-cell mediated; treat with higher-dose immunosuppressants and steroids). Patient 5: chronic rejection.
+
+? [2] Why does an Rh-negative mother usually not harm her first Rh-positive baby?
+= She is only sensitized at delivery when fetal blood enters her circulation. Her first antibodies are IgM, which cannot cross the placenta; IgG made in later pregnancies does cross it.
+
+? [3] Explain why someone who had chickenpox as a child usually does not get it again.
+= Memory B and T cells made in the first infection respond quickly and strongly on re-exposure (secondary response), producing high levels of IgG before the virus can cause disease.
+
+? [3] Why does a person with HIV become susceptible to infections that would not harm a healthy person?
+= HIV destroys CD4 helper T cells, which activate B cells, cytotoxic T cells and macrophages. With few helper cells, both antibody and cell-mediated responses fail, so opportunistic infections (Pneumocystis pneumonia, TB, candidiasis, Kaposi sarcoma) take hold.
+
+? [2] Explain how the thymus changes with age and why.
+= It is large in children and shrinks after puberty, with lymphoid tissue replaced by fat (thymic involution), as part of immune aging and influenced by sex hormones and steroids. Fewer new T cells are made, but existing memory T cells persist.
+
+
+? [5] Describe the sequence of events in an allergic reaction from first exposure to symptoms.
+= Sensitization: an allergen is taken up by APCs and shown to Th2 cells; IL-4 drives B cells to make IgE, which binds Fc receptors on mast cells and basophils. Re-exposure: the allergen cross-links bound IgE, triggering degranulation. Histamine, leukotrienes and prostaglandins cause vasodilation, leaky vessels, smooth-muscle contraction, mucus and itching within minutes. A late phase hours later brings eosinophils and more inflammation.
+
+? [5] Describe the primary immune response to a new bacterial infection, from entry to antibody production.
+= Barriers are breached; complement and neutrophils/macrophages respond (inflammation). Dendritic cells capture antigen, travel to a lymph node and present it on MHC II to helper T cells. Helper T cells activate B cells specific to the antigen (CD40L, cytokines). B cells proliferate (clonal selection), class-switch and become plasma cells making antibodies (IgM first, then IgG) and memory cells. Antibodies neutralize, opsonize and activate complement. Peak about 10–14 days.
+
+? [4] Compare humoral and cell-mediated immunity.
+= Humoral: B cells and antibodies in body fluids; targets extracellular pathogens and toxins; antigens recognized directly. Cell-mediated: T cells; CD8 cells kill infected or cancer cells, CD4 cells direct the response; antigen recognized only on MHC; key in viral infections, cancer and transplant rejection.
+
+? [4] Describe the four steps of acute inflammation and its purpose.
+= Injury or infection triggers mast cells and macrophages to release histamine, cytokines and other mediators. Vasodilation and increased permeability bring fluid, proteins and clotting factors (redness, heat, swelling, pain). Phagocytes are mobilized (margination, diapedesis, chemotaxis) and destroy microbes. Repair follows. Purpose: contain and destroy pathogens, remove debris and begin healing.
+
+? [4] Explain how toll-like receptors link innate and adaptive immunity.
+= TLRs on dendritic cells and macrophages detect PAMPs, activating NF-κB and the release of cytokines. This makes dendritic cells mature, display more MHC and co-stimulatory molecules (B7) and travel to lymph nodes, where they activate naive T cells, starting the adaptive response.
+
+? [5] A 30-year-old has had repeated sinus infections, pneumonia and diarrhea for years. Tests show low IgG and IgA, normal B-cell numbers and a poor response to the tetanus vaccine. Name the disorder, explain the defect, and give its treatment.
+= Common variable immunodeficiency (CVID). B cells are present but fail to mature into plasma cells and make antibodies, so the person cannot clear encapsulated bacteria. Treatment: lifelong IVIG or subcutaneous immunoglobulin, and antibiotics for infections.
+
+? [5] A 4-month-old boy has thrush, chronic diarrhea, failure to thrive and Pneumocystis pneumonia. He has very few T cells. Name the disorder, explain why both T and B immunity fail, and give two treatments.
+= Severe combined immunodeficiency (SCID). Without functional T cells, B cells cannot be activated, so both cell-mediated and antibody immunity fail. Treatment: bone marrow (stem cell) transplant, gene therapy, enzyme replacement (for ADA-SCID), IVIG; avoid live vaccines.
+
+? [5] Describe the stages of HIV infection and how it is diagnosed.
+= Acute infection (2–4 weeks): flu-like illness, high viral load. Clinical latency: few symptoms for years while CD4 counts fall slowly. AIDS: CD4 below 200 cells/µL or an AIDS-defining illness (Pneumocystis pneumonia, Kaposi sarcoma, TB). Diagnosed with antigen/antibody tests (p24 antigen and anti-HIV antibodies), confirmed with viral load testing.
+
+? [5] Compare rheumatoid arthritis and multiple sclerosis: target, cells involved, symptoms and treatment.
+= RA: synovial joint lining; T cells, B cells (rheumatoid factor, anti-CCP), macrophages; symmetric painful, swollen joints with morning stiffness; DMARDs (methotrexate), biologics (TNF inhibitors), steroids, NSAIDs. MS: CNS myelin; autoreactive T cells, B cells, macrophages; vision loss, numbness, weakness, balance problems in flares; steroids for flares, disease-modifying drugs (interferon beta, anti-CD20 antibodies).
+
+? [4] Compare Graves' disease and Hashimoto's thyroiditis.
+= Graves': antibodies stimulate the TSH receptor; hyperthyroid (weight loss, heat intolerance, fast heart rate, bulging eyes, goiter); low TSH, high T3/T4; treated with antithyroid drugs, radioactive iodine or surgery. Hashimoto's: T cells and anti-TPO/thyroglobulin antibodies destroy the gland; hypothyroid (weight gain, fatigue, cold intolerance, dry skin); high TSH, low T4; treated with levothyroxine.
+
+? [4] A teacher has drooping eyelids and double vision by the end of each school day, and her arm tires when writing on the board. Name the disorder and explain the mechanism. What test and treatment are used?
+= Myasthenia gravis: antibodies block and destroy acetylcholine receptors at the neuromuscular junction (type II), so repeated stimulation weakens contraction. Test: anti-AChR antibodies (also the ice-pack or edrophonium test, EMG). Treatment: acetylcholinesterase inhibitors (pyridostigmine), immunosuppressants, thymectomy, IVIG or plasmapheresis for crises.
+
+? [4] A child gets a tetanus booster and 8 hours later has a painful, red, swollen area at the injection site. A week after receiving a drug made from animal serum, another patient develops fever, rash and joint pain. Name each reaction, its type and its mechanism.
+= First: Arthus reaction (type III, local) — high antibody levels form immune complexes with the antigen in local vessel walls, activating complement and neutrophils. Second: serum sickness (type III, systemic) — antibodies to foreign proteins form complexes that deposit in joints, skin and kidneys.
+
+? [3] A gardener develops an itchy, blistering rash two days after handling poison ivy. Name the condition, its hypersensitivity type and why it takes days to appear.
+= Allergic contact dermatitis, type IV (delayed). Urushiol acts as a hapten; sensitized T cells must be recruited to the skin and release cytokines that attract macrophages, which takes 24–72 hours.
+
+? [3] What is the difference between urticaria and anaphylaxis?
+= Urticaria is a local skin reaction (itchy hives) from mast-cell histamine. Anaphylaxis is a severe, systemic type I reaction involving two or more body systems (skin, airway, circulation, gut), with airway swelling and low blood pressure; it can kill within minutes and needs epinephrine.

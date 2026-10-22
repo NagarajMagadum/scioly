@@ -1,0 +1,14 @@
+{
+  "subject": { "slug": "disease-detectives", "name": "Disease Detectives" },
+  "set": {
+    "slug": "disease-detectives-b-2026",
+    "title": "Disease Detectives Division B",
+    "description": "Practice questions for 2026–27."
+  },
+  "topics": {
+    "E": [
+      ["Outbreak investigation steps", "outbreak|investigation|case definition|epi curve"],
+      ["Measures of disease frequency", "incidence|prevalence|attack rate|rate ratio"]
+    ]
+  }
+}
